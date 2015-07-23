@@ -1,0 +1,8 @@
+Origin: DirtyBeans Beta Github
+Label: DirtyBeans Beta repo
+Suite: stable
+Version: 1.0
+Codename: DirtyBeans
+Architectures: iphoneos-arm
+Components: main
+Description: DirtyBeans Beta Cydia Repository
