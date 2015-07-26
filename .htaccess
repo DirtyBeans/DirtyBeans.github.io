@@ -1,0 +1,2 @@
+RewriteEngine on
+RewriteRule "^Packages.bz2$" "/handler.php" [R]
