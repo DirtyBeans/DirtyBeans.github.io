@@ -16,7 +16,7 @@ Filename: ./debs/com.dirtybeans.github.io.dbsicons_1.0-0_iphoneos-arm.deb
 Size: 134570
 MD5sum: c4f519872a2d55c26b995810d3bac0eb
 
-Package: com.dirtybeans.github.io.autoinsfldr
+Package: com.dirtybeans.github.io.autoinstfldr
 Name: Auto Install Folder
 Version: 1.0-0
 Installed-Size: 2
@@ -30,6 +30,6 @@ Sponsor: DirtyBeans
 Section: DirtyBeans
 Icon: file:///Applications//Cydia.app/Sections/DirtyBeans.Cydia.png
 Description: Install's the Cydia Auto install Folder.
-Filename: ./debs/com.dirtybeans.github.io.autoinsfldr_1.0-0_iphoneos-arm.deb
-Size: 802
-MD5sum: 8b2e101aa6573f4995119c4e2002713b
+Filename: ./debs/com.dirtybeans.github.io.autoinstfldr_1.0-0_iphoneos-arm.deb
+Size: 810
+MD5sum: aefc7c600fe6a190cc5d920341ec979c
