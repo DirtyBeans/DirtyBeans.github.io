@@ -1,2 +1,2 @@
 # DirtyBeans.github.io
-DirtyBeans Beta Tests
+DirtyBeans beta app testing, etc.
