@@ -33,3 +33,25 @@ Description: Install's the Cydia Auto install Folder.
 Filename: ./debs/com.dirtybeans.github.io.autoinstfldr_1.0-0_iphoneos-arm.deb
 Size: 802
 MD5sum: 11f00976159e875fc61edf0631731805
+
+Package: com.dirtybeans.csources2
+Depends: firmware (>= 6.0)
+Conflicts: org.thebigboss.csources, com.myrepospace.dirtybeans.csources2, com.dirtybeans.github.io.csources2
+Replaces: org.thebigboss.csources, com.myrepospace.dirtybeans.csources2, com.dirtybeans.github.io.csources2
+Name: CSources2
+Version: 600.841-1
+Architecture: iphoneos-arm
+Description: manage & toggle apt source entries
+Depiction: http://dirtybeans.github.io/csources2.html
+Homepage: http://dirtybeans.github.io/csources2.html
+Installed-Size: 18022
+Maintainer: DirtyBeans <DirtyBeans@ca.rr.com>
+Author: DirtyBeans <DirtyBeans@ca.rr.com>
+Sponsor: DirtyBeans <DirtyBeans@ca.rr.com>
+Section: Utilities
+dev: dirtybeans
+Tag: cydia::commercial, purpose::uikit, compatible::ios7, compatible::ios8
+Icon: file:///Applications/CSources2.app/AppIcon57x57.png
+Filename: ./debs/com.dirtybeans.csources2_600.841-1_iphoneos-arm.deb
+Size: 10671732
+MD5sum: 87ff6d489580a7ad73fc481c7a0e50c3
