@@ -1,0 +1,35 @@
+Package: com.dirtybeans.github.io.dbsicons
+Name: DBs Beta Icons
+Version: 1.0-0
+Installed-Size: 257
+Architecture: iphoneos-arm
+Maintainer: DirtyBeans@ <DirtyBeans@ca.rr.com>
+Suggests: com.dirtybeans.github.io.dbsicons
+Homepage: http://dirtybeans.github.io
+Author: DirtyBeans@ <DirtyBeans@ca.rr.com>
+Depiction: http://dirtybeans.github.io/dbsicons.html
+Sponsor: DirtyBeans
+Section: Repositories
+Icon: file:///Applications//Cydia.app/Sources/dirtybeans.com.png
+Description: Install's DirtyBeans Beta Icons.
+Filename: ./debs/com.dirtybeans.github.io.dbsicons_1.0-0_iphoneos-arm.deb
+Size: 134562
+MD5sum: 6b44ccee4f0890f9590f4c9c445a74d7
+
+Package: com.dirtybeans.github.io.autoinstfldr
+Name: Auto Install Folder
+Version: 1.0-0
+Installed-Size: 2
+Architecture: iphoneos-arm
+Maintainer: DirtyBeans@ <DirtyBeans@ca.rr.com>
+Homepage: http://dirtybeans.github.io
+Depends: com.dirtybeans.github.io.dbsicons
+Author: DirtyBeans@ <DirtyBeans@ca.rr.com>
+Depiction: http://dirtybeans.github.io/autoinstfldr.html
+Sponsor: DirtyBeans
+Section: DirtyBeans
+Icon: file:///Applications//Cydia.app/Sections/DirtyBeans.Cydia.png
+Description: Install's the Cydia Auto install Folder.
+Filename: ./debs/com.dirtybeans.github.io.autoinstfldr_1.0-0_iphoneos-arm.deb
+Size: 802
+MD5sum: 11f00976159e875fc61edf0631731805
