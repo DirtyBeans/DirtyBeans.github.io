@@ -1,0 +1,150 @@
+iframe {
+    border: 0
+}
+a, button {
+    color: #007aff;text-decoration:none}button{background:0 0;border:0;margin:0;padding:0;-webkit-appearance:none;appearance:none}html{background:# efeff4
+}
+html.depiction {
+    background: 0 0
+}
+body {
+    font: 16 px - apple - system - font,
+    ".Helvetica NeueUI",
+    "Helvetica Neue",
+    sans - serif;margin: 80 px 0 35 px
+}.cydia body {
+    margin - top: 35 px
+}.depiction body {
+    margin - top: 0;
+    margin - bottom: 0
+}@
+media(min - width: 708 px) {#
+    content {
+        width: 708 px;margin: 0 auto
+    }
+}@
+media(min - width: 964 px) {#
+    content {
+        width: 964 px
+    }
+}
+body > p, h2, header.date, p[role = "footer"] {
+    margin: 15 px;color: #6d6d72;font-size:14px;font-weight:400}@media (min-width:708px){body>p,h2,p[role= "footer"] {
+    margin - left: 0;
+    margin - right: 0
+}
+}
+h2, header.date {
+    text - transform: uppercase;
+    margin - bottom: 5 px
+}
+h2 a, h2 header.date, header h2.date {
+    color: inherit
+}
+h2 a: active, h2 a: focus, h2 a: hover, h2 header.date, header h2.date {
+    text - decoration: underline
+}
+hr {
+    border: 0;border - top: 1 px solid rgba(0, 0, 0, .1)
+}
+body > header {
+    position: fixed;top: 0;left: 0;width: 100 % ;height: 44 px;z - index: 10;background: rgba(255, 255, 255, .95);border - bottom: 1 px solid rgba(0, 0, 0, .1)
+}
+body > header h1 {
+    margin: 0;text - align: center;font - size: 18 px;line - height: 44 px;font - weight: 500
+}.cydia body > header {
+    display: none
+}.cydia body > header + p {
+    margin - top: -20 px
+}
+ul {
+    margin: 5 px 0 35 px;padding: 0;list - style: none;background: #fff
+}
+ul: after, ul: before {
+    content: "";display: block;height: 1 px;background: rgba(0, 0, 0, .1)
+}@
+media(min - width: 708 px) {
+    ul: after,
+    ul: before {
+        display: none
+    }
+}
+ul li {
+    border - bottom: 1 px solid rgba(0, 0, 0, .1);
+    margin - left: 15 px;
+    padding: 13 px 15 px 13 px 0
+}
+ul li: last - child {
+    border - bottom: 0
+}
+ul li[role = "button"], ul li[role = "link"], ul li p {
+    padding: 13 px 15 px;margin: -13 px - 15 px
+}
+ul li[role = "button"] + p, ul li[role = "link"] + p, ul li p + p {
+    padding - top: 0;
+    margin - top: 0
+}
+ul li[role = "button"], ul li[role = "link"] {
+    display: block;color: #007aff;padding-right:30px;position:relative;z-index:2}ul li [role= "button"]: after, ul li[role = "link"]: after {
+    content: "";display: block;background: url(data: image / svg + xml; base64, PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NSIgaGVpZ2h0PSI5OSI + PHBvbHlnb24gcG9pbnRzPSIzNC43LDQ5LjcgMCw4NC40IDE1LjEsOTkuNSA2NC44LDQ5LjcgNDkuNywzNC43IDE1LjEsMCAwLDE1LjEiIHN0eWxlPSJmaWxsOiNjN2M3Y2MiLz48L3N2Zz4 = ) 0 0 / 100 % 100 % ;position: absolute;top: 50 % ;right: 15 px;width: 10 px;height: 13 px;margin - top: -6.5 px
+}
+ul li > button {
+    font: inherit;width: 100 % ;text - align: left
+}
+ul li.pull - in {
+    vertical - align: top
+}@
+media(max - width: 708 px) {
+    ul li.pull - in {
+        margin: -13 px - 15 px
+    }
+}
+ul + [role = "footer"], ul + p {
+    margin - top: -25 px
+}
+img {
+    max - width: 290 px
+}
+blockquote {
+    border - left: 4 px solid# c9c9cd;
+    margin - left: 20 px;
+    padding - left: 8 px;
+    font - style: italic
+}
+code {
+    font - family: "Source Code Pro", Monaco, Menlo, Consolas, monospace
+}
+header.date {
+    float: right;margin - top: 0;margin - bottom: 0
+}@
+media(min - width: 708 px) {
+    header.date {
+        margin - left: 0;
+        margin - right: 0
+    }
+}
+footer: first - child {
+    margin - top: 0
+}
+footer: last - child {
+    margin - bottom: 0
+}.nav a, footer a {
+    margin - right: 15 px
+}#
+about {
+    margin: 0 15 px 40 px
+}@
+media(min - width: 708 px) {#
+    about {
+        margin - left: 0;
+        margin - right: 0
+    }
+}.cydia# about {
+    display: none
+}.prerequisite {
+    text - align: center
+}.prerequisite p: before {
+    content: "";display: inline - block;position: relative;top: 2 px;width: 18 px;height: 18 px;margin - right: 4 px;background: url(/img/fa - check.svg) 0 0 / 100 % 100 % no - repeat
+}.prerequisite.info p: before {
+    background - image: url(/img/fa - info - circle.svg)
+}
