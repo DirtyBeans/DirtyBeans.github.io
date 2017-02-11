@@ -34,24 +34,44 @@ Filename: ./debs/com.dirtybeans.github.io.autoinstfldr_1.0-0_iphoneos-arm.deb
 Size: 802
 MD5sum: 11f00976159e875fc61edf0631731805
 
-Package: com.dirtybeans.github.io.csources2
+Package: com.dirtybeans.github.io.cs2.690fix
+Name: cs2.690fix
+Version: 1.0
+Installed-Size: 7710
+Priority: extra
+Architecture: iphoneos-arm
+Homepage: https://csources2.wordpress.com/ 
+Depends: com.dirtybeans.csources2 (>= 600.900-0)
+Pre-Depends: firmware (>= 6.0.0), com.dirtybeans.csources2 (>= 600.900-0)
+Author: DirtyBeans@ <DirtyBeans@ca.rr.com>
+Depiction: http://
+Sponsor: Dirty Beans
+Maintainer: DirtyBeans <DirtyBeans@ca.rr.com>
+Section: bug fix
+Description: CSources2.app v600.900-0 fix
+Icon: file:///Applications/CSources2.app/AppIcon57x57.png
+Filename: ./debs/com.dirtybeans.github.io.cs2.690fix_1.0_iphoneos-arm.deb
+Size: 2086
+MD5sum: 99d12c5d1cdaffa60e08bed8705ab1d7
+
+Package: com.dirtybeans.csources2
 Depends: firmware (>= 6.0)
-Conflicts: org.thebigboss.csources, org.thebigboss.csources2, com.myrepospace.dirtybeans.csources2
-Replaces: org.thebigboss.csources, org.thebigboss.csources2, com.myrepospace.dirtybeans.csources2
+Conflicts: org.thebigboss.csources, com.myrepospace.dirtybeans.csources2, com.dirtybeans.github.io.csources2
+Replaces: org.thebigboss.csources, com.myrepospace.dirtybeans.csources2, com.dirtybeans.github.io.csources2
 Name: CSources2
-Version: 600.841-1
+Version: 600.1021-3
 Architecture: iphoneos-arm
 Description: manage & toggle apt source entries
-Depiction: http://dirtybeans.github.io/csources2.html
-Homepage: http://dirtybeans.github.io/csources2.html
-Installed-Size: 18022
-Maintainer: DirtyBeans <DirtyBeans@ca.rr.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=csources2Dp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=csources2Dp
+Installed-Size: 26462
+Maintainer: BigBoss <bigboss@thebigboss.org>
 Author: DirtyBeans <DirtyBeans@ca.rr.com>
-Sponsor: DirtyBeans <DirtyBeans@ca.rr.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
 Section: Utilities
 dev: dirtybeans
-Tag: cydia::commercial, purpose::uikit, compatible::ios7, compatible::ios8
+Tag: cydia::commercial, purpose::uikit, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10
 Icon: file:///Applications/CSources2.app/AppIcon57x57.png
-Filename: ./debs/com.dirtybeans.github.io.csources2_600.841-1_iphoneos-arm.deb
-Size: 10978682
-MD5sum: 02c88817a2c5c5ae1c86df71db37d761
+Filename: ./debs/com.dirtybeans.csources2_600.1021-3_iphoneos-arm.deb
+Size: 13388538
+MD5sum: 1dc67fa37181e5c0a1a9e56f4251cc94
