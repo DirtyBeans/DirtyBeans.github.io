@@ -73,3 +73,5 @@ dev: dirtybeans
 Tag: cydia::commercial, purpose::uikit, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10
 Icon: file:///Applications/CSources2.app/AppIcon57x57.png
 Filename: ./debs/com.dirtybeans.csources2_600.1021-3_iphoneos-arm.deb
+Size: 13388538
+MD5sum: 1dc67fa37181e5c0a1a9e56f4251cc94
