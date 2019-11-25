@@ -54,24 +54,7 @@ Filename: ./debs/com.dirtybeans.github.io.cs2.690fix_1.0_iphoneos-arm.deb
 Size: 2086
 MD5sum: 99d12c5d1cdaffa60e08bed8705ab1d7
 
-Package: com.dirtybeans.csources2
-Depends: firmware (>= 6.0)
-Conflicts: org.thebigboss.csources, com.myrepospace.dirtybeans.csources2, com.dirtybeans.github.io.csources2
-Replaces: org.thebigboss.csources, com.myrepospace.dirtybeans.csources2, com.dirtybeans.github.io.csources2
-Name: CSources2
-Version: 600.1021-3
-Architecture: iphoneos-arm
-Description: manage & toggle apt source entries
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=csources2Dp
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=csources2Dp
-Installed-Size: 26462
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Author: DirtyBeans <DirtyBeans@ca.rr.com>
-Sponsor: thebigboss.org <http://thebigboss.org>
-Section: Utilities
-dev: dirtybeans
-Tag: cydia::commercial, purpose::uikit, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10
-Icon: file:///Applications/CSources2.app/AppIcon57x57.png
-Filename: ./debs/com.dirtybeans.csources2_600.1021-3_iphoneos-arm.deb
-Size: 13388538
-MD5sum: 1dc67fa37181e5c0a1a9e56f4251cc94
+Package: com.dirtybeans.csources2Name: CSources2Version: 600.1302-1Installed-Size: 15517678Priority: extraArchitecture: iphoneos-armHomepage: http://www.DirtyBeans.com/repo/ Recommends: com.dirtybeans.iconPre-Depends: firmware (>= 6.0.0)Conflicts: org.thebigboss.csources, com.myrepospace.dirtybeans.csources2Replaces: org.thebigboss.csources, com.myrepospace.dirtybeans.csources2Author: DirtyBeans@ <DirtyBeans@ca.rr.com>Depiction: http://www.DirtyBeans.com/repo/betaapps/Sponsor: Dirty BeansMaintainer: DirtyBeans <DirtyBeans@ca.rr.com>Suggests: com.dirtybeans.iconSection: Utilitiesdev: dirtybeansTag: purpose::uikit, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13Description: CSources2.appIcon: file:///Applications/CSources2.app/AppIcon57x57.png
+Filename: ./debs/com.dirtybeans.csources2_600.1302-1_iphoneos-arm.deb
+Size: 30709682
+MD5sum: 63104a15f9d5a8e4b022a3cb8764b454SHA-1: b2be920e291925035373396e605bea88437e2c44SHA-256: a29790c0279d41ab7e0627dd2e18bd03e69cb5e088a6421e32b52706d0742845SHA-512: 858f356e693acc2195ea161ca88fd7ceaa90c1071015fe3658cd0688ced4ae0b60cf4e7fec179cbbdb0c8e25716404acb7c8710bde792a9d8bb48e2a789d5ec1SHA3-256: 335cd5ab6f813abea3681dea90c8cb0706f42a3198925a712d7f9bb2a219f0e8SHA3-512: 0aa812c18da146748a0aa37bd24df96cd809711919215d778419a10136abf780d6e413f70d967690a2182f33917b4091f2b9ed6a05eada4067a054abe18d725f
