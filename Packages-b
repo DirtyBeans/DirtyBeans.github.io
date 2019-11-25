@@ -66,7 +66,8 @@ Pre-Depends: firmware (>= 6.0.0)
 Conflicts: org.thebigboss.csources, com.myrepospace.dirtybeans.csources2
 Replaces: org.thebigboss.csources, com.myrepospace.dirtybeans.csources2
 Author: DirtyBeans@ <DirtyBeans@ca.rr.com>
-Depiction: http://www.DirtyBeans.com/repo/betaapps/
+#Depiction: http://www.DirtyBeans.com/repo/betaapps/
+Depiction: https://dirtybeans.github.io/csources2.html
 Sponsor: Dirty Beans
 Maintainer: DirtyBeans <DirtyBeans@ca.rr.com>
 Suggests: com.dirtybeans.icon
