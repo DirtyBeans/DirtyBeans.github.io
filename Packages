@@ -1,6 +1,6 @@
 Package: com.dirtybeans.github.io.dbsicons
 Name: DBs Beta Icons
-Version: 1.0-1
+Version: 1.0-2
 Installed-Size: 257
 Architecture: iphoneos-arm
 Maintainer: DirtyBeans@ <DirtyBeans@ca.rr.com>
@@ -12,14 +12,14 @@ Sponsor: DirtyBeans
 Section: Repositories
 Icon: file:///Applications//Cydia.app/Sources/dirtybeans.com.png
 Description: Install's DirtyBeans Beta Icons.
-Filename: ./debs/com.dirtybeans.github.io.dbsicons_1.0-1_iphoneos-arm.deb
-Size: 134576
-MD5sum: 927e16cf74afa8fc510688b829e71ba6
-SHA-1: ca87a74afbea1b3a601803335f2fc92acc111f74
-SHA-256: 95bbad540b8ac4768ac1587fbc633d8e4501624bb213bc05894c0cf61e85acd1
-SHA-512: 9c7f72e40cf711771f668d5e2888ea3c2f1e9e740217698ffc7f130df9918a2c48eae9450309781dd4d51668fb1a7758b9abe478513424919a6850ded7eb4a68
-SHA3-256: 32656dd9b33e70a0046c1031123952dddbed553f6653050c5ede5cffa36d5a63
-SHA3-512: b541bea5b2d649e1ade4ff132a2b49bce0246e64c75fa588b54e0e271b2acfb077db6c0567f0ad1590e542413003dce6f40e11a42aab6ba819af115309fa3b37
+Filename: ./debs/com.dirtybeans.github.io.dbsicons_1.0-2_iphoneos-arm.deb
+Size: 176654
+MD5sum: afffa979941e153858c640ce021d11f5
+SHA-1: cd8aa5c6efdc863a1f73e1821434502c418aa803
+SHA-256: 3660778ae7efc63d6ea1e7b0da4c20388b7ef7d2bf12a003c9913e4e47dfdc7f
+SHA-512: 579e4fc34ba163c7aa4ff12048014ea47ed69bf3b07ede9311c03e85f13d92109aa63ab955ab7bd5373f414631167177f2847b0b145a691b9b83c47ee6374528
+SHA3-256: 66bf2d9fec823a622555f4dd2289a8bc3fa3593103819cb32cb0574b96b1255c
+SHA3-512: 826ea931784312b583776ff8f6b1abdb6482da49232e655038c06728ede7d96075e2b2a206538f181b25ec399ebb44f9831297634de0a6af6d18ca6ae1802c2f
 
 Package: com.dirtybeans.github.io.autoinstfldr
 Name: Auto Install Folder
@@ -54,7 +54,7 @@ Sponsor: Dirty Beans
 Maintainer: DirtyBeans <DirtyBeans@ca.rr.com>
 Section: bug fix
 Description: CSources2.app v600.900-0 fix
-Icon: file:///Applications/CSources2.app/AppIcon57x57.png
+Icon: file:///Applications//Cydia.app/Sections/DirtyBeans.Help.png
 Filename: ./debs/com.dirtybeans.github.io.cs2.690fix_1.0_iphoneos-arm.deb
 Size: 2086
 MD5sum: 99d12c5d1cdaffa60e08bed8705ab1d7
@@ -103,7 +103,7 @@ Sponsor: Dirty Beans
 Maintainer: DirtyBeans <DirtyBeans@ca.rr.com>
 Section: themes
 Description: Basic CSources2.app Color Scheme - cs-midnight..
-Icon: file:///Applications/CSources2.app/AppIcon57x57.png
+Icon: file:///Applications//Cydia.app/Sections/DirtyBeans.THMs.png
 Filename: ./debs/com.dirtybeans.csources2.cs-midnight_1.4_iphoneos-arm.deb
 Size: 17858
 MD5sum: 3ab0ccea0abb6f7c3bf2b7e3e5647072
