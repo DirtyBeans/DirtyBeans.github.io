@@ -83,3 +83,27 @@ SHA-256: 709808d28be526c7d20513fa0ac64ee4ed1ccfec05d385d670358c57b8cd64e4
 SHA-512: 9141a759b4053bded1f3ec4eb764c5df5d0f3d42d16591b8f01b3b865d9042ff2ab0b69b678181596656c3332ba13dca168c8a06d0537d27f75e80703b0802a6
 SHA3-256: e50d948c11205e930e5a866bdb48b018d2f4753161ea73a5240ce45f44838170
 SHA3-512: 700e79d4ee7284f5ab173711b8f793b720fcc07e9f6e51cf6d2ab0c319a103ba1b7d3689ed232fcde7e559933be48f21cf81dcd03e2e5cb7f92406345ebe4937
+
+Package: com.dirtybeans.csources2.cs-midnight
+Name: CSources2.cs-midnight
+Version: 1.4
+Installed-Size: 9576
+Architecture: iphoneos-arm
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=csources2Dp
+Depends: com.dirtybeans.csources2 (>= 600.900-0)
+Pre-Depends: firmware (>= 6.0.0), com.dirtybeans.csources2 (>= 600.900-0)
+Depiction: http://dirtybeans.github.io/cs-midnight.html
+Author: DirtyBeans@ <DirtyBeans@ca.rr.com>
+Sponsor: Dirty Beans
+Maintainer: DirtyBeans <DirtyBeans@ca.rr.com>
+Section: themes
+Description: Basic CSources2.app Color Scheme - cs-midnight..
+Icon: file:///Applications/CSources2.app/AppIcon57x57.png
+Filename: ./debs/com.dirtybeans.csources2.cs-midnight_1.4_iphoneos-arm.deb
+Size: 17858
+MD5sum: 3ab0ccea0abb6f7c3bf2b7e3e5647072
+SHA-1: ffe94997213dfb1b142367531479d21790cad442
+SHA-256: 58205da7e074f8a5c750f307bb96554c25ce1244460c91e1b64e0d1d0ed856de
+SHA-512: 98ba34c7d93a7578ba6cc29be5524aae2b442439734e5956f779bbc9ec681de5a5a67dfa398dba734c0ed1153c1435b2e0c6ebe8d4f7f9ac346c7991af3aeeb2
+SHA3-256: 9625869214387e09303962ea930a30a6fd1bd721cf70e5bee646fb6652c57774
+SHA3-512: 19e2ce0235e18ee6762fff50cf25f90e982568b646f9672ff67698b5a38814d37c9f95eefaae903994ac8800ed1e802eda19a513f0cae2be0f1609f58c9f8374
