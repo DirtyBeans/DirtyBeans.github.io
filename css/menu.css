@@ -86,7 +86,7 @@ select {
 
 panel {
     display: block;
-    width: 320px;
+    width: 95vw;
 }
 
 body {
@@ -94,7 +94,7 @@ body {
     -webkit-text-size-adjust: none;
     -webkit-user-select: none;
     margin: 0 auto;
-    width: 320px;
+    width: 95vw;
 }
 
 body.white {
@@ -551,7 +551,7 @@ list > fieldset > div > input:not([type="checkbox"]) {
 
 fieldset > textarea {
     padding: 10px;
-    width: 320px;
+    width: 95vw;
 }
 
 fieldset > div > div,
