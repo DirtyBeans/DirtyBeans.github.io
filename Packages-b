@@ -62,7 +62,7 @@ MD5sum: 99d12c5d1cdaffa60e08bed8705ab1d7
 Package: com.dirtybeans.csources2
 Name: CSources2
 Version: 600.1302-3
-Installed-Size: 15517678
+Installed-Size: 18098
 Priority: extra
 Architecture: iphoneos-arm
 Homepage: http://dirtybeans.github.io 
