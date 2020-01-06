@@ -61,7 +61,7 @@ MD5sum: 99d12c5d1cdaffa60e08bed8705ab1d7
 
 Package: com.dirtybeans.csources2
 Name: CSources2
-Version: 600.1302-11
+Version: 600.1302-12
 Installed-Size: 18098
 Priority: extra
 Architecture: iphoneos-arm
@@ -80,14 +80,14 @@ dev: dirtybeans
 Tag: purpose::uikit, compatible::ios6, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
 Description: CSources2.app
 Icon: file:///Applications/CSources2.app/AppIcon57x57.png
-Filename: ./debs/com.dirtybeans.csources2_600.1302-11_iphoneos-arm.deb
-Size: 29296016
-MD5sum: bfe4719c702b2d61f2a5a69b10ffb1a5
-SHA-1: 7024b0388ec228cb3aeb5bf9fa08e08794bdeb2f
-SHA-256: 9b6b5cd2f4ec9ae876b5f11e14df658995bf5cf29158bb31ccae313f4029ea4e
-SHA-512: b7efe8d3739b20ae0f610b9028009c2330b03f712fe0f5356d80ba410e26eb800c11445e886b24670d7c6a4363480fd0b77a3f5503aef70534786e3544b4438e
-SHA3-256: 898b9423e7039f2fd595b1cac5cae9b1d40759145aa7716a97b37bcd0c6293ef
-SHA3-512: 34b74c61f2a0638f1c168666f5a6b2e49763829f84f996e501274a97da08dc3600ee14e689967dfdfb82130c3250170ad486d51fd7fc94d8475bab2205fa3c41
+Filename: ./debs/com.dirtybeans.csources2_600.1302-12_iphoneos-arm.deb
+Size: 29296194
+MD5sum: 8b4d177cc33d07798956d89db7f74202
+SHA-1: a64d3699fd0846ac48a3f9fa3a16c403717da459
+SHA-256: b58384a41899e7db3181efb95c024dc3323b1c92a62375bde7bcc2ee7586d4e7
+SHA-512: fe333737853dd4e423ee14320665f4e1fb623355a0ae3e1c3ca7afb4ba02aeb9b583a45a3d5eb9b5f48b4156b978f6b7434770eaf320cee90ac83e21da5002ae
+SHA3-256: d53db1cbf70fc5d6977280ecdc114b04ff8daaa3fe25dadda3d9dbcbd5140eba
+SHA3-512: 46d5e8b6207021f1fae88362c7749f739eb7b3eb8c413a4167d196c9d4823a8817445b185e34ccff2f12a93a0d05c99e725a5b939edc49097064130a20a19e1b
 
 Package: com.dirtybeans.csources2.cs-midnight
 Name: CSources2.cs-midnight
