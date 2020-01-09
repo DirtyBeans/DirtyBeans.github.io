@@ -1,9 +1,9 @@
-Origin: DirtyBeans (Beta)
+Origin: DirtyBeans (Official)
 Label: DirtyBeans
 Suite: stable
-Version: 1.0
+Version: 1.1
 Codename: DirtyBeans
 Architectures: iphoneos-arm
 Components: main
-Description: DirtyBean's(Beta) Testing beta Apps, Mods and Themes.
+Description: Official DirtyBean's Stable Apps, Tweaks, Mods and Themes.
 Icon: file:///Applications/Cydia.app/Sources/dirtybeans.com.png
