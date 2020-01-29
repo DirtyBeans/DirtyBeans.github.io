@@ -1,0 +1,8 @@
+/* CSS image preload styles */
+body:after {
+    content: url(http://img38.imageshack.us/img38/9080/bosspaperr.png) url(http://img34.imageshack.us/img34/8782/keyboard120x120.png) url(http://img163.imageshack.us/img163/5732/sbsettingsv1.png) url(http://img19.imageshack.us/img19/8666/dirtybeans512x512.png) url(http://img16.imageshack.us/img16/5903/dbsv1weather.png) url(http://img703.imageshack.us/img703/9282/package120x120.png) url(http://img24.imageshack.us/img24/2174/sources120x120.png) url(http://img854.imageshack.us/img854/5630/dirtybeanstheme134x134.png);
+    background-image: url(http://www.dirtyBeans.com/repo/images/DirtyBeans.com.Main.Logo.310x60);
+    visibility: hidden;
+    position: absolute;
+    left: -999em;
+}

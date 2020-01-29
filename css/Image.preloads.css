@@ -1,0 +1,8 @@
+/* Just some base styles not needed for example to function */
+	
+/* CSS image preload styles */
+body:after
+{
+content: url(http://img703.imageshack.us/img703/9282/package120x120.png) url(http://img830.imageshack.us/img830/7014/integration120x120.png) url(http://img31.imageshack.us/img31/9756/help120x120.png) url(http://img198.imageshack.us/img198/5096/disclaimer120x120.png) url(http://img848.imageshack.us/img848/6987/mailat.png) url(http://img217.imageshack.us/img217/2299/twitter2x.png) url(http://img202.imageshack.us/img202/3264/modmyiv2.png) url(http://img714.imageshack.us/img714/5804/paypal1120x120.png);
+display: none;
+}

@@ -333,7 +333,7 @@ width:455px
 }
 .pageitemdbs {
 	-webkit-border-radius:8px;
-	background:url("http://www.DirtyBeans.com/repo/images/DirtyBeans.web.background.png") 0 0 no-repeat;
+	background:url("../images/DirtyBeans.web.background.png") 0 0 no-repeat;
 	border:#878787 solid 1px;
 	font-size:12pt;
 	overflow:hidden;

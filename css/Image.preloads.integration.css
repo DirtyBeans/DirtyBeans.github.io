@@ -1,0 +1,8 @@
+/* CSS image preload styles */
+body:after {
+    content: url(http://img848.imageshack.us/img848/6987/mailat.png) url(http://img217.imageshack.us/img217/2299/twitter2x.png) url(http://img202.imageshack.us/img202/3264/modmyiv2.png) url(http://img593.imageshack.us/img593/7454/facebook512x512.png) url(http://img196.imageshack.us/img196/7726/dbsv1mobilestore.png) url(http://img151.imageshack.us/img151/2504/appstore120x120.png) url(http://img98.imageshack.us/img98/1515/dbsv1sms.png) url(http://img202.imageshack.us/img202/379/phone120x120.png) url(http://img811.imageshack.us/img811/3958/youtubeuy.png) url(http://img651.imageshack.us/img651/2878/mapsii.png);
+    background-image: url(http://www.dirtyBeans.com/repo/images/DirtyBeans.com.Main.Logo.310x60);
+    visibility: hidden;
+    position: absolute;
+    left: -999em;
+}
