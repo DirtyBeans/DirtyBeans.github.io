@@ -5,9 +5,9 @@ Installed-Size: 257
 Architecture: iphoneos-arm
 Maintainer: DirtyBeans@ <DirtyBeans@ca.rr.com>
 Suggests: com.dirtybeans.github.io.dbsicons
-Homepage: http://dirtybeans.github.io
+Homepage: https://dirtybeans.github.io
 Author: DirtyBeans@ <DirtyBeans@ca.rr.com>
-Depiction: https://dirtybeans.github.io/AppsEtc/icon/index.html
+Depiction: https://dirtybeans.github.io/AppsEtc/icon/depiction.html
 Sponsor: DirtyBeans
 Section: Repositories
 Icon: https://dirtybeans.github.io/images/Sources/dirtybeans.com.png
@@ -30,7 +30,7 @@ Maintainer: DirtyBeans@ <DirtyBeans@ca.rr.com>
 Homepage: https://dirtybeans.github.io
 Depends: com.dirtybeans.github.io.dbsicons
 Author: DirtyBeans@ <DirtyBeans@ca.rr.com>
-Depiction: http://dirtybeans.github.io/AppsEtc/autoinstfldr/index.html
+Depiction: https://dirtybeans.github.io/AppsEtc/autoinsfldr/depiction.html
 Sponsor: DirtyBeans
 Section: DirtyBeans
 Icon: https://dirtybeans.github.io/images/Sections/DirtyBeans.Cydia.png
@@ -47,7 +47,7 @@ Architecture: iphoneos-arm
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=csources2Dp
 Depends: com.dirtybeans.csources2 (>= 600.900-0)
 Pre-Depends: firmware (>= 6.0.0), com.dirtybeans.csources2 (>= 600.900-0)
-Depiction: https://dirtybeans.github.io/AppsEtc/cs-midnight/index.html
+Depiction: https://dirtybeans.github.io/AppsEtc/cs-midnight/depiction.html
 Author: DirtyBeans@ <DirtyBeans@ca.rr.com>
 Sponsor: Dirty Beans
 Maintainer: DirtyBeans <DirtyBeans@ca.rr.com>
@@ -75,7 +75,7 @@ Pre-Depends: firmware (>= 6.0.0)
 Conflicts: org.thebigboss.csources
 Replaces: org.thebigboss.csources
 Author: DirtyBeans@ <DirtyBeans@ca.rr.com>
-Depiction: https://dirtybeans.github.io/AppsEtc/csources2/index.html
+Depiction: https://dirtybeans.github.io/AppsEtc/csources2/depiction.html
 Sponsor: Dirty Beans
 Maintainer: DirtyBeans <DirtyBeans@ca.rr.com>
 Suggests: com.dirtybeans.icon
