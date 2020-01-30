@@ -1,5 +1,5 @@
 Package: com.dirtybeans.github.io.dbsicons
-Name: DBs Beta Icons
+Name: DBs Icons
 Version: 1.0-2
 Installed-Size: 257
 Architecture: iphoneos-arm
@@ -11,7 +11,7 @@ Depiction: https://dirtybeans.github.io/AppsEtc/icon/depiction.html
 Sponsor: DirtyBeans
 Section: Repositories
 Icon: https://dirtybeans.github.io/images/Sources/dirtybeans.com.png
-Description: Install's DirtyBeans Beta Icons.
+Description: Install's DirtyBeans Icons.
 Filename: ./debs/com.dirtybeans.github.io.dbsicons_1.0-2_iphoneos-arm.deb
 Size: 176654
 MD5sum: afffa979941e153858c640ce021d11f5
