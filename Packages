@@ -9,7 +9,7 @@ Homepage: https://dirtybeans.github.io
 Author: DirtyBeans@ <DirtyBeans@ca.rr.com>
 Depiction: https://dirtybeans.github.io/AppsEtc/icon/depiction.html
 Sponsor: DirtyBeans
-Section: Repositories
+Section: DirtyBeans
 Icon: https://dirtybeans.github.io/images/Sources/dirtybeans.com.png
 Description: Install's DirtyBeans Icons.
 Filename: ./debs/com.dirtybeans.github.io.dbsicons_1.0-2_iphoneos-arm.deb
@@ -32,7 +32,7 @@ Depends: com.dirtybeans.github.io.dbsicons
 Author: DirtyBeans@ <DirtyBeans@ca.rr.com>
 Depiction: https://dirtybeans.github.io/AppsEtc/autoinsfldr/depiction.html
 Sponsor: DirtyBeans
-Section: DirtyBeans
+Section: DirtyBeans.Cydia
 Icon: https://dirtybeans.github.io/images/Sections/DirtyBeans.Cydia.png
 Description: Install's the Cydia Auto install Folder.
 Filename: ./debs/com.dirtybeans.github.io.autoinstfldr_1.0-0_iphoneos-arm.deb
@@ -51,7 +51,7 @@ Depiction: https://dirtybeans.github.io/AppsEtc/cs-midnight/depiction.html
 Author: DirtyBeans@ <DirtyBeans@ca.rr.com>
 Sponsor: Dirty Beans
 Maintainer: DirtyBeans <DirtyBeans@ca.rr.com>
-Section: themes
+Section: DirtyBeans.THMs
 Description: Basic CSources2.app Color Scheme - cs-midnight..
 Icon: https://dirtybeans.github.io/images/Sections/DirtyBeans.THMs.png
 Filename: ./debs/com.dirtybeans.csources2.cs-midnight_1.4_iphoneos-arm.deb
