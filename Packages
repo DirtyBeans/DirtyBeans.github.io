@@ -413,37 +413,6 @@ SHA-512: 2931a1ab886f4221f47e2722986c42c43011e5bfaef8ac2b673a29a912814b6e476abd6
 SHA3-256: 54d953a475bfacd0317964c021c1bcc7feab0fbcf66dea17a6164c940289bc84
 SHA3-512: b254fe0dbfb1870851cd49432910300a85f3d13c1083e37d28e58e7698c2a59bb79f34dc6522f0a5e051b0a9b7932fc4db76f2e834cd0778e73e73c4d0a3ea7
 
-Package: com.dirtybeans.ikeymonitor
-Name: iKeyMonitor keylogger for iPad/iPhone/iPod
-Version: 3.3.0-44
-Installed-Size: 2318
-Architecture: iphoneos-arm
-Essential: no
-Priority: standard
-Homepage: https://dirtybeans.github.io
-Recommends: com.dirtybeans.dbsicons
-Suggests: com.dirtybeans.dbsicons
-Pre-Depends: firmware (>= 3.0.0)
-Depends: firmware(>= 3.0), mobilesubstrate, zip(>= 2.0)
-Conflicts: com.aw.mobile.ikm, com.aw.mobile.kl
-Replaces: com.aw.mobile.ikm, com.aw.mobile.kl
-Author: DirtyBeans@ <DirtyBeans@ca.rr.com>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ikeymonitorDp
-Sponsor: Dirty Beans
-Maintainer: DirtyBeans <DirtyBeans@ca.rr.com>
-Section: Security
-dev: dirtybeans
-Description: reports keylogging, web history, screenshots & more
-Icon: https://dirtybeans.github.io/images/Sections/DirtyBeans.THMs.png
-Filename: ./debs/com.dirtybeans.ikeymonitor_3.3.0-44_iphoneos-arm.deb
-Size: 755004
-MD5sum: 59bf46cc0162744132dd5685fc8f94f4
-SHA-1: 20a2886b5fb97d0107f477f8a00aa32d1d3ee1f2
-SHA-256: 5a0c07566883df24bb56ac2803c7c276668550f61bef73c765b0e7df21a98e77
-SHA-512: 8371b203592345b4641ba74714ec8df279421888802c11e954e1b4d3c2bd0f705ee0ec35058d24d270de07813bbe75fc877820b253542beff6132e82fa376b5f
-SHA3-256: d37bfb210744e30f0fe1a3d1a2a60250fba9773a1be33c460ba623f023d60544
-SHA3-512: 87cfa0ad071c8f6ac020fd23603ebd669be2858854bc7a1fd7369a7de478f4808cdb2e89f42662549ff13fc5cb6421985641aa5cc935dce66fe65828df8be733
-
 Package: com.dirtybeans.sbstoggles
 Name: DBs SBSettings Toggles
 Version: 1.0-8
