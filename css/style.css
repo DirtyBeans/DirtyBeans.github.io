@@ -238,6 +238,20 @@ width:455px
 	background:transparent;
 	margin:3px 9px 1px;
 }
+#topbarioscompbat {
+	-webkit-border-radius:8px;
+	position:relative;
+	border:#878787 solid 1px;
+	padding:0;
+	left:0;
+	top:0;
+	font-size:12pt;
+	display:block;
+	height:auto;
+	width:auto;
+	background:transparent;
+	margin:3px 9px 1px;
+}
 #topbarheader {
 	-webkit-border-radius:8px;
 	position:relative;

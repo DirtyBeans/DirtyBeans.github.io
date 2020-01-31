@@ -1,3 +1,33 @@
+Package: com.dirtybeans.csources2
+Name: CSources2
+Version: 600.1302-1
+Installed-Size: 18098
+Priority: extra
+Architecture: iphoneos-arm
+Homepage: https://dirtybeans.github.io
+Recommends: com.dirtybeans.icon
+Pre-Depends: firmware (>= 6.0.0)
+Conflicts: org.thebigboss.csources
+Replaces: org.thebigboss.csources
+Author: DirtyBeans@ <DirtyBeans@ca.rr.com>
+Depiction: https://dirtybeans.github.io/AppsEtc/csources2/depiction.html
+Sponsor: Dirty Beans
+Maintainer: DirtyBeans <DirtyBeans@ca.rr.com>
+Suggests: com.dirtybeans.icon
+Section: Utilities
+dev: dirtybeans
+Tag: purpose::uikit, compatible::ios6, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
+Description: CSources2.app
+Icon: https://dirtybeans.github.io/AppsEtc/csources2/images/CSources2.png
+Filename: ./debs/com.dirtybeans.csources2_600.1302-1_iphoneos-arm.deb
+Size: 30708550
+MD5sum: 292c5f2544389f6d97057b8b70beeaf9
+SHA-1: 3ac01c8ba7e31ad7bca74c54d7154a827606146f
+SHA-256: 709808d28be526c7d20513fa0ac64ee4ed1ccfec05d385d670358c57b8cd64e4
+SHA-512: 9141a759b4053bded1f3ec4eb764c5df5d0f3d42d16591b8f01b3b865d9042ff2ab0b69b678181596656c3332ba13dca168c8a06d0537d27f75e80703b0802a6
+SHA3-256: e50d948c11205e930e5a866bdb48b018d2f4753161ea73a5240ce45f44838170
+SHA3-512: 700e79d4ee7284f5ab173711b8f793b720fcc07e9f6e51cf6d2ab0c319a103ba1b7d3689ed232fcde7e559933be48f21cf81dcd03e2e5cb7f92406345ebe4937
+
 Package: com.dirtybeans.github.io.dbsicons
 Name: DBs Icons
 Version: 1.0-2
@@ -20,48 +50,6 @@ SHA-256: 3660778ae7efc63d6ea1e7b0da4c20388b7ef7d2bf12a003c9913e4e47dfdc7f
 SHA-512: 579e4fc34ba163c7aa4ff12048014ea47ed69bf3b07ede9311c03e85f13d92109aa63ab955ab7bd5373f414631167177f2847b0b145a691b9b83c47ee6374528
 SHA3-256: 66bf2d9fec823a622555f4dd2289a8bc3fa3593103819cb32cb0574b96b1255c
 SHA3-512: 826ea931784312b583776ff8f6b1abdb6482da49232e655038c06728ede7d96075e2b2a206538f181b25ec399ebb44f9831297634de0a6af6d18ca6ae1802c2f
-
-Package: com.dirtybeans.github.io.autoinstfldr
-Name: Auto Install Folder
-Version: 1.0-0
-Installed-Size: 2
-Architecture: iphoneos-arm
-Maintainer: DirtyBeans@ <DirtyBeans@ca.rr.com>
-Homepage: https://dirtybeans.github.io
-Depends: com.dirtybeans.github.io.dbsicons
-Author: DirtyBeans@ <DirtyBeans@ca.rr.com>
-Depiction: https://dirtybeans.github.io/AppsEtc/autoinsfldr/depiction.html
-Sponsor: DirtyBeans
-Section: DirtyBeans.Cydia
-Icon: https://dirtybeans.github.io/images/Sections/DirtyBeans.Cydia.png
-Description: Install's the Cydia Auto install Folder.
-Filename: ./debs/com.dirtybeans.github.io.autoinstfldr_1.0-0_iphoneos-arm.deb
-Size: 802
-MD5sum: 11f00976159e875fc61edf0631731805
-
-Package: com.dirtybeans.csources2.cs-midnight
-Name: CSources2.cs-midnight
-Version: 1.4
-Installed-Size: 9576
-Architecture: iphoneos-arm
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=csources2Dp
-Depends: com.dirtybeans.csources2 (>= 600.900-0)
-Pre-Depends: firmware (>= 6.0.0), com.dirtybeans.csources2 (>= 600.900-0)
-Depiction: https://dirtybeans.github.io/AppsEtc/cs-midnight/depiction.html
-Author: DirtyBeans@ <DirtyBeans@ca.rr.com>
-Sponsor: Dirty Beans
-Maintainer: DirtyBeans <DirtyBeans@ca.rr.com>
-Section: DirtyBeans.THMs
-Description: Basic CSources2.app Color Scheme - cs-midnight..
-Icon: https://dirtybeans.github.io/images/Sections/DirtyBeans.THMs.png
-Filename: ./debs/com.dirtybeans.csources2.cs-midnight_1.4_iphoneos-arm.deb
-Size: 17858
-MD5sum: 3ab0ccea0abb6f7c3bf2b7e3e5647072
-SHA-1: ffe94997213dfb1b142367531479d21790cad442
-SHA-256: 58205da7e074f8a5c750f307bb96554c25ce1244460c91e1b64e0d1d0ed856de
-SHA-512: 98ba34c7d93a7578ba6cc29be5524aae2b442439734e5956f779bbc9ec681de5a5a67dfa398dba734c0ed1153c1435b2e0c6ebe8d4f7f9ac346c7991af3aeeb2
-SHA3-256: 9625869214387e09303962ea930a30a6fd1bd721cf70e5bee646fb6652c57774
-SHA3-512: 19e2ce0235e18ee6762fff50cf25f90e982568b646f9672ff67698b5a38814d37c9f95eefaae903994ac8800ed1e802eda19a513f0cae2be0f1609f58c9f8374
 
 Package: com.dirtybeans.csources2
 Name: CSources2
@@ -92,3 +80,458 @@ SHA256: 1F63AEDE85089CDC05C3792CADFF3891FCBFA5DA57A6B4751988DA9DC785C036
 SHA512: EC36DBA46B0C0996B3BEA29CD4F2DCEE70ED4D423CBDA59D39A45F5B0B55229172FB76A90B645598E299F04E252E3EA6023782AFCD938D6518D33120B4071C6C
 SHA3-256: 09792454F59A4B6AC49CCD4D7ECE9204ADC47B96F64365F6EAEC78C25947D949
 SHA3-512: 2ED6082D9FDAB44A3AA26CE2750577F1D3979DBFE2096213A2F9E42E17EE8EB2C5DBB16EFC41CB93EECBB916B264F69846248F9A179C576109B7D502527D6904
+
+Package: com.dirtybeans.csources2
+Name: CSources2
+Version: 600.1021-4
+Depends: firmware (>= 6.0), firmware (<= 10.2.1)
+Conflicts: org.thebigboss.csources, com.myrepospace.dirtybeans.csources2, com.dirtybeans.github.io.csources2
+Replaces: org.thebigboss.csources, com.myrepospace.dirtybeans.csources2, com.dirtybeans.github.io.csources2
+Architecture: iphoneos-arm
+Description: manage & toggle apt source entries
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=csources2Dp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=csources2Dp
+Installed-Size: 26402
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: DirtyBeans <DirtyBeans@ca.rr.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+Section: Utilities
+dev: dirtybeans
+Tag: cydia::commercial, purpose::uikit, compatible::ios6, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10
+Icon: file:///Applications/CSources2.app/AppIcon57x57.png
+Filename: ./debs/com.dirtybeans.csources2_600.1021-4_iphoneos-arm.deb
+Size: 10095658
+MD5sum: 9a4eb5d26937df9f3a5f2a922ce9a454
+SHA1: 9f2394b65d83efb91cf2e05f9f9926a9f5079590
+SHA256: 47ae06b027071731150f5473e743752fdeb857a5ff27f80e275158cbb36b8956
+SHA512: c066f19004e6ba31d9d89db44cd0f375145a181ec864cc5e0a5abd57c160769ba2cf21ca9f701ad446cf30cd975c95ce5aa21e2f4c1b2355f8fcb6c06aa9d9e7
+SHA3-256: 728875da79a5345012cbe1431927d4c9015f583541802f3b52279df5a6432fe4
+SHA3-512: f1cabe745a7c571ca853733160e89ecdcca28a759e1d42325a3b4fec5cb32118dadbf89687948a7563bd086ff454a7806f8716322903507bf974883e980f56c0
+
+Package: com.dirtybeans.csources2
+Name: CSources2
+Version: 600.902-0
+Depends: firmware (>= 6.0), firmware (<= 9.3.3)
+Conflicts: org.thebigboss.csources, com.myrepospace.dirtybeans.csources2, com.dirtybeans.github.io.csources2
+Replaces: org.thebigboss.csources, com.myrepospace.dirtybeans.csources2, com.dirtybeans.github.io.csources2
+Architecture: iphoneos-arm
+Description: manage & toggle apt source entries
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=csources2Dp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=csources2Dp
+Installed-Size: 22012
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: DirtyBeans <DirtyBeans@ca.rr.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+Section: Utilities
+dev: dirtybeans
+Tag: cydia::commercial, purpose::uikit, compatible::ios6, compatible::ios7, compatible::ios8, compatible::ios9
+Icon: file:///Applications/CSources2.app/AppIcon57x57.png
+Filename: ./debs/com.dirtybeans.csources2_600.902-0_iphoneos-arm.deb
+Size: 9235700
+MD5sum: b5bcc38dfdf9e27dd8dfe9eb21edde53
+SHA1: c5a6957a3791703ee9c929a63aaf4772bb9a5739
+SHA256: 10892b32ed463a9ca9915a7c73c37f8da62b53a95509423ef0e8e584ecc1249e
+SHA512: 567317ccec905ad3679042081ce09ff684c91895b9fb4e735c052043b8b6dcd6dd22cb8f230b44b749d7664c5a140162272563548c9fcb3a37204de43b0a9486
+SHA3-256: 7be166703e357ebcea0b0327e6e3d2fcb013105ae6b4009aa64db3f669bacbc6
+SHA3-512: 1e47a55bafa2189628e36f4440e510791cba4c4654e169582f9b8bf35b338150c6621864a9a60abd74d73dc7e4ac76998ff3fb5028a926e9d415cb669e29043d
+
+Package: com.dirtybeans.csources2
+Name: CSources2
+Version: 600.841-2
+Depends: firmware (>= 6.0)
+Conflicts: org.thebigboss.csources, com.myrepospace.dirtybeans.csources2, com.dirtybeans.github.io.csources2
+Replaces: org.thebigboss.csources, com.myrepospace.dirtybeans.csources2, com.dirtybeans.github.io.csources2
+Architecture: iphoneos-arm
+Description: manage & toggle apt source entries
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=csources2Dp
+Homepage: https://dirtybeans.github.io
+Installed-Size: 18022
+Maintainer: DirtyBeans <DirtyBeans@ca.rr.com>
+Author: DirtyBeans <DirtyBeans@ca.rr.com>
+Sponsor: DirtyBeans <DirtyBeans@ca.rr.com>
+Section: Utilities
+dev: dirtybeans
+Tag: cydia::commercial, purpose::uikit, compatible::ios7, compatible::ios8
+Icon: file:///Applications/CSources2.app/AppIcon57x57.png
+Filename: ./debs/com.dirtybeans.csources2_600.902-0_iphoneos-arm.deb
+Size: 11068746
+MD5sum: 42e7b01ea2bce6fd901ccf7f5d594d36
+SHA1: 6d645aa9f41b1f8d6861a98b29719c9e1c96de87
+SHA256: 73d6babf8c5aca9974bf8b860c82572095fa0ad30eed237f2a0075b0747bd806
+SHA512: 927c595c67c0bb67950e8630cf2b7a6c561f8563697f04ed3e62ffa0adea00d77d04b9be6b3eda6fdbcc7d423afcf5fe3580bad08d0cf4c12826bcd38811d3ed
+SHA3-256: 6cfbfade9c85a210a05d6d90c4b21a4dab864423a9cec0827394df0aa7ae0041
+SHA3-512: 4abac392a661a6e636b7ccfe4332ef85e795e436ad1d5004020c7559f95e0ecf88851cc3431285c3818a784256be8c9baa7c61bbb7f86db53d92f19e1a10dfea
+
+Package: com.dirtybeans.csources2.cs-midnight
+Name: CSources2.cs-midnight
+Version: 1.4
+Installed-Size: 9576
+Architecture: iphoneos-arm
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=csources2Dp
+Depends: com.dirtybeans.csources2 (>= 600.900-0)
+Pre-Depends: firmware (>= 6.0.0), com.dirtybeans.csources2 (>= 600.900-0)
+Depiction: https://dirtybeans.github.io/AppsEtc/cs-midnight/depiction.html
+Author: DirtyBeans@ <DirtyBeans@ca.rr.com>
+Sponsor: DirtyBeans
+Maintainer: DirtyBeans <DirtyBeans@ca.rr.com>
+Section: DirtyBeans.THMs
+dev: dirtybeans
+Description: Basic CSources2.app Color Scheme - cs-midnight..
+Icon: https://dirtybeans.github.io/images/Sections/DirtyBeans.THMs.png
+Filename: ./debs/com.dirtybeans.csources2.cs-midnight_1.4_iphoneos-arm.deb
+Size: 17858
+MD5sum: 3ab0ccea0abb6f7c3bf2b7e3e5647072
+SHA-1: ffe94997213dfb1b142367531479d21790cad442
+SHA-256: 58205da7e074f8a5c750f307bb96554c25ce1244460c91e1b64e0d1d0ed856de
+SHA-512: 98ba34c7d93a7578ba6cc29be5524aae2b442439734e5956f779bbc9ec681de5a5a67dfa398dba734c0ed1153c1435b2e0c6ebe8d4f7f9ac346c7991af3aeeb2
+SHA3-256: 9625869214387e09303962ea930a30a6fd1bd721cf70e5bee646fb6652c57774
+SHA3-512: 19e2ce0235e18ee6762fff50cf25f90e982568b646f9672ff67698b5a38814d37c9f95eefaae903994ac8800ed1e802eda19a513f0cae2be0f1609f58c9f8374
+
+Package: com.dirtybeans.csources
+Name: CSources
+Version: 700.812-2
+Installed-Size: 5750236
+Priority: extra
+Architecture: iphoneos-arm
+Homepage: https://dirtybeans.github.io
+Recommends: com.dirtybeans.icon
+Pre-Depends: firmware (>= 7.0.0)
+Author: DirtyBeans@ <DirtyBeans@ca.rr.com>
+Depiction: https://dirtybeans.github.io/AppsEtc/csources/depiction.html
+Sponsor: Dirty Beans
+Maintainer: DirtyBeans <DirtyBeans@ca.rr.com>
+Suggests: com.dirtybeans.icon
+Section: Utilities
+dev: dirtybeans
+Description: CSources.app
+Icon: file:///Applications/CSources.app/AppIcon57x57.png
+Filename: ./debs/com.dirtybeans.csources_700.812-2_iphoneos-arm.deb
+Size: 5790574
+MD5sum: f4bb90a1916273424311dd5a97eb0d28
+SHA1: 947c208f087588641a782958c39eeda650f5d42d
+SHA256: ec631c8e7bc189748ace480b2ade63300b5bbac93e2b61fc6c8a1e223bdc86df
+SHA512: c4636d36775637b9b34986c500d36a6c27b9d47e221177a6d2a46cd9f41bfddb4efb0faac9c4e3c5aff16ed511353f96995417de7ba6e98b2d9977610d54b0ab
+SHA3-256: 917593801ce56e9fb58c0dedb5b44c871df95fade817a51167539581298f7c7a
+SHA3-512: 0997e75506830c11c02684665c5b5d301a35b296f5e046136fe4b68e4e51fc4cd96b7179a881938cea25f6923d82ba200c038f57dfa177ecfd0a7aaf6cb536a2
+
+Package: com.dirtybeans.github.io.autoinstfldr
+Name: Auto Install Folder
+Version: 1.0-0
+Installed-Size: 2
+Architecture: iphoneos-arm
+Maintainer: DirtyBeans@ <DirtyBeans@ca.rr.com>
+Homepage: https://dirtybeans.github.io
+Depends: com.dirtybeans.github.io.dbsicons
+Author: DirtyBeans@ <DirtyBeans@ca.rr.com>
+Depiction: https://dirtybeans.github.io/AppsEtc/autoinsfldr/depiction.html
+Sponsor: DirtyBeans
+Section: DirtyBeans.Cydia
+Icon: https://dirtybeans.github.io/images/Sections/DirtyBeans.Cydia.png
+Description: Install's the Cydia Auto install Folder.
+Filename: ./debs/com.dirtybeans.github.io.autoinstfldr_1.0-0_iphoneos-arm.deb
+Size: 802
+MD5sum: 11f00976159e875fc61edf0631731805
+
+Package: com.dirtybeans.dbs6xandroidlockxt
+Name: DBs6xAndroidLockXT
+Version: 1.0-0
+Installed-Size: 4098
+Architecture: iphoneos-arm
+Essential: no
+Priority: standard
+Homepage: https://dirtybeans.github.io
+Recommends: com.dirtybeans.icon
+Pre-Depends: firmware (>= 4.0.0)
+Depends: com.zmaster.androidlockxt
+Author: DirtyBeans@ <DirtyBeans@ca.rr.com>
+Depiction: https://dirtybeans.github.io/AppsEtc/dirtybeans6xandroidlockxt/depiction.html
+Sponsor: Dirty Beans
+Maintainer: DirtyBeans <DirtyBeans@ca.rr.com>
+Suggests: com.dirtybeans.icon
+Section: DirtyBeans.AndroidLockXT
+dev: dirtybeans
+Description: DirtyBeans AndroidLock XT Theme for DBs6x.Theme
+ You must have AndroidLock XT installed to work.
+Icon: https://dirtybeans.github.io/images/Sections/DirtyBeans.AndroidLockXT.png
+Filename: ./debs/com.dirtybeans.dbs6xandroidlockxt_1.0-0_iphoneos-arm.deb
+Size: 3997758
+MD5sum: 2eecc94290490d542b15626868e33637
+SHA-1: ae3efefad0013122bbe5195c6475c7cbbd8a994f
+SHA-256: 4776c3973f3c897cca90917a2dd8f7f9d5a18ee056e7c931cdae6a55edc16068
+SHA-512: 0667ae74656a36ae0b838e35069b82116643408d6484770a0922f7adf33bd0982011062d9d267dd3f99d51bf6bccc22e1dadb3db6798943aabc62e31ba8ccf97
+SHA3-256: 26bf3df325d75bbb5de14d62c59d290de9098e1d6cead080e408b576dae64e02
+SHA3-512: 58806cb3b55e2e08e23167e33af1cd6a8d6e8e399c07c28704665632dd99041b0ac0426147166c78671b96a164e3c2e0ec32144859a178f7f7bc1b32f04eb700
+
+Package: com.dirtybeans.dbs6xbitesms
+Name: DBs6xbiteSMS
+Version: 0.9-0
+Installed-Size: 6562767
+Architecture: iphoneos-arm
+Essential: no
+Priority: standard
+Homepage: https://dirtybeans.github.io
+Recommends: com.dirtybeans.dbsicons
+Pre-Depends: firmware (>= 4.0.1)
+Depends: bitesms
+Conflicts: com.dirtybeans.dbs6bitesms
+Replaces: com.dirtybeans.dbs6bitesms
+Author: DirtyBeans@ <DirtyBeans@ca.rr.com>
+Depiction: http://modmyi.com/info/dbs6xbitesms.d.php
+Sponsor: Dirty Beans
+Maintainer: DirtyBeans <DirtyBeans@ca.rr.com>
+Suggests: com.dirtybeans.dbsicons
+Section: DirtyBeans.BiteSMS
+dev: dirtybeans
+Description: Theme for biteSMS
+Icon: https://dirtybeans.github.io/images/Sections/DirtyBeans.BiteSMS.png
+Filename: ./debs/com.dirtybeans.dbs6xbitesms_0.9-0_iphoneos-arm.deb
+Size: 4330748
+MD5sum: a8e6c601f14a7bf60526a5c61562100e
+SHA-1: 20ce53f563e807d09d49db88e998757974bfd62d
+SHA-256: 794fcd99ff9165f8e4dfb2a611556b16819498152834df1262f840f201723c39
+SHA-512: 399f3448cf260239915c0447f657a11b320f683010f2e3a1a93d1dad6fd6c9d01001247cc0e16a03921a0bd6db7dd9a368ba13bc95c665ad7ac3a6b03e635305
+SHA3-256: b002d4d50e86b11477a11f1243ea873862e7fc4c2ec27e9ad5c9ba18652d15aa
+SHA3-512: 3565a46b0c53d811d82dedba0e51ce5bd5f967b634214459edd30da5bedec669603bc11471f9bc9bd22ecda6f9b7f814196946ba1c2030b8273cbe96d23c6204
+
+Package: com.dirtybeans.dbs6xcolorkeyboard
+Name: DBs6xColorKeyboard
+Version: 0.9-0
+Installed-Size: 10418
+Architecture: iphoneos-arm
+Essential: no
+Priority: standard
+Homepage: https://dirtybeans.github.io
+Recommends: com.dirtybeans.dbsicons
+Suggests: com.dirtybeans.dbsicons
+Pre-Depends: firmware (>= 6.0.0)
+Depends: net.9eye.colorkeyboard
+Author: DirtyBeans@ <DirtyBeans@ca.rr.com>
+Depiction: https://dirtybeans.github.io/AppsEtc/dirtybeans6xcolorkeyboard/depiction.html
+Sponsor: ModMyi.com
+Maintainer: DirtyBeans <DirtyBeans@ca.rr.com>
+Section: DirtyBeans.ColorKeyboard
+dev: dirtybeans
+Description: DirtyBeans Keyboard Theme for iOS 6.x.x
+ You must have ColorKeyboard installed to work.
+Icon: https://dirtybeans.github.io/images/Sections/DirtyBeans.ColorKeyboard.png
+Filename: ./debs/com.dirtybeans.dbs6xcolorkeyboard_0.9-0_iphoneos-arm.deb
+Size: 9304804
+MD5sum: 316d477b2ad619d5cf35bccd67a5b335
+SHA-1: 36577cc8a404a956d9e87ce3a6843ab3dc9b0fff
+SHA-256: b97b66437696026676ab653a9284e520ea06e91add8db3a2189f9fcfa2ff1a50
+SHA-512: 834c2eac38624be94dd495fc9961cd41ffc8b2c78803575c3605bc9595dfd5644ea42a05eabd27368048c3de7a6ca3d3fb98a4ee58f5be8f3dc0402030e6adcd
+SHA3-256: 7ac482181e7922e823eda41c28e7014280a1f89f5a223b45afa4c007fcf795c5
+SHA3-512: 55d0968220564b4787ae0c17df19c9af8691c0d96e7faeba012cff0f8580c307e613d5bf49d63748fda866900aa53cced82bc258ea0dbe32826290df83a42d59
+
+Package: com.dirtybeans.dbsbosspaper
+Name: DBsBosspaper
+Version: 1.0-5
+Installed-Size: 12501
+Architecture: iphoneos-arm
+Maintainer: DirtyBeans@ <DirtyBeans@ca.rr.com>
+Conflicts: com.dirtybeans.bosspaperaddon
+Replaces: com.dirtybeans.bosspaperaddon
+Depends: bosspaper
+Suggests: com.dirtybeans.icon, com.dirtybeans.dbs4xtheme
+Homepage: https://dirtybeans.github.io
+Author: DirtyBeans@ <DirtyBeans@ca.rr.com>
+Depiction: https://dirtybeans.github.io/AppsEtc/bosspaperaddon/depiction.html
+Sponsor: Dirty Beans
+Section: DirtyBeans.Bosspaper
+dev: dirtybeans
+Description: Install's DirtyBeans Bosspaper Addon intended for DBs4x Theme
+Icon: https://dirtybeans.github.io/images/Sections/DirtyBeans.Bosspaper.png
+Filename: ./debs/com.dirtybeans.dbsbosspaper_1.0-5_iphoneos-arm.deb
+Size: 7713970
+MD5sum: 5a8a27851ba3fb77767be99ab55f5b45
+SHA-1: e3477d6ff94576be1ce215582edf4f7e0feb2c5a
+SHA-256: 8e06ca364c508724c3d4b527eb82d77610c04475bf24840a084e55a49ce49cb5
+SHA-512: 3190bbe0628034f890ffcf0422dd18a4779710d0dfae65b69512640d5e2ecdd52b12d836d2105323afe20eaa18de698c586f817b95adaa3d33240ed5150ba6b9
+SHA3-256: fb8ee6bc9b4a50a9674a4dc627ee272566c36a93db16fe30396fd778ad90bed1
+SHA3-512: 1f467c3551f4251355c956fc0dd4241f631f69d135a61ddb0102c7f92e1b80cc0b99d89e330edd886d575fb0d287ddfe42ff30265f7ae002f73faf5f688a7675
+
+Package: com.dirtybeans.dirtybeansdbsapp
+Name: DirtyBeansDBs.App
+Version: 2.0-0
+Installed-Size: 16003
+Architecture: iphoneos-arm
+Essential: no
+Priority: standard
+Homepage: https://dirtybeans.github.io/dirtybeansdbsapp/depiction.html
+Recommends: com.dirtybeans.dbsicons
+Suggests: com.dirtybeans.dbsicons
+Depends: firmware (>= 4.0.1)
+Author: DirtyBeans@ <DirtyBeans@ca.rr.com>
+Depiction: https://dirtybeans.github.io/AppsEtc/dirtybeansdbsapp/depiction.html
+Sponsor: DirtyBeans
+Maintainer: DirtyBeans <DirtyBeans@ca.rr.com>
+Section: DirtyBeans.Social
+dev: dirtybeans
+Description: DirtyBeans.DBs.App for 4.0.1 > iOS Any questions , pls contact DirtyBeans@ca.rr.com
+Icon: https://dirtybeans.github.io/images/Sections/DirtyBeans.Social.png
+Filename: ./debs/com.dirtybeans.dirtybeansdbsapp_2.0-0_iphoneos-arm.deb
+Size: 14982682
+MD5sum: 525fd7903210cc53efb11f5ea0aeeb01
+SHA-1: 9767a3a04562398153fbdabde7600f16f1b04082
+SHA-256: a0227067e75a1d2ccc9c9a81da14d7429637a0d65a45ae981191a8f39d1bc01b
+SHA-512: 5fcf694fc89fab950d97380defea60cfcc152b896a2a3d95d452da11d07909707657a4c8ae61d494c9d0ffb10f3cb06341ee50fd55bf58267e932b5cfe083c59
+SHA3-256: 9974f478cb782bddac5c6f7a5afa8bf3bd443255cc8ed5518627b6db3c60fd28
+SHA3-512: 211ce36249091387aa408e5a3e47cf2ce4a4992ba4a31d09f0542725e4944a6c4354c4cfce794aca511e7ef339dce17e275bb3e55dab158662f3151098ef8f20
+
+Package: com.dirtybeans.hacksources
+Name: Hack Sources
+Version: 7.1.2-4
+Installed-Size: 3
+Priority: optional
+Architecture: iphoneos-arm
+Maintainer: DirtyBeans@ <DirtyBeans@ca.rr.com>
+Recommends: com.dirtybeans.dbsicons
+Suggests: com.dirtybeans.dbsicons
+Homepage: https://dirtybeans.github.io
+Replaces: com.dirtybeans.hacksources
+Author: DirtyBeans@ <DirtyBeans@ca.rr.com>
+Depiction: https://dirtybeans.github.io/AppsEtc/hacksources/depiction.html
+Sponsor: DirtyBeans
+Section: DirtyBeans.SRCs
+dev: dirtybeans
+Icon: https://dirtybeans.github.io/images/Sections/DirtyBeans.SRCs.png
+Description: Hack Sources for new Install or Restore.
+ ****************************************
+ Hack Sources for new Install or Restore.
+ Once you restore your iphone etc. 
+ Use this package to Install additional Sources..
+ This package will add hacksources.list to the Cydia sources.list.d folder.
+ location: private-etc-apt-sources.list.d 
+ You may edit at anytime from this location.
+ ****************************************
+Filename: ./debs/com.dirtybeans.hacksources_7.1.2-4_iphoneos-arm.deb
+Size: 2282
+MD5sum: 87756857ce2292dd7940777830d5eb3d
+SHA-1: 11e01a8c1233553ca89e4832a41c07fc44f9c856
+SHA-256: fb1ada43d87ab295a6e18ae99e0edecc92885f83d1d410d0c3ad11405d896825
+SHA-512: 2931a1ab886f4221f47e2722986c42c43011e5bfaef8ac2b673a29a912814b6e476abd66e04fbca77ebaeac08aa24442e4153764cf1fd27a5d1dc69c3b594bb7
+SHA3-256: 54d953a475bfacd0317964c021c1bcc7feab0fbcf66dea17a6164c940289bc84
+SHA3-512: b254fe0dbfb1870851cd49432910300a85f3d13c1083e37d28e58e7698c2a59bb79f34dc6522f0a5e051b0a9b7932fc4db76f2e834cd0778e73e73c4d0a3ea7
+
+Package: com.dirtybeans.ikeymonitor
+Name: iKeyMonitor keylogger for iPad/iPhone/iPod
+Version: 3.3.0-44
+Installed-Size: 2318
+Architecture: iphoneos-arm
+Essential: no
+Priority: standard
+Homepage: https://dirtybeans.github.io
+Recommends: com.dirtybeans.dbsicons
+Suggests: com.dirtybeans.dbsicons
+Pre-Depends: firmware (>= 3.0.0)
+Depends: firmware(>= 3.0), mobilesubstrate, zip(>= 2.0)
+Conflicts: com.aw.mobile.ikm, com.aw.mobile.kl
+Replaces: com.aw.mobile.ikm, com.aw.mobile.kl
+Author: DirtyBeans@ <DirtyBeans@ca.rr.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ikeymonitorDp
+Sponsor: Dirty Beans
+Maintainer: DirtyBeans <DirtyBeans@ca.rr.com>
+Section: Security
+dev: dirtybeans
+Description: reports keylogging, web history, screenshots & more
+Icon: https://dirtybeans.github.io/images/Sections/DirtyBeans.THMs.png
+Filename: ./debs/com.dirtybeans.ikeymonitor_3.3.0-44_iphoneos-arm.deb
+Size: 755004
+MD5sum: 59bf46cc0162744132dd5685fc8f94f4
+SHA-1: 20a2886b5fb97d0107f477f8a00aa32d1d3ee1f2
+SHA-256: 5a0c07566883df24bb56ac2803c7c276668550f61bef73c765b0e7df21a98e77
+SHA-512: 8371b203592345b4641ba74714ec8df279421888802c11e954e1b4d3c2bd0f705ee0ec35058d24d270de07813bbe75fc877820b253542beff6132e82fa376b5f
+SHA3-256: d37bfb210744e30f0fe1a3d1a2a60250fba9773a1be33c460ba623f023d60544
+SHA3-512: 87cfa0ad071c8f6ac020fd23603ebd669be2858854bc7a1fd7369a7de478f4808cdb2e89f42662549ff13fc5cb6421985641aa5cc935dce66fe65828df8be733
+
+Package: com.dirtybeans.sbstoggles
+Name: DBs SBSettings Toggles
+Version: 1.0-8
+Installed-Size: 56
+Priority: optional
+Architecture: iphoneos-arm
+Maintainer: DirtyBeans@ <DirtyBeans@ca.rr.com>
+Depends: winterboard, sbsettings, org.thebigboss.sbssilentvibratetoggle, sbsettingsautocorrect, com.niufenfen.sbscallforwarding, com.fopina.sbtethering, sbsettings-vpn, sbsettingsautolock2, org.thebigboss.sbsairplanetoggle, org.thebigboss.sbsdataroamingtoggle, org.thebigboss.sbsdatausagetoggle, sbshapticpro-toggle, net.limneos.calleridtogglesbs, net.limneos.sbsinvertcolorstoggle, sbsettingspushmailtoggle, sbsettingspushnotificationstoggle, org.thebigboss.sbsresetsafari, org.thebigboss.sbsringvibratetoggle, org.thebigboss.sbssilentvibratetoggle
+Conflicts: com.dirtybeans.sbstoggles
+Replaces: com.dirtybeans.sbstoggles
+Suggests: com.dirtybeans.icon
+Homepage: https://dirtybeans.github.io
+Author: DirtyBeans@ <DirtyBeans@ca.rr.com>
+Depiction: https://dirtybeans.github.io/AppsEtc/sbstoggles/depiction.html
+Sponsor: DirtyBeans
+Section: DirtyBeans.SBSettings
+dev: dirtybeans
+Description: Install's DirtyBeans selection of SBSetting toggles
+Icon: https://dirtybeans.github.io/images/Sections/DirtyBeans.Pkg.png
+Filename: ./debs/com.dirtybeans.sbstoggles_1.0-8_iphoneos-arm.deb
+Size: 954
+MD5sum: 3a4c8f428f03ec524cab1e1feb23c48c
+SHA-1: 7e4ee63c6d9f09898b78476ce4069e5b8e47d41d
+SHA-256: 0ab561f5ee47d3ad98020946e729d3ba0ba31ba7faa673524a5d7664558e119d
+SHA-512: 94811bc6f18817d8308a81d64b342e96c43d5298bc3497b0e7968be50cb8c774d515facc14bc5b83351fcf7ee5619dae433547e2243b834626f0670ce241e4c7
+SHA3-256: 8fa4eb1a4c2049868dd2b52542f59cb3714ccb29aea55a527411a503fcc06ad9
+SHA3-512: 4cc9fed42bff2e7ba9f2ec8fc78779f502476e0a59427b9564637452bcb6b3ddaeb4308c9ce92ca393fd4f30955bc601bae3bc2f98503999cc6b8cb54e260534
+
+Package: com.dirtybeans.sources
+Name: Sources
+Version: 1.0-7
+Installed-Size: 2
+Architecture: iphoneos-arm
+Priority: optional
+Maintainer: DirtyBeans@ <DirtyBeans@ca.rr.com>
+Suggests: com.dirtybeans.icon
+Recommends: com.dirtybeans.icon
+Homepage: https://dirtybeans.github.io
+Conflicts: com.dirtybeans.sources
+Replaces: com.dirtybeans.sources, easywakeup.net, ifoneguide.nl, freecoder.org, hackndev.org, hvkls.dyndns.org, iacces.com, ifonetec.com, ifon1.no, iphone-notes.de, namedfork.net, pwncenter.com, ranbee.com, sosiphone.com, srt10coupe.de, touch-mania.com, urbanfanatics.com, winterboarder.com, zuijlen.eu
+Depends: easywakeup.net, ifoneguide.nl, freecoder.org, hackndev.org, hvkls.dyndns.org, iacces.com, ifonetec.com, ifon1.no, iphone-notes.de, namedfork.net, pwncenter.com, ranbee.com, sosiphone.com, srt10coupe.de, touch-mania.com, urbanfanatics.com, winterboarder.com, zuijlen.eu
+Author: DirtyBeans@ <DirtyBeans@ca.rr.com>
+Depiction: https://dirtybeans.github.io/AppsEtc/sources/depiction.html
+Sponsor: DirtyBeans
+Section: DirtyBeans.SRCs
+dev: dirtybeans
+Description: Sources for new Install or Restore.
+ Sources for new Install or Restore.
+ Once you restore your iphone etc. use this package
+ to Install additional Sources.
+Icon: https://dirtybeans.github.io/images/Sections/DirtyBeans.SRCs.png
+Filename: ./debs/com.dirtybeans.sources_1.0-7_iphoneos-arm.deb
+Size: 956
+MD5sum: 5bc06a02660e6a7c8d22845fa1a5105f
+SHA-1: 4ec8eb2cc0957df3994b7dd7e92dc781ecf807e7
+SHA-256: 672291efeba13b7aa6636d07e7eefb850219d8afe89b5cee9f9aa6e198fee1ae
+SHA-512: 398cf2016418b68806785fecdd63165076c50ee055a887ef55b4655d013da044713fceb530c9293b0fefbe43f6444e7e9175ffdb9d92837f5f3e039a1fa84854
+SHA3-256: a03f243fafe0bbce2f05f9c78e5f456fc2209b64545eb84a8a7338e0516be7c2
+SHA3-512: f84a6a7b069e0084cf948b995db18a1a5db378f671610dcdb4a2c8d83c878709044174304269b10efd1972be5a24827b90d9cd0f12f697616d0dbd2263b44b9a
+
+Package: com.dirtybean.trackdazios3
+Name: TrackDaz Theme ios3
+Version: 1.0-2
+Installed-Size: 115
+Architecture: iphoneos-arm
+Essential: no
+Priority: standard
+Homepage: https://dirtybeans.github.io
+Recommends: com.dirtybeans.icon
+Depends: firmware (<= 3.1.3), winterboard
+Author: DirtyBeans@ <DirtyBeans@ca.rr.com>
+Depiction: https://dirtybeans.github.io/AppsEtc/trackdazios3/depiction.html
+Sponsor: DirtyBeans
+Maintainer: DirtyBeans <DirtyBeans@ca.rr.com>
+Suggests: com.dirtybeans.icon
+Section: DirtyBeans
+dev: dirtybeans
+Description: Theme Tweaks for IOS 3.x.x
+ TrackDaz theme.  Installing this package will install
+ TrackDaz.theme
+ note:
+ tested on firmware 3.0.0-3.1.
+Icon: https://dirtybeans.github.io/images/Sections/DirtyBeans.png
+Filename: ./debs/com.dirtybeans.trackdazios3_1.0-2_iphoneos-arm.deb
+Size: 10988434
+MD5sum: 672a2960761a54a79d8294f329075b0f
+SHA-1: dd59cd13d4dddb8f3d7bbc44b31d7788a0cf3ab0
+SHA-256: 78a323adbbe6aeaa3c871a28e03c6425a8bf884461150e86b948dd88996238c5
+SHA-512: e6b94583ec002ce924ed2b8dd4057c94d978aa8d3ed82a39ba4337bbf87d5224c6d5a1feb7ec868df12555d5ef2e4dcf18e5f7f2e3b6b6c4270d733f734738c5
+SHA3-256: e581decac32832f38bf2775ba48e1ca6389bdfa06fe36e18f1f186e8cfc467d6
+SHA3-512: c51ff57574c0f475456c42926818974cde43e8ea66a87d55968a411eb194f4e9c10d6f312938f693b562afd2186cdc633257027b97345f16cfdf042ada5a3925
