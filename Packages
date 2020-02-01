@@ -10,7 +10,7 @@ Pre-Depends: firmware (>= 6.0.0)
 Conflicts: org.thebigboss.csources
 Replaces: org.thebigboss.csources
 Author: DirtyBeans@ <DirtyBeans@ca.rr.com>
-Depiction: https://dirtybeans.github.io/AppsEtc/csources2/depiction.html
+Depiction: https://dirtybeans.github.io/AppsEtc/csources2/depiction600-1302.html
 Sponsor: Dirty Beans
 Maintainer: DirtyBeans <DirtyBeans@ca.rr.com>
 Suggests: com.dirtybeans.icon
@@ -63,7 +63,7 @@ Pre-Depends: firmware (>= 6.0.0)
 Conflicts: org.thebigboss.csources
 Replaces: org.thebigboss.csources
 Author: DirtyBeans@ <DirtyBeans@ca.rr.com>
-Depiction: https://dirtybeans.github.io/AppsEtc/csources2/depiction.html
+Depiction: https://dirtybeans.github.io/AppsEtc/csources2/depiction600-112.html
 Sponsor: Dirty Beans
 Maintainer: DirtyBeans <DirtyBeans@ca.rr.com>
 Suggests: com.dirtybeans.icon
@@ -88,8 +88,8 @@ Depends: firmware (>= 6.0), firmware (<= 10.2.1)
 Conflicts: org.thebigboss.csources, com.myrepospace.dirtybeans.csources2, com.dirtybeans.github.io.csources2
 Replaces: org.thebigboss.csources, com.myrepospace.dirtybeans.csources2, com.dirtybeans.github.io.csources2
 Architecture: iphoneos-arm
-Description: manage & toggle apt source entries
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=csources2Dp
+Description: manage & toggle apt source entries - http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=csources2Dp
+Depiction: https://dirtybeans.github.io/AppsEtc/csources2/depiction600-1021.html
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=csources2Dp
 Installed-Size: 26402
 Maintainer: BigBoss <bigboss@thebigboss.org>
@@ -115,8 +115,8 @@ Depends: firmware (>= 6.0), firmware (<= 9.3.3)
 Conflicts: org.thebigboss.csources, com.myrepospace.dirtybeans.csources2, com.dirtybeans.github.io.csources2
 Replaces: org.thebigboss.csources, com.myrepospace.dirtybeans.csources2, com.dirtybeans.github.io.csources2
 Architecture: iphoneos-arm
-Description: manage & toggle apt source entries
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=csources2Dp
+Description: manage & toggle apt source entries - http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=csources2Dp
+Depiction: https://dirtybeans.github.io/AppsEtc/csources2/depiction600-902.html
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=csources2Dp
 Installed-Size: 22012
 Maintainer: BigBoss <bigboss@thebigboss.org>
@@ -142,8 +142,8 @@ Depends: firmware (>= 6.0)
 Conflicts: org.thebigboss.csources, com.myrepospace.dirtybeans.csources2, com.dirtybeans.github.io.csources2
 Replaces: org.thebigboss.csources, com.myrepospace.dirtybeans.csources2, com.dirtybeans.github.io.csources2
 Architecture: iphoneos-arm
-Description: manage & toggle apt source entries
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=csources2Dp
+Description: manage & toggle apt source entries - http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=csources2Dp
+Depiction: https://dirtybeans.github.io/AppsEtc/csources2/depiction600-840.html
 Homepage: https://dirtybeans.github.io
 Installed-Size: 18022
 Maintainer: DirtyBeans <DirtyBeans@ca.rr.com>
