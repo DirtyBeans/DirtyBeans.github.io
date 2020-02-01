@@ -63,7 +63,7 @@ Pre-Depends: firmware (>= 6.0.0)
 Conflicts: org.thebigboss.csources
 Replaces: org.thebigboss.csources
 Author: DirtyBeans@ <DirtyBeans@ca.rr.com>
-Depiction: https://dirtybeans.github.io/AppsEtc/csources2/depiction600-112.html
+Depiction: https://dirtybeans.github.io/AppsEtc/csources2/depiction600-1121.html
 Sponsor: Dirty Beans
 Maintainer: DirtyBeans <DirtyBeans@ca.rr.com>
 Suggests: com.dirtybeans.icon
