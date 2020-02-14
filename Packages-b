@@ -59,7 +59,7 @@ Priority: extra
 Architecture: iphoneos-arm
 Homepage: https://dirtybeans.github.io
 Recommends: com.dirtybeans.icon
-Pre-Depends: firmware (>= 6.0.0)
+Pre-Depends: firmware (>= 6.0.0), firmware (<= 11.2.1)
 Conflicts: org.thebigboss.csources
 Replaces: org.thebigboss.csources
 Author: DirtyBeans@ <DirtyBeans@ca.rr.com>
@@ -111,7 +111,7 @@ SHA3-512: f1cabe745a7c571ca853733160e89ecdcca28a759e1d42325a3b4fec5cb32118dadbf8
 Package: com.dirtybeans.csources2
 Name: CSources2
 Version: 600.902-0
-Depends: firmware (>= 6.0), firmware (<= 9.3.3)
+Depends: firmware (>= 6.0), firmware (<= 9.0.2)
 Conflicts: org.thebigboss.csources, com.myrepospace.dirtybeans.csources2, com.dirtybeans.github.io.csources2
 Replaces: org.thebigboss.csources, com.myrepospace.dirtybeans.csources2, com.dirtybeans.github.io.csources2
 Architecture: iphoneos-arm
@@ -138,7 +138,7 @@ SHA3-512: 1e47a55bafa2189628e36f4440e510791cba4c4654e169582f9b8bf35b338150c66218
 Package: com.dirtybeans.csources2
 Name: CSources2
 Version: 600.841-2
-Depends: firmware (>= 6.0)
+Depends: firmware (>= 6.0), firmware (<= 8.4.1)
 Conflicts: org.thebigboss.csources, com.myrepospace.dirtybeans.csources2, com.dirtybeans.github.io.csources2
 Replaces: org.thebigboss.csources, com.myrepospace.dirtybeans.csources2, com.dirtybeans.github.io.csources2
 Architecture: iphoneos-arm
