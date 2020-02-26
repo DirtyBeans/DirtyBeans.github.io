@@ -1,0 +1,98 @@
+<package>
+	<id>com.dirtybeans.csources2</id>
+	<name>CSources2</name>
+	<version>933.1331-2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>9.3.3</miniOS>
+            <maxiOS>13.3.1</maxiOS>
+            <otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<shortDescription>CSources2.app</shortDescription>
+	<descriptionlist>
+		<description>CSources2 is a Cydia Sources Manager that allows full control over your sources.</description>
+		<description><![CDATA[
+		Add as many sources as you want.<br/>
+        Disable/Enable or delete them.<br/>
+        Add notes.<br/>
+        Check if Source is active.<br/>
+        Package details.<br/>
+        Import cydia.list, ????.list file , Web Link.<br/>
+        Backup Sources via iTune , iCloud , Manually.<br/>
+        Sync between devices.<br/>
+        Auto List feature. & More<br/>
+        Full Docs : CSources2 Blog<br/>
+        Please review all notes and documentation before contacting the developer.<br/>
+        Contact Dev via: In App<br/>
+        CSources2 / Info Page / Contact.<br/>
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Normal View - iPhone</description>
+			<image>ScreenShot_iphone_1.png</image>
+		</screenshot>		
+		<screenshot>
+			<description>Enable / Disable Repo confirmation</description>
+			<image>ScreenShot_iphone_2.png</image>
+		</screenshot>
+        <screenshot>
+            <description>Enable / Disable Repo confirmation</description>
+            <image>ScreenShot_iphone_2.png</image>
+        </screenshot>
+        <screenshot>
+            <description>Color Schemes, sample iPhone</description>
+            <image>ScreenShot_iphone_3.png</image>
+        </screenshot>
+        <screenshot>
+            <description>Native Dark Mode</description>
+            <image>ScreenShot_iphone_4.png</image>
+        </screenshot>
+        <screenshot>
+            <description>Packages</description>
+            <image>ScreenShot_iphone_5.png</image>
+        </screenshot>
+        <screenshot>
+            <description>Web View Repo</description>
+            <image>ScreenShot_iphone_6.png</image>
+        </screenshot>
+        <screenshot>
+            <description>Normal View - iPad</description>
+            <image>ScreenShot_ipad_1.png</image>
+        </screenshot>
+        <screenshot>
+            <description>Repo Details</description>
+            <image>ScreenShot_ipad_2.png</image>
+        </screenshot>
+        <screenshot>
+            <description>Dark Mode Web View</description>
+            <image>ScreenShot_ipad_3.png</image>
+        </screenshot>
+        <screenshot>
+            <description>Info Page</description>
+            <image>ScreenShot_ipad_4.png</image>
+        </screenshot>
+        <screenshot>
+            <description>Color Schemes, sample iPad</description>
+            <image>ScreenShot_ipad_5.png</image>
+        </screenshot>
+        <screenshot>
+            <description>Dark Mode - Packages</description>
+            <image>ScreenShot_ipad_6.png</image>
+        </screenshot>
+	</screenshots>
+	<changelog>
+		<change>Fixed iOS 12.4.1 and below back button issue.</change>
+		<change>Added the ability to import json files in Import Friends List.</change>
+		<change>More</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/CSources2</name>
+			<url>https://www.reddit.com/r/CSources2</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
