@@ -1,5 +1,35 @@
 Package: com.dirtybeans.csources2
 Name: CSources2
+Version: 933.1331-3.1
+Installed-Size: 18098
+Priority: extra
+Architecture: iphoneos-arm
+Homepage: https://dirtybeans.github.io
+Recommends: com.dirtybeans.icon
+Pre-Depends: firmware (>= 9.3.3), firmware (<= 13.3.1)
+Conflicts: org.thebigboss.csources
+Replaces: org.thebigboss.csources
+Author: DirtyBeans@ <DirtyBeans@ca.rr.com>
+Depiction: https://dirtybeans.github.io/AppsEtc/csources2/depiction.html
+Sponsor: Dirty Beans
+Maintainer: DirtyBeans <DirtyBeans@ca.rr.com>
+Suggests: com.dirtybeans.icon
+Section: Utilities
+dev: dirtybeans
+Tag: purpose::uikit, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
+Description: CSources2.app
+Icon: https://dirtybeans.github.io/AppsEtc/csources2/images/CSources2.png
+Filename: ./debs/com.dirtybeans.csources2_933.1331-3.1_iphoneos-arm.deb
+Size: 26799482
+MD5sum: 14363d9d825d7c1dce4fd02bf74b461a
+SHA-1: d5d7e06ee4c38b3fe3572e07e28b6423403affbf
+SHA-256: f4105eedda2ca8857b0e3c1c4ba47f3f688229096b18d0290b61190285b2eeaf
+SHA-512: 99aa9557d4a0b66e265469525084f3ce2954693a92222d12c1f791f793c15a3285997572ca2d6380e17045a69010b2a8fe528021db6ae89acfedcb73ab179946
+SHA3-256: 2954d1ac979862861d9020e4369cf6a37c63c05874691dcc5cddccd4bc52a5f7
+SHA3-512: 798837abe54d204d4862c3249b30d66a76bae134aa7206029303c5c63e8def9bfeac1064e9a9fa4e0a128e49f3af5abf3adaa4a7dfb51f0ce22eb9b9c7ade7c2
+
+Package: com.dirtybeans.csources2
+Name: CSources2
 Version: 933.1331-3.0
 Installed-Size: 18098
 Priority: extra
@@ -20,13 +50,13 @@ Tag: purpose::uikit, compatible::ios9, compatible::ios10, compatible::ios11, com
 Description: CSources2.app
 Icon: https://dirtybeans.github.io/AppsEtc/csources2/images/CSources2.png
 Filename: ./debs/com.dirtybeans.csources2_933.1331-3.0_iphoneos-arm.deb
-Size: 26799548
-MD5sum: c957a4ca1eb827dc3d0d8ce509eb5a13
-SHA-1: f49881081430ba34c853636b250995baff12b707
-SHA-256: d9c4c873b5f472ce17501c9310a979cdfd709ee9e20723d5f1002dec37954822
-SHA-512: 64077c88ad2a1874a3158a5d55eb8c84dd15e6b66c891ac5abc70a9584848da7ee6df5b7af97689fe80b20ea8345b448f6cd164e3aa9e43d24a7e2fc6ff73b6e
-SHA3-256: cf13837c8cc3063e21dabae514a90289f3305d21bdb510272e755cb1fda9995c
-SHA3-512: a13f885040d6c9aaf789612369b8a4ee05b99fe384a980a76d49cd8ecf00ecf200108df971ffc477c503a7b2213b6523d4f578f4ac0a2c20cc0558c97c815561
+Size: 26769910
+MD5sum: fc1e20bbc96ef2247b4f803a04e27b61
+SHA-1: 69e5073f379160c9c83303728bc339acbe9bc488
+SHA-256: 7eb2398c106a778b5d3759f013cb94fdd8a25fa2fa98b839da79f55df1850676
+SHA-512: 6cadc5074cb0a45f860abd44489d69c7b0bd6e297c12c4e40828abc624b861bbcd0245d5ccb8306f1fee53378df7d8ee16e4f8670a3e2fdb8bfc3711a187ff8f
+SHA3-256: 4ec16cfea47ef88249761700902c8d4f8b23e8e79ba80c6c5b48b547984b4eae
+SHA3-512: 433169d10a5ee7bc79a74897f7e091323baf72828f58dbc9ebf4f1d4bcc3137e4a3f7bc2dd377a03042bcdfc755085878295dd143144a0bb2bc66fd751aeb9a4
 
 Package: com.dirtybeans.csources2
 Name: CSources2
