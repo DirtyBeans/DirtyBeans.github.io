@@ -19,7 +19,7 @@ dev: dirtybeans
 Tag: purpose::uikit, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13, compatible::ios14
 Description: CSources2.app, Package Manager Sources Manager
 Icon: https://dirtybeans.github.io/AppsEtc/csources2/images/CSources2.png
-Filename: ./debs/com.dirtybeans.csources2_933.1331-3.3_iphoneos-arm.deb
+Filename: ./debs/com.dirtybeans.csources2_933.1341-0.0_iphoneos-arm.deb
 Size: 26920710
 MD5sum: 7d3d9d4f0f23e21eb4d0aa933be53c17
 SHA-1: 18ee7d1af0b6b56cc9421a163dd41428736eae14
