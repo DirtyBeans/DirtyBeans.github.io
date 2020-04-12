@@ -17,7 +17,7 @@ Suggests: com.dirtybeans.icon
 Section: Utilities
 dev: dirtybeans
 Tag: purpose::uikit, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13, compatible::ios14
-Description: CSources2.app
+Description: CSources2.app, Package Manager Sources Manager
 Icon: https://dirtybeans.github.io/AppsEtc/csources2/images/CSources2.png
 Filename: ./debs/com.dirtybeans.csources2_933.1331-3.3_iphoneos-arm.deb
 Size: 26919314
