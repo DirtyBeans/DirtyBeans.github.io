@@ -67,7 +67,7 @@ Homepage: https://dirtybeans.github.io/
 Recommends: com.dirtybeans.icon
 Pre-Depends: firmware (>= 9.3.3), firmware (<= 14.0.0)
 Author: DirtyBeans@ <DirtyBeans@ca.rr.com>
-Depiction: https://dirtybeans.github.io/urlschemer/depiction.html
+Depiction: https://dirtybeans.github.io/AppsEtc/urlschemer/depiction.html
 Sponsor: Dirty Beans
 Maintainer: DirtyBeans <DirtyBeans@ca.rr.com>
 Suggests: com.dirtybeans.icon
