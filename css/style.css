@@ -345,6 +345,22 @@ width:455px
 	margin:3px 9px 17px;
 	list-style:none
 }
+.pageitemwarning {
+	-webkit-border-radius:8px;
+	background-image: linear-gradient(to bottom, rgba(255,0,0,1), rgba(255,0,0,0));
+	border:#878787 solid 1px;
+	font-size:12pt;
+	color:#ffffff;
+	text-shadow: 1px 1px #ff0000;
+	overflow:hidden;
+	padding:0;
+	position:relative;
+	display:block;
+	height:auto;
+	width:auto;
+	margin:3px 9px 17px;
+	list-style:none
+}
 .pageitemdbs {
 	-webkit-border-radius:8px;
 	background:url("../images/DirtyBeans.web.background.png") 0 0 no-repeat;
