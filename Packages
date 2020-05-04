@@ -73,7 +73,7 @@ Maintainer: DirtyBeans <DirtyBeans@ca.rr.com>
 Suggests: com.dirtybeans.icon
 Section: Utilities
 dev: dirtybeans
-Tag: purpose::uikit, compatible::ios13
+Tag: purpose::uikit, compatible::ios12 compatible::ios13
 Description: URLScheme modifier, remover, etc.
 Icon: https://dirtybeans.github.io/AppsEtc/urlschemer/images/URLSchemer.png
 Filename: ./debs/com.dirtybeans.urlschemer_1.0-0_iphoneos-arm.deb
