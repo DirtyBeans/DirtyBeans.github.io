@@ -57,34 +57,6 @@ SHA-512: 1e0be7324c5c224826014eff809ebbc44922921c496c2a7b69444b473ac91bf0bb8207d
 SHA3-256: 673e78a8c4576cac5026a4b51b796af686ac65a6a335895d98f540fd8c8655bf
 SHA3-512: ff92626809ea1980f6fc6228524cac60c3f59e4971556ec97fb35e9fe3c46fdff47364d8ddcca2af59941c218c9583ba1c3686a0800d6e7f50cf3cfbef5adc64
 
-Package: com.dirtybeans.urlschemer
-Name: URLSchemer
-Version: 1.0-0
-Installed-Size: 16742
-Priority: extra
-Architecture: iphoneos-arm
-Homepage: https://dirtybeans.github.io/
-Recommends: com.dirtybeans.icon
-Pre-Depends: firmware (>= 9.3.3), firmware (<= 14.0.0)
-Author: DirtyBeans@ <DirtyBeans@ca.rr.com>
-Depiction: https://dirtybeans.github.io/AppsEtc/urlschemer/depiction.html
-Sponsor: Dirty Beans
-Maintainer: DirtyBeans <DirtyBeans@ca.rr.com>
-Suggests: com.dirtybeans.icon
-Section: Utilities
-dev: dirtybeans
-Tag: purpose::uikit, compatible::ios12 compatible::ios13
-Description: URLScheme modifier, remover, etc.
-Icon: https://dirtybeans.github.io/AppsEtc/urlschemer/images/URLSchemer.png
-Filename: ./debs/com.dirtybeans.urlschemer_1.0-0_iphoneos-arm.deb
-Size: 16120094
-MD5sum: 92cf77cdeb907af30c9991cfb874be2f
-SHA-1: 21bcce97856656da2e03eb47772bc09f7ca486ed
-SHA-256: 661b51dcd061fde39019d3a0b65b906fb96578bf6e8cb6093224cafa6254fb5f
-SHA-512: db30631be317d348ffbea0782e4b709f104c697b2c1a85a3d026fa8be204370506556735ec8522c562e91441cf558b5f446632e2408964b7a3c3b9586c64d158
-SHA3-256: 22c6074da005ba186f46517d9fb4a769fffcc7781318395fbe372c3a53743d1d
-SHA3-512: cdcf0a8553798c14f6b462f80e02a0ea9626571872b04ed50adac8534ab466599883c1bbe06e76c2f79b65e2e0fb5a77013a9dd73317392de4d8676232cfd4e3
-
 Package: com.dirtybeans.csources2
 Name: CSources2
 Version: 933.1331-3.3
