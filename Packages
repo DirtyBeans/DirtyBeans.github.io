@@ -21,7 +21,7 @@ Description: CSources2.app, Package Manager Sources Manager
 Icon: https://dirtybeans.github.io/AppsEtc/csources2/images/CSources2.png
 Filename: ./debs/com.dirtybeans.csources2_933.1421-0.0_iphoneos-arm.deb
 Size: 26962364
-MD5: dd8e4e8043fddff56098d4b72268fbc0
+MD5sum: dd8e4e8043fddff56098d4b72268fbc0
 SHA-1: be5b443da3c896ebce65e835fb8a10eb63a868a9
 SHA-256: 10ecf19418417d441680a592ddf6723c4dd6e89e57166385cb8d14fb0eb54d6b
 SHA-512: dc48785e6245053cd92e2d1450c9b1483d87696accb2fc1068ef202cea0b9429a1efd300165f76ba8c2b29c831e23400b51f27e0c2d28acafa8b7c835829b416
