@@ -1,5 +1,36 @@
 Package: com.dirtybeans.csources2
 Name: CSources2
+Version: 933.1421-0.5
+Installed-Size: 18098
+Priority: extra
+Architecture: iphoneos-arm
+Homepage: https://dirtybeans.github.io
+Recommends: com.dirtybeans.github.io.dbsicons
+Pre-Depends: firmware (>= 9.3.3), firmware (<= 14.2.1)
+Conflicts: org.thebigboss.csources
+Replaces: org.thebigboss.csources
+Author: DirtyBeans@ <DirtyBeans@ca.rr.com>
+Depiction: https://dirtybeans.github.io/AppsEtc/csources2/depiction.html
+SileoDepiction: https://DirtyBeans.github.io/AppsEtc/csources2/depiction.html
+Sponsor: Dirty Beans
+Maintainer: DirtyBeans <DirtyBeans@ca.rr.com>
+Suggests: com.dirtybeans.github.io.dbsicons
+Section: DirtyBeans.Utilities
+dev: dirtybeans
+Tag: purpose::uikit, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13, compatible::ios14
+Description: CSources2.app, Package Manager Sources Manager
+Icon: https://dirtybeans.github.io/AppsEtc/csources2/images/CSources2.png
+Filename: ./debs/com.dirtybeans.csources2_933.1421-0.5_iphoneos-arm.deb
+Size: 27324062
+MD5sum: 2b3e6f37847fdf0cc7ad697cb6771aea
+SHA-1: 1379f482cf7901f4972fd0225a8d792d1580c3ef
+SHA-256: 53dba80b78fcf39684c48716f29274d3bed6925daaec3717c1c0ee65d57d0bc7
+SHA-512: 2a63a5659d35f08b26224b5bc25bb559b7e9b94ab01d187024f9ed40be663824e1df8b144b944599fa9f5ab9336f7b662de9247b6d178edc1cb573e06fa6aeec
+SHA3-256: d3a13a7d2a94458b7113f1390510c2cdb59bf83e3378de20b377644d8bc70d3b
+SHA3-512: fe358185dfabdd1d4138a9e6cb07e3a8e17959973cb2fae751ede0e7b82d2e59c99d2c769a0b221b29c26036c0b2a5b1e0940d9943512578ba66da33c1905abd
+
+Package: com.dirtybeans.csources2
+Name: CSources2
 Version: 933.1421-0.1
 Installed-Size: 18098
 Priority: extra
@@ -11,6 +42,7 @@ Conflicts: org.thebigboss.csources
 Replaces: org.thebigboss.csources
 Author: DirtyBeans@ <DirtyBeans@ca.rr.com>
 Depiction: https://dirtybeans.github.io/AppsEtc/csources2/depiction.html
+SileoDepiction: https://DirtyBeans.github.io/AppsEtc/csources2/depiction.html
 Sponsor: Dirty Beans
 Maintainer: DirtyBeans <DirtyBeans@ca.rr.com>
 Suggests: com.dirtybeans.github.io.dbsicons
