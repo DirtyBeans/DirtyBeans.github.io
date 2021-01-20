@@ -21,13 +21,13 @@ Tag: purpose::uikit, compatible::ios9, compatible::ios10, compatible::ios11, com
 Description: CSources2.app, Package Manager Sources Manager
 Icon: https://dirtybeans.github.io/AppsEtc/csources2/images/CSources2.png
 Filename: ./debs/com.dirtybeans.csources2_933.1421-0.5_iphoneos-arm.deb
-Size: 27324062
-MD5sum: 2b3e6f37847fdf0cc7ad697cb6771aea
-SHA-1: 1379f482cf7901f4972fd0225a8d792d1580c3ef
-SHA-256: 53dba80b78fcf39684c48716f29274d3bed6925daaec3717c1c0ee65d57d0bc7
-SHA-512: 2a63a5659d35f08b26224b5bc25bb559b7e9b94ab01d187024f9ed40be663824e1df8b144b944599fa9f5ab9336f7b662de9247b6d178edc1cb573e06fa6aeec
-SHA3-256: d3a13a7d2a94458b7113f1390510c2cdb59bf83e3378de20b377644d8bc70d3b
-SHA3-512: fe358185dfabdd1d4138a9e6cb07e3a8e17959973cb2fae751ede0e7b82d2e59c99d2c769a0b221b29c26036c0b2a5b1e0940d9943512578ba66da33c1905abd
+Size: 27323730
+MD5sum: fbc8592f10fcdfa7c9fc13623080c136
+SHA-1: 3bef43b9c392c1d81a8d471f1e1f95bd230d6111
+SHA-256: 29f5039f63583abfab735578b96dfbd53ee6584722f270196d05e16cd7917f4c
+SHA-512: ba8ee71f265ec25168a395965eef8e1ca5be7aa03338e264cf4d0adfd493e90f2ae116715670dd5b22e4c5b6a87b1f61a7003fb6f9ce94a62faa5ed43a927e1d
+SHA3-256: 3bd958eea3147c7fb2f0c67cb7cc94e24e750d09df784ed73d9fbfa49710771a
+SHA3-512: 5b1a907d17efb3014d61ed8d786f0d8bbcafb9596db886bc4df53150b56b623923f5ceff7f231eb1c359e35b5e41604c7af91c695f5210e2d89b866374685e2d
 
 Package: com.dirtybeans.csources2
 Name: CSources2
