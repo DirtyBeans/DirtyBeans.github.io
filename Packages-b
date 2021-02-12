@@ -122,35 +122,6 @@ SHA3-512: ab7514143039d53502601ebd0d2ad75153dd5c95ea307bf0e33de85fe80df69f91b36c
 
 Package: com.dirtybeans.csources2.sileosupport
 Name: CSources2 Sileo Support
-Version: 1.1
-Installed-Size: 3
-Priority: extra
-Architecture: iphoneos-arm
-Homepage: https://dirtybeans.github.io
-Recommends: com.dirtybeans.github.io.dbsicons
-Pre-Depends: firmware (>= 9.3.3), com.dirtybeans.csources2 (>= 933.1421-0.7)
-Depends: org.coolstar.sileo
-Author: DirtyBeans@ <DirtyBeans@ca.rr.com>
-Depiction: https://dirtybeans.github.io/AppsEtc/csources2Sileo/depiction.html
-Sponsor: Dirty Beans
-Maintainer: DirtyBeans <DirtyBeans@ca.rr.com>
-Suggests: com.dirtybeans.github.io.dbsicons
-Section: DirtyBeans.Utilities
-dev: dirtybeans
-Tag: purpose::extension, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13, compatible::ios14
-Description: CSources2.app Sileo Support
-Icon: https://dirtybeans.github.io/AppsEtc/csources2/images/CSources2.png
-Filename: ./debs/com.dirtybeans.csources2.sileosupport_1.1_iphoneos-arm.deb
-Size: 1918
-MD5sum: a22cfcbe04937063d322b6a191111f9e
-SHA-1: 0219e3df256dea32c2906e63bdbf66c7837011b6
-SHA-256: 4d77473029c2edf2161ef139215b4459676fb95018251f8aaedaebded86e7c8f
-SHA-512: 0875931eb14b0b7031d0582e79b9c353250a9ef9304457bcd6952c1bc410fae7b3355f39cbd0989ae0c814f7b6f98cbbc0d389c12b4dabffc6e2cf1fbea351de
-SHA3-256: d51c696f2a33feeb36a88256690a4e31dd44b448fd5a92d2c203f6b2baac3b98
-SHA3-512: 9388055e229d1d53a929f087262ff344301df1c99d1149f7078e556749f437228a83f23a483cc0ae786cb8cbc4766c7575054bdf8015eb4e76dc562234d646e4
-
-Package: com.dirtybeans.csources2.sileosupport
-Name: CSources2 Sileo Support
 Version: 1.0
 Installed-Size: 3
 Priority: extra
