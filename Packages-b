@@ -1,5 +1,36 @@
 Package: com.dirtybeans.csources2
 Name: CSources2
+Version: 933.1441-0
+Installed-Size: 18098
+Priority: extra
+Architecture: iphoneos-arm
+Homepage: https://dirtybeans.github.io
+Recommends: com.dirtybeans.github.io.dbsicons
+Pre-Depends: firmware (>= 9.3.3), firmware (<= 14.4.1)
+Conflicts: org.thebigboss.csources
+Replaces: org.thebigboss.csources
+Author: DirtyBeans@ <DirtyBeans@ca.rr.com>
+Depiction: https://dirtybeans.github.io/AppsEtc/csources2/depiction.html
+SileoDepiction: https://DirtyBeans.github.io/AppsEtc/csources2/depiction.html
+Sponsor: Dirty Beans
+Maintainer: DirtyBeans <DirtyBeans@ca.rr.com>
+Suggests: com.dirtybeans.github.io.dbsicons
+Section: DirtyBeans.Utilities
+dev: dirtybeans
+Tag: purpose::uikit, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13, compatible::ios14
+Description: CSources2.app, Package Manager Sources Manager
+Icon: https://dirtybeans.github.io/AppsEtc/csources2/images/CSources2.png
+Filename: ./debs/com.dirtybeans.csources2_933.1441-0_iphoneos-arm.deb
+Size: 25233142
+MD5sum: 9bce8777f6dfff614c3684377e8f15bb
+SHA-1: f0e39f55f4bcf55cd1a4ed67d5ad0fe8ad405f28
+SHA-256: 42470357fc050471a73613f76fd1af87249d9625ee47dcd21588db269ec31700
+SHA-512: f9e500934253c6bfe2a987c2ec1a7601ff991e98865015ccc80c2109d630e6ab3c29caa39ad386d2b7a96422bf474951c50bdd2b375aa6941c27ddd51ff964bf
+SHA3-256: d910603efbf09eb4a58214cbc47aa8e897cd6557cf307083841ac049ea9f4810
+SHA3-512: 9921cb3bc6614f74c319313e6df5995656ebea4e89747b0ab90a308c4af5c5624c302b51ab9907311f570ed960349ddd88f83973c5d5f0761bc6e272fc8a2e22
+
+Package: com.dirtybeans.csources2
+Name: CSources2
 Version: 933.1430-1
 Installed-Size: 18098
 Priority: extra
@@ -10,8 +41,8 @@ Pre-Depends: firmware (>= 9.3.3), firmware (<= 14.3.0)
 Conflicts: org.thebigboss.csources
 Replaces: org.thebigboss.csources
 Author: DirtyBeans@ <DirtyBeans@ca.rr.com>
-Depiction: https://dirtybeans.github.io/AppsEtc/csources2/depiction.html
-SileoDepiction: https://DirtyBeans.github.io/AppsEtc/csources2/depiction.html
+Depiction: https://dirtybeans.github.io/AppsEtc/csources2/depiction933-1430.html
+SileoDepiction: https://DirtyBeans.github.io/AppsEtc/csources2/depiction933-1430.html
 Sponsor: Dirty Beans
 Maintainer: DirtyBeans <DirtyBeans@ca.rr.com>
 Suggests: com.dirtybeans.github.io.dbsicons
@@ -41,8 +72,8 @@ Pre-Depends: firmware (>= 9.3.3), firmware (<= 14.3.0)
 Conflicts: org.thebigboss.csources
 Replaces: org.thebigboss.csources
 Author: DirtyBeans@ <DirtyBeans@ca.rr.com>
-Depiction: https://dirtybeans.github.io/AppsEtc/csources2/depiction.html
-SileoDepiction: https://DirtyBeans.github.io/AppsEtc/csources2/depiction.html
+Depiction: https://dirtybeans.github.io/AppsEtc/csources2/depiction933-1430.html
+SileoDepiction: https://DirtyBeans.github.io/AppsEtc/csources2/depiction933-1430.html
 Sponsor: Dirty Beans
 Maintainer: DirtyBeans <DirtyBeans@ca.rr.com>
 Suggests: com.dirtybeans.github.io.dbsicons
@@ -72,8 +103,8 @@ Pre-Depends: firmware (>= 9.3.3), firmware (<= 14.2.1)
 Conflicts: org.thebigboss.csources
 Replaces: org.thebigboss.csources
 Author: DirtyBeans@ <DirtyBeans@ca.rr.com>
-Depiction: https://dirtybeans.github.io/AppsEtc/csources2/depiction.html
-SileoDepiction: https://DirtyBeans.github.io/AppsEtc/csources2/depiction.html
+Depiction: https://dirtybeans.github.io/AppsEtc/csources2/depiction933-1421.html
+SileoDepiction: https://DirtyBeans.github.io/AppsEtc/csources2/depiction933-1421.html
 Sponsor: Dirty Beans
 Maintainer: DirtyBeans <DirtyBeans@ca.rr.com>
 Suggests: com.dirtybeans.github.io.dbsicons
@@ -103,8 +134,8 @@ Pre-Depends: firmware (>= 9.3.3), firmware (<= 14.2.1)
 Conflicts: org.thebigboss.csources
 Replaces: org.thebigboss.csources
 Author: DirtyBeans@ <DirtyBeans@ca.rr.com>
-Depiction: https://dirtybeans.github.io/AppsEtc/csources2/depiction.html
-SileoDepiction: https://DirtyBeans.github.io/AppsEtc/csources2/depiction.html
+Depiction: https://dirtybeans.github.io/AppsEtc/csources2/depiction933-1421.html
+SileoDepiction: https://DirtyBeans.github.io/AppsEtc/csources2/depiction933-1421.html
 Sponsor: Dirty Beans
 Maintainer: DirtyBeans <DirtyBeans@ca.rr.com>
 Suggests: com.dirtybeans.github.io.dbsicons
@@ -134,8 +165,8 @@ Pre-Depends: firmware (>= 9.3.3), firmware (<= 14.2.1)
 Conflicts: org.thebigboss.csources
 Replaces: org.thebigboss.csources
 Author: DirtyBeans@ <DirtyBeans@ca.rr.com>
-Depiction: https://dirtybeans.github.io/AppsEtc/csources2/depiction.html
-SileoDepiction: https://DirtyBeans.github.io/AppsEtc/csources2/depiction.html
+Depiction: https://dirtybeans.github.io/AppsEtc/csources2/depiction933-1421.html
+SileoDepiction: https://DirtyBeans.github.io/AppsEtc/csources2/depiction933-1421.html
 Sponsor: Dirty Beans
 Maintainer: DirtyBeans <DirtyBeans@ca.rr.com>
 Suggests: com.dirtybeans.github.io.dbsicons
@@ -165,7 +196,7 @@ Pre-Depends: firmware (>= 9.3.3), firmware (<= 14.2.1)
 Conflicts: org.thebigboss.csources
 Replaces: org.thebigboss.csources
 Author: DirtyBeans@ <DirtyBeans@ca.rr.com>
-Depiction: https://dirtybeans.github.io/AppsEtc/csources2/depiction.html
+Depiction: https://dirtybeans.github.io/AppsEtc/csources2/depiction933-1421.html
 Sponsor: Dirty Beans
 Maintainer: DirtyBeans <DirtyBeans@ca.rr.com>
 Suggests: com.dirtybeans.github.io.dbsicons
@@ -195,7 +226,7 @@ Pre-Depends: firmware (>= 9.3.3), firmware (<= 14.0.1)
 Conflicts: org.thebigboss.csources
 Replaces: org.thebigboss.csources
 Author: DirtyBeans@ <DirtyBeans@ca.rr.com>
-Depiction: https://dirtybeans.github.io/AppsEtc/csources2/depiction.html
+Depiction: https://dirtybeans.github.io/AppsEtc/csources2/depiction933-1401.html
 Sponsor: Dirty Beans
 Maintainer: DirtyBeans <DirtyBeans@ca.rr.com>
 Suggests: com.dirtybeans.github.io.dbsicons
@@ -254,7 +285,7 @@ Pre-Depends: firmware (>= 9.3.3), firmware (<= 13.4.1)
 Conflicts: org.thebigboss.csources
 Replaces: org.thebigboss.csources
 Author: DirtyBeans@ <DirtyBeans@ca.rr.com>
-Depiction: https://dirtybeans.github.io/AppsEtc/csources2/depiction.html
+Depiction: https://dirtybeans.github.io/AppsEtc/csources2/depiction933-1341.html
 Sponsor: Dirty Beans
 Maintainer: DirtyBeans <DirtyBeans@ca.rr.com>
 Suggests: com.dirtybeans.github.io.dbsicons
@@ -284,7 +315,7 @@ Pre-Depends: firmware (>= 9.3.3), firmware (<= 1331-3.3)
 Conflicts: org.thebigboss.csources
 Replaces: org.thebigboss.csources
 Author: DirtyBeans@ <DirtyBeans@ca.rr.com>
-Depiction: https://dirtybeans.github.io/AppsEtc/csources2/depiction.html
+Depiction: https://dirtybeans.github.io/AppsEtc/csources2/depiction933-1331.html
 Sponsor: Dirty Beans
 Maintainer: DirtyBeans <DirtyBeans@ca.rr.com>
 Suggests: com.dirtybeans.github.io.dbsicons
@@ -314,7 +345,7 @@ Pre-Depends: firmware (>= 9.3.3), firmware (<= 13.3.1)
 Conflicts: org.thebigboss.csources
 Replaces: org.thebigboss.csources
 Author: DirtyBeans@ <DirtyBeans@ca.rr.com>
-Depiction: https://dirtybeans.github.io/AppsEtc/csources2/depiction.html
+Depiction: https://dirtybeans.github.io/AppsEtc/csources2/depiction933-1331.html
 Sponsor: Dirty Beans
 Maintainer: DirtyBeans <DirtyBeans@ca.rr.com>
 Suggests: com.dirtybeans.github.io.dbsicons
@@ -344,7 +375,7 @@ Pre-Depends: firmware (>= 9.3.3), firmware (<= 13.3.1)
 Conflicts: org.thebigboss.csources
 Replaces: org.thebigboss.csources
 Author: DirtyBeans@ <DirtyBeans@ca.rr.com>
-Depiction: https://dirtybeans.github.io/AppsEtc/csources2/depiction.html
+Depiction: https://dirtybeans.github.io/AppsEtc/csources2/depiction933-1331.html
 Sponsor: Dirty Beans
 Maintainer: DirtyBeans <DirtyBeans@ca.rr.com>
 Suggests: com.dirtybeans.github.io.dbsicons
@@ -374,7 +405,7 @@ Pre-Depends: firmware (>= 9.3.3), firmware (<= 13.3.1)
 Conflicts: org.thebigboss.csources
 Replaces: org.thebigboss.csources
 Author: DirtyBeans@ <DirtyBeans@ca.rr.com>
-Depiction: https://dirtybeans.github.io/AppsEtc/csources2/depiction.html
+Depiction: https://dirtybeans.github.io/AppsEtc/csources2/depiction933-1331.html
 Sponsor: Dirty Beans
 Maintainer: DirtyBeans <DirtyBeans@ca.rr.com>
 Suggests: com.dirtybeans.github.io.dbsicons
@@ -404,7 +435,7 @@ Pre-Depends: firmware (>= 9.3.3), firmware (<= 13.3.1)
 Conflicts: org.thebigboss.csources
 Replaces: org.thebigboss.csources
 Author: DirtyBeans@ <DirtyBeans@ca.rr.com>
-Depiction: https://dirtybeans.github.io/AppsEtc/csources2/depiction.html
+Depiction: https://dirtybeans.github.io/AppsEtc/csources2/depiction933-1331.html
 Sponsor: Dirty Beans
 Maintainer: DirtyBeans <DirtyBeans@ca.rr.com>
 Suggests: com.dirtybeans.github.io.dbsicons
@@ -434,7 +465,7 @@ Pre-Depends: firmware (>= 9.3.3), firmware (<= 13.3.1)
 Conflicts: org.thebigboss.csources
 Replaces: org.thebigboss.csources
 Author: DirtyBeans@ <DirtyBeans@ca.rr.com>
-Depiction: https://dirtybeans.github.io/AppsEtc/csources2/depiction.html
+Depiction: https://dirtybeans.github.io/AppsEtc/csources2/depiction933-1331.html
 Sponsor: Dirty Beans
 Maintainer: DirtyBeans <DirtyBeans@ca.rr.com>
 Suggests: com.dirtybeans.github.io.dbsicons
@@ -464,7 +495,7 @@ Pre-Depends: firmware (>= 9.3.3), firmware (<= 13.3.1)
 Conflicts: org.thebigboss.csources
 Replaces: org.thebigboss.csources
 Author: DirtyBeans@ <DirtyBeans@ca.rr.com>
-Depiction: https://dirtybeans.github.io/AppsEtc/csources2/depiction.html
+Depiction: https://dirtybeans.github.io/AppsEtc/csources2/depiction933-1331.html
 Sponsor: Dirty Beans
 Maintainer: DirtyBeans <DirtyBeans@ca.rr.com>
 Suggests: com.dirtybeans.github.io.dbsicons
