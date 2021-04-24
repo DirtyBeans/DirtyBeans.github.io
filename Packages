@@ -284,7 +284,7 @@ Architecture: iphoneos-arm
 Homepage: https://dirtybeans.github.io
 Recommends: com.dirtybeans.github.io.dbsicons
 Pre-Depends: firmware (>= 9.3.3), com.dirtybeans.csources2 (>= 933.1331-3.2)
-Depends: org.coolstar.sileo, cydia-dark (>= 2.1-1)
+Depends: org.coolstar.sileo
 Author: DirtyBeans@ <DirtyBeans@ca.rr.com>
 Depiction: https://dirtybeans.github.io/AppsEtc/csources2Sileo/depiction.html
 Sponsor: Dirty Beans
