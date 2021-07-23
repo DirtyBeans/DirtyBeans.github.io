@@ -11,6 +11,7 @@
             ringtones, themes</title>
 <meta content="iPod,iPhone,Webkit,Website,Create,mobile," name="keywords" />
 <meta content="Thanks for stoping by." name="description" />
+<script src="../../js/mobileDevice.js" async></script>
 </head>
 
 <body>
@@ -33,11 +34,12 @@
 		</ul>
 	</div>
 
-	<div class="prerequisite" data-min-ios="9.3.3" data-max-ios="14.6.0">
+	
 		<ul class="pageitem" style="text-align: center">
         <p>Device Model: <script>document.write(MobileDevice.getModels().join(' or '));</script></p>
+        <p>Device Model: <script>document.write(MobileDevice.is());</script></p>
 		</ul>
-	</div>
+	
 
 	<ul class="pageitem">
 		<li class="menu">
@@ -191,7 +193,6 @@
 		<a href="https://dirtybeans.wordpress.com/">All rights reserved.</a></div>
 </div>
 <script src="../../js/versioncheck.js" async></script>
-<script src="../../js/mobileDevice.js" async></script>
 
 </body>
 
