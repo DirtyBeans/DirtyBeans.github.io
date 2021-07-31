@@ -1,5 +1,36 @@
 Package: com.dirtybeans.csources2
 Name: CSources2
+Version: 933.1471-0
+Installed-Size: 18722
+Priority: extra
+Architecture: iphoneos-arm
+Homepage: https://dirtybeans.github.io
+Recommends: com.dirtybeans.github.io.dbsicons
+Pre-Depends: firmware (>= 9.3.3), firmware (<= 14.7.1)
+Conflicts: org.thebigboss.csources
+Replaces: org.thebigboss.csources
+Author: DirtyBeans@ <DirtyBeans@ca.rr.com>
+Depiction: https://dirtybeans.github.io/AppsEtc/csources2/depiction.html
+SileoDepiction: https://DirtyBeans.github.io/AppsEtc/csources2/depiction.html
+Sponsor: Dirty Beans
+Maintainer: DirtyBeans <DirtyBeans@ca.rr.com>
+Suggests: com.dirtybeans.github.io.dbsicons
+Section: DirtyBeans.Utilities
+dev: dirtybeans
+Tag: purpose::uikit, compatible_min::ios9, compatible_max::ios14
+Description: CSources2.app, Package Manager Sources Manager
+Icon: https://dirtybeans.github.io/AppsEtc/csources2/images/CSources2.png
+Filename: ./debs/com.dirtybeans.csources2_933.1471-0_iphoneos-arm.deb
+Size: 26391654
+MD5sum: 539d2dac88ebcdea98b5fd2cd1fae46a
+SHA-1: 1d3baa5001c6c7c0f644b7d94536fda1b59c2293
+SHA-256: 50e66f7cdf0b6799d3de30521ae45d431c63a91dcca0953ddd1bd65f6d2df942
+SHA-512: 8b58edeb66f6808e39c73768a157ceefdb7739abc362a1df20c0e6cab3b9fe37fc4eeb939347a5a155cd1af1cb5e1f3cee0fa593e2b1b0367a725f7dd5f75199
+SHA3-256: 95f40989c2c1bb7806465b6fa9bcccf7d3aff651b0314415c1269428dc755c8c
+SHA3-512: cad86096dcf17e4a6a8b9c7f033e9a30e7980c98fba0c132608725b1d9c3018ad805092f7e536c739ad8a46c3e58616c61fd11b4e848e4c624f640e922f8b2e2
+
+Package: com.dirtybeans.csources2
+Name: CSources2
 Version: 933.1460-0
 Installed-Size: 18098
 Priority: extra
