@@ -6,4 +6,4 @@ Codename: DirtyBeans
 Architectures: iphoneos-arm
 Components: main
 Description: Official DirtyBean's Stable Apps, Tweaks, Mods and Themes.
-Icon: file:///Applications/Cydia.app/Sources/dirtybeans.com.png
+Icon: file://CydiaIcon.png
