@@ -6,7 +6,7 @@ Priority: extra
 Architecture: iphoneos-arm
 Homepage: https://dirtybeans.github.io
 Recommends: com.dirtybeans.github.io.dbsicons
-Pre-Depends: firmware (>= 9.3.3), firmware (<= 16.4.0)
+Pre-Depends: firmware (>= 9.3.3), firmware (<= 16.3.1)
 Conflicts: org.thebigboss.csources
 Replaces: org.thebigboss.csources
 Author: DirtyBeans@ <DirtyBeans@ca.rr.com>

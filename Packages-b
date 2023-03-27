@@ -6,7 +6,7 @@ Priority: extra
 Architecture: iphoneos-arm
 Homepage: https://dirtybeans.github.io
 Recommends: com.dirtybeans.github.io.dbsicons
-Pre-Depends: firmware (>= 9.3.3), firmware (<= 16.4.0)
+Pre-Depends: firmware (>= 9.3.3), firmware (<= 16.3.1)
 Conflicts: org.thebigboss.csources
 Replaces: org.thebigboss.csources
 Author: DirtyBeans@ <DirtyBeans@ca.rr.com>
@@ -1064,10 +1064,10 @@ Icon: https://dirtybeans.github.io/images/Sections/DirtyBeans.SRCs.png
 Description: Hack Sources for new Install or Restore.
  ****************************************
  Hack Sources for new Install or Restore.
- Once you restore your iphone etc. 
+ Once you restore your iphone etc.
  Use this package to Install additional Sources..
  This package will add hacksources.list to the Cydia sources.list.d folder.
- location: private-etc-apt-sources.list.d 
+ location: private-etc-apt-sources.list.d
  You may edit at anytime from this location.
  ****************************************
 Filename: ./debs/com.dirtybeans.hacksources_7.1.2-4_iphoneos-arm.deb
