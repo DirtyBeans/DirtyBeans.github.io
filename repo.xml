@@ -1,0 +1,14 @@
+<repo>
+	<footerlinks>
+		<link>
+			<name>Follow DirtyBeans on Twitter</name>
+			<url>https://twitter.com/DirtyBeansDBs</url>
+			<iconclass>fa fa-twitter</iconclass>
+		</link>
+		<link>
+			<name>DirtyBeansDBs GitHub Repo</name>
+			<url>https://github.com/dirtybeans/</url>
+			<iconclass>fa fa-thumbs-up</iconclass>
+		</link>
+	</footerlinks>
+</repo>
