@@ -1,16 +1,50 @@
 Package: com.dirtybeans.csources2
 Name: CSources2
+Version: 933.1631-1
+Installed-Size: 17800
+Priority: extra
+Architecture: iphoneos-arm
+Homepage: https://dirtybeans.github.io
+Recommends: com.dirtybeans.github.io.dbsicons
+Pre-Depends: firmware (>= 9.3.3), firmware (<= 16.4.0)
+Conflicts: org.thebigboss.csources
+Replaces: org.thebigboss.csources
+Author: DirtyBeans@ <DirtyBeans@ca.rr.com>
+Depiction: https://dirtybeans.github.io/depictions/csources2/depiction933-1631.html
+SileoDepiction: https://dirtybeans.github.io/depictions/csources2/depiction933-1631.html
+Support: https://csources2.wordpress.com/update-history/
+Sponsor: Dirty Beans
+Maintainer: DirtyBeans <DirtyBeans@ca.rr.com>
+Suggests: com.dirtybeans.github.io.dbsicons
+Section: DirtyBeans.Utilities
+dev: dirtybeans
+Tag: purpose::uikit, compatible_min::ios9, compatible_max::ios16
+Description: CSources2.app, Package Manager Sources Manager
+Icon: https://dirtybeans.github.io/depictions/csources2/images/CSources2.png
+Filename: ./debs/com.dirtybeans.csources2_933.1631-1_iphoneos-arm.deb
+Size: 17800248
+MD5sum: 0d1326aef3389fa06e2286fd927e52bd
+SHA-1: d33add6b821bcea6e550e94babe78f5ce4ebe42d
+SHA-256: b4ae18c39257280c4c87ad6838cf33f37c4a039268ea200e4a0db5cdf7d56bd0
+SHA-512: 2ec6e124057d407149259f23655e9db7e8726f0dbff0732f2890ffdb891bd054eaa9b70f8cb718be81d30a05d815f1be8400ccf96bb82ce09bf22d2c97aec5f1
+SHA3-256: 6c4255a7ecab9fb08fca29318d1108fff7afcf4444686ab5459c72e48ecbe30f
+SHA3-512: 04036befddb8bc02b44867027b9cc16bb6ca5b8fb3344646600d1f669de8ca2f74e7eb88274b9e63a3c7ad91958c424ae2ed55f958058c934b393ff16b5c2b76
+
+Package: com.dirtybeans.csources2
+Name: CSources2
 Version: 933.1631-0
 Installed-Size: 17756
 Priority: extra
 Architecture: iphoneos-arm
 Homepage: https://dirtybeans.github.io
 Recommends: com.dirtybeans.github.io.dbsicons
-Pre-Depends: firmware (>= 9.3.3), firmware (<= 16.3.1)
+Pre-Depends: firmware (>= 9.3.3), firmware (<= 16.4.0)
 Conflicts: org.thebigboss.csources
 Replaces: org.thebigboss.csources
 Author: DirtyBeans@ <DirtyBeans@ca.rr.com>
 Depiction: https://dirtybeans.github.io/depictions/csources2/depiction933-1631.html
+SileoDepiction: https://dirtybeans.github.io/depictions/csources2/depiction933-1631.html
+Support: https://csources2.wordpress.com/update-history/
 Sponsor: Dirty Beans
 Maintainer: DirtyBeans <DirtyBeans@ca.rr.com>
 Suggests: com.dirtybeans.github.io.dbsicons

@@ -1,12 +1,12 @@
 Origin: DirtyBeans (Official)
 Label: DirtyBeans
 Suite: stable
-Version: 1.1
+Version: 1.2
 Codename: DirtyBeans
 Architectures: iphoneos-arm
 Components: main
 Description: Official DirtyBean's Stable Apps, Tweaks, Mods and Themes.
 Icon: file://CydiaIcon.png
 MD5Sum:
- 8B3FB38DE0C0A29A3230CF906EA208AD 59100 Packages
- ADCE2C4D7BEFFEA29D05BF814391831C 14001 Packages.bz2
+ 978423F2B4C39CC4BB66F7022C845F90 60823 Packages
+ 999DDF01FDC47745FBFD3FCE592F51D5 14342 Packages.bz2
