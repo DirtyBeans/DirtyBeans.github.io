@@ -3,10 +3,35 @@ Label: DirtyBeans
 Suite: stable
 Version: 1.2
 Codename: DirtyBeans
-Architectures: iphoneos-arm
+Architectures: iphoneos-arm iphoneos-arm64
 Components: main
 Description: Official DirtyBean's Stable Apps, Tweaks, Mods and Themes.
 Icon: file://CydiaIcon.png
 MD5Sum:
- DF653AADEE054FAA5EB1B1D1F6D7E182 60645 Packages
- 4BA9D1890F265379ED40F6DFADB63E90 14349 Packages.bz2
+ Eb345aeeef58e53d3de3b8a451183637            62137 Packages
+ F0bfe633db027be81c2baa8ffc1fb8fa            14699 Packages.bz2
+ Ed120cd0f6fe23b4daca2eb2c0553aac            16587 Packages.gz
+ B704ab603d56f76fad635bec4e00d331            14347 Packages.lzma
+ Ef1669ead67fcb05921ade34cd5b971b            14280 Packages.xz
+ 050ecf7bb1f3a7f936fa5960580022b8            15812 Packages.zst
+SHA1:
+ Ef0bbd0e51e9fca30140cef6784990425132f2c5            62137 Packages
+ 0adc21de6f85208a2089c59de80d183ed4a3b69a            14699 Packages.bz2
+ 06f91b74763e4db95bb5cf38ea61af7ee9e5000d            16587 Packages.gz
+ 5432320fcc979bfdcd1177afb1b785232791f3ce            14347 Packages.lzma
+ 49deee09939506392890b29318e5e4548574627e            14280 Packages.xz
+ 8e59b673c8144f76ef44b7dfb2e3fc59e4beb2f6            15812 Packages.zst
+SHA256:
+ C652c813064c66903c8908e0e8ba9b5371c4d5d2caf1e51bf4ad14dab8be46b1            62137 Packages
+ Db9a295a08cd4100189b85f0b72eeb86562c7c009b01839eda9c7584c75cd3bb            14699 Packages.bz2
+ 3b2b23238479e520a3952aaf9e31cbc2a58fbb9643cbf7f6c8c5c837758f09d4            16587 Packages.gz
+ E5b104fcaee584350c3f25d8ebba4f9f434d066de9ed74f0a537c7b6d0c5080f            14347 Packages.lzma
+ 35eadbe72080e1dbcd4dd0d72328f4f739551becc48482f3edcafbf9f4e15f95            14280 Packages.xz
+ 1799bdc7fdb4d987aeafbc91d4bb6736880fa0759f0bd1c002bf1c75c37f9fd0            15812 Packages.zst
+SHA512:
+ 74691e929ff695529a6f9b0aeaff2bcc54551505031856cc62154efbf0eb4645a6d75f3adc41f17d8da546cebaa91733a0beb36449772253960469f5f0d12998            62137 Packages
+ Fafff75c13bfa34bfd65b15b6fa9623fc5f5de454e7980ed3b9f778337a7c56f9aa6d16bbc19b40468ef533efff03a332db1316aa7682fc4ee5d2bbf89ae77df            14699 Packages.bz2
+ E2554e20ca50cdb6ec184be57833282841b63b5fa1aca5c0b37c90f5147f3536ee22fa1365267afff0f55fde09292e8f3853bbbbe7fb6a5f4b8f05e5ad624eaa            16587 Packages.gz
+ 0edb0a4abfe7e65badcaf1c96819ecb0c226d63c783b6d7f73acbb76814b974020e9d360385cdada42ad09596ad120e29be31833797c0c32da4d8b678903e467            14347 Packages.lzma
+ Bf0595945ad99e9e14ab78525b5a01b3b3cf3c520bdc5b2677ead89def294b0f870ca53282083d3e6d1f859f376a3da6694ed9c75c3899aaede0a9b54c61ec60            14280 Packages.xz
+ 0a6402752cf8e12f4ebde0531ef49f2303a308d050b011d6ff38cb90be70b3783371bfa26bea5125de7ae5a8fe92b429687eb1a1e0128b9ade824d6c615f9da6            15812 Packages.zst
