@@ -1,0 +1,94 @@
+{
+    "minVersion": "0.1",
+    "headerImage": "https://DirtyBeans.github.io/assets/repo/Banners/RepoHeader.png",
+    "class": "DepictionTabView",
+    "tintColor": "#0657bb",
+    "tabs": [
+        {
+            "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBottomMargin": false,
+                    "title": "CSources2",
+                    "useBoldText": true
+                },
+                {
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView",
+                    "markdown": "CSources2 is a Repo / Sources Manager."
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot0",
+                            "url": "https://DirtyBeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_iphone_1.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot1",
+                            "url": "https://DirtyBeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_iphone_2.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot2",
+                            "url": "https://DirtyBeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_iphone_3.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot3",
+                            "url": "https://DirtyBeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_iphone_4.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot4",
+                            "url": "https://DirtyBeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_iphone_5.png"
+                        }
+                    ],
+                    "itemSize": "{160, 275.41333333333336}",
+                    "class": "DepictionScreenshotsView",
+                    "itemCornerRadius": 6
+                },
+                {
+                    "markdown": "CSources2 is a Repo / Sources Manager, that allows full control over your sources.",
+                    "class": "DepictionMarkdownView",
+                    "useBottomMargin": false,
+                    "title": "markdown-description",
+                    "useBoldText": true
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "text": "933.1631-2",
+                    "class": "DepictionTableTextView",
+                    "title": "Version"
+                },
+                {
+                    "text": "04-18-2023",
+                    "class": "DepictionTableTextView",
+                    "title": "Released"
+                },
+                {
+                    "text": "Free",
+                    "class": "DepictionTableTextView",
+                    "title": "Price"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "text": "DirtyBeans",
+                    "class": "DepictionTableTextView",
+                    "title": "Developer"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                }
+            ],
+            "class": "DepictionStackView",
+            "tabname": "Details"
+        }
+    ]
+}

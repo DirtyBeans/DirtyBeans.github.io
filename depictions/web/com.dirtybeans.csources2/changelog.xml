@@ -1,0 +1,230 @@
+<changelog>
+    <changes>
+        <version>933.1631-2</version>
+        <change>Added Fugu15 Jailbreak Detection.</change>
+        <change>Added Rootless & Rootful Support.
+            Rootless : com.dirtybeans.csources2_933.1631-2_iphoneos-arm64.deb
+            Rootful : com.dirtybeans.csources2_933.1631-2_iphoneos-arm.deb</change>
+        <change>Squashed some 🐞🐜🐛🕷🦟 ‘s.</change>
+    </changes>
+    <changes>
+        <version>933.1631-1</version>
+        <change>iOS 16.3.1 support.</change>
+        <change>iOS 16.4 installable : pkg firmware configuration allows : Installing on os 16.4</change>
+        <change>Added Xina Jailbreak Detection.</change>
+        <change>Added palera1n Jailbreak Detection.</change>
+        <change>Added Blizzard 9 Jailbreak Detection.</change>
+        <change>(+): Add A Source : now has a few choices.
+            + : Add repo
+            📋 : Copy enabled sources to clipboard for pasting into package managers.
+            If you want all of your sources even if not enabled. Use AutoLists , press its (+) to create your current enabled sources, then turn all on with the green button on top right. Use the (+)Add New Source button on the main page, then select 📋(Copy to clipboard).
+            Alive Status : Change how Check If Alive checks repo. (Alive Status)
+            Only active if Check If Alive is enabled.
+            Apply : Force Apply if your not sure.</change>
+        <change>BackBurners :
+            Added repo status.
+            BackBurners can be emailed via: Contact/Send Backups on the ⓘ Info page.</change>
+        <change>Check if Alive Status : Added to Settings, choose which type.
+            If repo was down but now live again, its switch handle will be green temporarily.
+            Read the -How To- Page in app.</change>
+        <change>Settings :
+            Added Enable/Disable the Are you sure alert for the Info page.
+            Tested Respring’s / UserSpace / ldrestart / Safe Mode / UICache’s</change>
+        <change>Sync Devices :
+            Repositories can now be sync’d via Replace or Merge.
+            BackBurners can now be sync’d via Replace or Merge.</change>
+        <change>Open Package Manager :
+            Cydia, Installer, PostBox, Saily, Sileo</change>
+        <change>Squashed some 🐞🐜🐛🕷🦟 ‘s.</change>
+        <change>Please Note: v933.1500-0 -> 1631.x has not been tested fully on an actual iOS 15+ A14+ jailbroken device. </change>
+        <change>Please Note: Future CSources2 versions will remove 32bit support. Please install the correct version for your device.
+            v933.1510.0-x = 32 bit support for iOS 9.3.3 -> 15.1.0 etc.
+            Some features as listed below will never work on iOS 9 etc.
+            v1100.1620.0-x = 64bit support for iOS 11 -> 16.2.0 etc
+            All listed features should work.</change>
+        <change>Working On :
+            Removing Cydia as the main manager handler.
+            Allowing app to function completely for any future package manager.</change>
+    </changes>
+    <changes>
+        <version>933.1500-0</version>
+        <change>iOS 15.0.0 support.</change>
+        <change>Please Note: CSources2 1500-0 has not been tested on an actual JB device. Awaiting proper JB, as files/folders/etc structure is unknown. This particular version will be replaced if needed.</change>
+        <change>This version does support iOS 14.8 JailBreaks.</change>
+    </changes>
+    <changes>
+        <version>933.1471-0</version>
+        <change>iOS 14.7.1 support.</change>
+        <change>Added ability to Import Parcility.co repo Sources.
+            ⓘ Info page -> Import.</change>
+        <change>Added (🔍N) to Quick Keys. (Return all Repos with keywords in Notes.)
+            Start a search using the 🔍 on the main page.
+            Type what to look for.
+            Press the (🔍N) Quick Key.
+            It will display only repositories containing the search criteria if found in the Notes section.</change>
+        <change>Modified Clean and its Settings.</change>
+        <change>Improved Sync Devices. (version specific).</change>
+        <change>Fixed, Zebra crashing. (New Zebra does not regenerate its db file.)
+            If on newer version of Zebra 1.1.12? and up. (I’m not sure 🤔)
+            In CS2 settings, turn OFF : Push To Zebra Force db
+            If on lower version of Zebra 1.1.12? and down. (I’m not sure 🤔)
+            In CS2 settings, turn ON : Push To Zebra Force db</change>
+        <change>Fixed, iPad2, iPhone4s etc on iOS 9.3.3,.5,.6 crash.</change>
+        <change>CS2 Cache has been rewritten. On the first run of this update, Be patient.</change>
+        <change>Squashed some 🐞🐜🐛🕷🦟 ‘s</change>
+    </changes>
+    <changes>
+        <version>933.1460-0</version>
+        <change>iOS 14.6.0 support.</change>
+        <change>Added line #’s if viewing .list files in  File viewer.
+            Useful when troubleshooting duplicate repo’s from other .list files via Cydia log, etc.</change>
+    </changes>
+    <changes>
+        <version>933.1451-0</version>
+        <change>iOS 14.5.1 support.</change>
+        <change>Added: Installed Packages (Batchomatic, BackupAZ, Cybackup, PkgBackup, etc. Alternative) View currently installed packages.
+            Displays ALL installed packages. Packages with Ω symbol are mostly required packages, or packages that do not contain the Name: tag.
+            (GoR) Generate a txt, html, or .cipf restore file.
+            iCloud Required.
+            html, currently disabled. (beta)
+            (GoR) Restore previously installed package(s).
+            iCloud Required.
+            Restores from any device containing a .cipf file in CSources2 iCloud /Install Packages/ folder.
+            Displays packages that are not installed on device per loaded .cipf file.
+            Delete a .cipf file from iCloud.
+            Email list of installed packages.
+            Save an installed packages list as .txt file. (stored in CSources2 Inbox folder)
+            View package data, files, etc.</change>
+        <change>Back Burners will now display activity if repo is alive again.</change>
+        <change>Paid/Commercial repo’s now display : 💳</change>
+        <change>Speed Improvements.</change>
+        <change>Donate will appears once per upgrade/downgrade. Please help out, it’s a lot of work. 🤓</change>
+        <change>Bug Fixes.</change>
+    </changes>
+    <changes>
+        <version>933.1442-0</version>
+        <change>iOS 14.4.2 support.</change>
+        <change>Will also work on iOS 14.5.x (unpack deb, update control file to iOS 14.5.?, repack, use Filza to install)</change>
+    </changes>
+    <changes>
+        <version>933.1441-0</version>
+        <change>Bug Fixes. Specific iPad models are crashing when using the share inside CSources2 browser. Use the (CS2) menu item instead.</change>
+        <change>Share Extension improvements.</change>
+    </changes>
+    <changes>
+        <version>933.1430-1</version>
+        <change>Added source hijack (In-App Browser).</change>
+        <change>Share Extension improvements.</change>
+        <change>Fix : iCloud backup occurring even if disabled.</change>
+        <change>Fix : Add Repo Via Share/CS2 would not add until the next time CS2 re-opened.</change>
+        <change>Bug Fixes.</change>
+    </changes>
+    <changes>
+        <version>933.1421-0.7</version>
+        <change>Added Share Extension: Add repo address</change>
+        <change>Added Share Extension : Download/Import .list .sources</change>
+        <change>Add Share Extension : Download/Import .cxpt .plist .json</change>
+        <change>Speed increase where it’s needed most.</change>
+        <change>Odyssey Support bug.</change>
+        <change>Import Cydia : will now look for Zebra, Sileo sources to import.</change>
+    </changes>
+    <changes>
+        <version>933.1421-0.6</version>
+        <change>Added Back Burners.</change>
+        <change>Fixed deprecated Browser.</change>
+        <change>Add repo via Browser.</change>
+        <change>Improved JSON file parsing.</change>
+        <change>Added more swipe gestures.</change>
+        <change>Import Friends list; ie, cxpt can now be imported directly via Browser, will also open the Import Friends List page for you.</change>
+    </changes>
+    <changes>
+        <version>933.1421-0.1</version>
+        <change>iOS 14.2.1 Support.</change>
+        <change>Browser now has 🔗 instead of Google. (more to come)</change>
+        <change>Fix : Multisync Color Scheme Cancel bug.</change>
+        <change>Fix : crash when syncing.</change>
+        <change>Fix : if CacheState.plist file is missing.</change>
+    </changes>
+    <changes>
+        <version>933.1400-0.1</version>
+        <change>iOS 13.5 Support.</change>
+        <change>Ready for iOS 14. (allow install up to iOS 14.0.1)</change>
+        <change>Removed Jailbreak detection support for Sileo & Zebra.</change>
+    </changes>
+    <changes>
+        <version>933.1331-3.2</version>
+        <change>Added Sileo, Zebra Support.</change>
+        <change>Fixed CSources2 ability to Re-Spring, UICache, ldrestart, Safe Mode.</change>
+        <change>Restore : Fast As Possible, 100* faster, practically immediate.</change>
+        <change>Added the ability to remove hijacks for known Package Managers.</change>
+        <change>Fixed Crash search on/off.</change>
+        <change>Jailbreak Detection on the Info page. If it doesn’t display, then CS2 is semi-supported for that particular jailbreak.</change>
+    </changes>
+    <changes>
+        <version>933.1331-2</version>
+        <change>Fixed iOS 12.4.1 and below back button issue.</change>
+        <change>Added the ability to import json files in Import Friends List.</change>
+        <change>Added Start Over, day 0.</change>
+        <change>Enabled Auto Dark Mode setting for Notched devices. Intended for users who enable auto dark/light or set dark light in ios Settings. (Notched devices status bar was remaining dark with dark status.)</change>
+        <change>Reset Preferences file, incorrect group/user.</change>
+        <change>Known issues: CSources2 Re-spring broken, use Power App etc. instead.</change>
+    </changes>
+    <changes>
+        <version>933.1331-0</version>
+        <change>iOS 9.3.3-13.3.1 unc0ver / checkra1n supported. Currently as long as the jailbreak is using sources.list.d folder for its sources.</change>
+        <change>Added Multi Delete.UI</change>
+        <change>Updated the Apply, now remembers.</change>
+        <change>GUI inprovments.</change>
+        <change>Added Packages Refresh Counts Reminder feature. Look at How To or Read blog for full details.</change>
+        <change>Updated Activity indicators.</change>
+        <change>StatusBar correction for dark mode.Added Dark/Light Mode Theme. Not yet complete.</change>
+        <change>Added Cydia Tweaks Page.</change>
+        <change>Icon Retrieval Update now leaves existing icon until a new one is found.</change>
+        <change>And of course some 🐞🐜🐛🕷🦟 's</change>
+    </changes>
+    <changes>
+        <version>600.1323-0</version>
+        <change>iOS 6.0.0-13.2.3 Support, Utilizing checkra1n exploit. Possible unc0ver.</change>
+    </changes>
+    <changes>
+        <version>600.1302-1</version>
+        <change><![CDATA[
+            UI Modifications.<br/>
+        iOS 6.0.0-13.x.x Support, posibile 13.2.3 & 13.3.<br/>
+        iPad7,5 - 7,6 - 7,11 - 7,12 - 11,3 - 11,4 - 8,7 - 8,8 - 11,1 - 11,2 Support.<br/>
+        iPhone12,1 - 12,3 - 12,5 Support.<br/>
+        CSources2 now shows repos that are already loaded into Cydia. If source is in Cydia, the source will be disabled in CSources2 and will have an orange tint.
+        Improved MultiSync.<br/>
+        Added Mark As IsSafe/UnSafe.<br/>
+        Added option to reset all settings via Settings. Also added option via the +(add new source) , type resetcs2defaults as if you were adding a new source.<br/>
+        Please note, when attempting to open a terminal app via CSources2, if the developer of the installed terminal app does not have a URLScheme for its app, then CSources2 cannot open it.<br/>
+        Webview improvements.<br/>
+        Fixed SlideOver/Splitview.<br/>
+        AutoSave improvements<br/>
+        New Settings.<br/>
+        Fixed open in app / safari.<br/>
+        XS Max, 11, 11Pro, 11ProMax etc compatibility.<br/>
+        Fixes for User Icons.<br/>
+        Improved icon download timing.<br/>
+        Auto Scrolling to new sources etc, improvements.<br/>
+        Browser now has static history(beta). By default, CS2 does not remember sites in Browser, turn on Static History, this can be flushed in settings.<br/>
+        User can mark a source as Safe (IsSafe) or UnSafe.<br/>
+        Currently fully tested on unc0ver (Undecimus-v3.7.0.b3), Cydia64_1.1.32~b22.<br/>
+        Backgrounding has been improved to allow coming back and forth or sidebyside integration.<br/>
+        App Colors features / color theming improvements.<br/>
+        And much more.....<br/>
+        ]]></change>
+    </changes>
+    <changes>
+        <version>600.1121-1</version>
+        <change>bug fix, if toggling repo on/off while searching &on or &off, search would crash.</change>
+    </changes>
+    <changes>
+        <version>600.812-3</version>
+        <change>Re-written from scratch. New look, New everything.</change>
+    </changes>
+    <changes>
+        <version>600.812-0</version>
+        <change>Second Initial Release</change>
+    </changes>
+</changelog>
