@@ -24,7 +24,6 @@
                 },
                 {
                     "screenshots": [
-                        
                         {
                             "accessibilityText": "Normal View - iPhone",
                             "url": "https://DirtyBeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_iphone_1.png",
@@ -102,7 +101,7 @@
                         }
                     ],
                     "itemSize": "{160, 284.44444444444}",
-                    "itemCornerRadius": 6,,
+                    "itemCornerRadius": 6,
                     "class": "DepictionScreenshotsView"
                 },
                 {
@@ -136,10 +135,10 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                   "class": "DepictionSubheaderView",
-                   "useBoldText": true,
-                   "useBottomMargin": false,
-                   "title": "Repo Manager Support:"
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "Repo Manager Support:"
                 },
                 {
                     "markdown": "<p><small style=\"color: #999; margin-top: -8px;\"><center>Cydia, Installer, PostBox, Saily, Sileo, Zebra</center></small><\/p>",
@@ -147,10 +146,10 @@
                     "useRawFormat": true
                 },
                 {
-                   "class": "DepictionSubheaderView",
-                   "useBoldText": true,
-                   "useBottomMargin": false,
-                   "title": "Supported Jailbreaks:"
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "Supported Jailbreaks:"
                 },
                 {
                     "markdown": "<p><small style=\"color: #999; margin-top: -8px;\"><center>Fugu15 Max, palera1n, Xina, Blizzard9, unc0ver, checkRa1n, Odyssey, Taurine, Chimera, Pangu, Phoenix, &amp; more !</center></small><\/p>",
@@ -158,14 +157,13 @@
                     "useRawFormat": true
                 },
                 {
-                   "class": "DepictionSubheaderView",
-                   "useBoldText": true,
-                   "useBottomMargin": false,
-                   "title": "Features:"
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "Features:"
                 },
                 {
-                    "markdown": "<ul>
-                    <small style="\&quot;color:" #999;="" margin-top:="" -8px;\"=""><li>・Add as many sources as you want.</li><li>・Disable/Enable or delete them.</li><li>・Add notes.\n\t・Check if Source is active. </li><li>・Package details.</li><li>・Import cydia.list, zebra sources.list, ????.list file , Web Link. </li><li>・Import sources.</li><li>・Add repo.</li><li>・Backup Sources via iTunes , iCloud , Manually.</li><li>・Sync between devices. (Device&lt;-&gt;Device), (iCloud v933.1430-0) &amp; up.</li><li>・View / Export Installed Packages. (v933.1451-0) &amp; up.</li><li>・Restore Previously installed Packages. (v933.1451-0) &amp; up.</li><li>・Auto List, Tweak Cydia features, &amp; More !</li><li>・Full Docs : CSources2 Blog</li><li>・Please review all notes and documentation before contacting the developer.</li><li>・Contact Dev via: In App ( CSources2 / Info Page / Contact )</li></small></ul><\/p>",
+                    "markdown": "<p><ul><small style=\"color: #999; margin-top: -8px;\"><li>・Add as many sources as you want.</li><li>Disable/Enable or delete them.</li><li>Add notes.</li><li>Check if Source is active.</li><li>Package details.</li><li>Import cydia.list, zebra sources.list, ????.list file , Web Link.</li><li>Import sources.</li><li>Add repo.</li><li>Backup Sources via iTunes , iCloud , Manually.</li><li>Sync between devices. (iCloud v933.1430-0) &amp; up.</li><li>View / Export Installed Packages. (v933.1451-0) &amp; up.</li><li>Restore Previously installed Packages. (v933.1451-0) &amp; up.</li><li>Auto List, Tweak Cydia features, &amp; More !</li><li>Full Docs : CSources2 Blog</li><li>Please review all notes and documentation before contacting the developer.</li><li>Contact Dev via: In App ( CSources2 / Info Page / Contact )</li><li>Contact Dev via: Below Contact Link</li></small></ul><\/p>",
                     "class": "DepictionMarkdownView",
                     "useRawFormat": true
                 },
@@ -263,8 +261,9 @@
                     "class": "DepictionSubheaderView"
                 },
                 {
-                    "markdown": "iOS 9.3.3 - 16.3.1 Support\n\t・Please Note: v933.1500-0 -> 1631.x\n\t\tHas not been tested fully on an actual iOS 15+ A14+ etc jailbroken device.\n\t・Rootless & Rootful Support.\n\t・Added Fugu15 Jailbreak Detection.\n\t・Squashed some 🐞🐜🐛🕷🦟 's.",
+                    "markdown": "<p><ul><li>iOS 9.3.3 - 16.3.1 Support.</li><li>Rootless &amp; Rootful Support.</li><li>Added Fugu15 Jailbreak Detection.</li><li>Squashed some 🐞🐜🐛🕷🦟 's.</li></ul><\/p>",
                     "useSpacing": false,
+                    "useRawFormat": true,
                     "class": "DepictionMarkdownView"
                 },
                 {
@@ -279,8 +278,9 @@
                     "class": "DepictionSubheaderView"
                 },
                 {
-                    "markdown": "iOS 9.3.3 - 16.3.1 Support\n\t・Please Note: v933.1500-0 -> 1631.x\n\t\tHas not been tested fully on an actual iOS 15+ A14+ etc jailbroken device.\n\t・Added Xina Jailbreak Detection.\n\t・Added palera1n Jailbreak Detection.\n\t・Added Blizzard 9 Jailbreak Detection.\n\t・Added copy enabled sources to clipboard for pasting into package managers.\n\t・Repositories can now be sync'd, via Replace or Merge in Sync Devices.\n\t・Added Setting to choose which type of Check if Alive Status.\n\t\t・If repo was down but now alive again, its switch handle will be green temporarily.\n\t・Back Burners can now be sync'd, via Replace or Merge in Sync Devices.\n\t・Back Burners files can be emailed via: Contact/Send Backups on the ⓘ Info page.\n\t・Added repo status to Back Burners.\n\t・Squashed some 🐞🐜🐛🕷🦟 's.",
+                    "markdown": "<p><ul><li>iOS 9.3.3 - 16.3.1 Support.</li><li>Please Note: v933.1500-0 -> 1631.x has not been tested fully on an actual iOS 15+ A14+ etc jailbroken device.</li><li>Added Xina Jailbreak Detection.</li><li>Added palera1n Jailbreak Detection.</li><li>Added Blizzard 9 Jailbreak Detection.</li><li>Added copy enabled sources to clipboard for pasting into package managers.</li><li>Repositories can now be sync'd, via Replace or Merge in Sync Devices.</li><li>Added Setting to choose which type of Check if Alive Status.</li><ul><li>If repo was down but now alive again, its switch handle will be green temporarily.</li></ul><li>Back Burners can now be sync'd, via Replace or Merge in Sync Devices.</li><li>Back Burners files can be emailed via: Contact/Send Backups on the ⓘ Info page.</li><li>Added repo status to Back Burners.</li><li>Squashed some 🐞🐜🐛🕷🦟 's.</li></ul><\/p>",
                     "useSpacing": false,
+                    "useRawFormat": true,
                     "class": "DepictionMarkdownView"
                 },
                 {
@@ -297,6 +297,7 @@
                 {
                     "markdown": "iOS 9.3.3 - 15.0.0 Support\n\t・UI improvements.",
                     "useSpacing": false,
+                    "useRawFormat": true,
                     "class": "DepictionMarkdownView"
                 },
                 {
@@ -311,8 +312,9 @@
                     "class": "DepictionSubheaderView"
                 },
                 {
-                    "markdown": "iOS 9.3.3 - 14.7.1 Support\n\t・Added ability to Import Parcility.co repo Sources.\n\t\tⓘ Info page -> Import.\n\t・Added (🔍N) to Search Quick Keys.\n\t\tStart a search.\n\t\tType what to look for. \n\t\tPress the (🔍N) Quick Key.\n\t\tIt will display only repositories containing the search criteria if found in Notes section.\n\t・Modified Clean and its settings.\n\t・Improved Sync Devices. (version specific)\n\t・Fixed, Zebra crashing. New Zebra does not regenerate its db file.\n\t\tDisable or Enable in Settings depending on your Zebra version.\n\t・Fixed, iPhone4s on iOS 9.3.3,.5,.6 crash.\n\t・The Cache has been rewritten. Be patient, only happens the first time.\n\t・Squashed some 🐞🐜🐛🕷🦟 's",
+                    "markdown": "<p><ul><li>iOS 9.3.3 - 14.7.1 Support.</li><li>Added ability to Import Parcility.co repo Sources.</li><ul><li>ⓘ Info page -&gt; Import.</li></ul><li>Added (🔍N) to Search Quick Keys.</li><ul><li>Start a search.</li><li>Type what to look for.</li><li>Press the (🔍N) Quick Key.</li><li>It will display only repositories containing the search criteria if found in Notes section.</li></ul><li>Modified Clean and its settings.</li><li>Improved Sync Devices. (version specific)</li><li>Fixed, Zebra crashing. New Zebra does not regenerate its db file.</li><ul><li>Disable or Enable in Settings depending on your Zebra version.</li></ul><li>Fixed, iPhone4s on iOS 9.3.3,.5,.6 crash.</li><li>The Cache has been rewritten. Be patient, only happens the first time.</li><li>Squashed some 🐞🐜🐛🕷🦟 's</li></ul><\/p>",
                     "useSpacing": false,
+                    "useRawFormat": true,
                     "class": "DepictionMarkdownView"
                 },
                 {
