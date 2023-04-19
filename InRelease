@@ -1,0 +1,56 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Architectures: iphoneos-arm iphoneos-arm64
+Codename: ios
+Components: main
+Date: Tue, 18 Apr 2023 21:45:24 +0000
+Description: Official DirtyBean's Stable Apps, Tweaks, Mods and Themes
+Label: DirtyBeans
+Origin: DirtyBeans (Official)
+Suite: stable
+Version: 1.2
+MD5Sum:
+ 2ba2da93a666ed9ce63354c82d70b279            57477 Packages
+ b76346c04737506bc72cdee495812efb            11381 Packages.bz2
+ c444331c4df5c7f0c192369ab53bb24f            12404 Packages.gz
+ 703db37bfdf27400a6ac741fc41426c9            10968 Packages.xz
+ d5d031e2da5fdb3420f5319af91ff953            11127 Packages.zst
+ 90462e0ec0cbbe874f41ccf20f816c9c              258 Release
+SHA1:
+ 8afb088c0ad8be6b932843f3f83befd6b63a94a8            57477 Packages
+ 860b21dbfda57c556db0dff5185491b442910306            11381 Packages.bz2
+ 491cb13949bbd8122f21c32a3cc82867e09474b2            12404 Packages.gz
+ fdc09833109e07bd98884af4617688d6a47c954f            10968 Packages.xz
+ 167b2437ab16c98da00a2a0072aadd1f4edf1ad7            11127 Packages.zst
+ b14183494beeea6084aceb490d9b95359a65d720              258 Release
+SHA256:
+ 2da0f1ed37c60082c03da99742a2ed3b1c39921de0f9780a785cd54de5f090b9            57477 Packages
+ 79194b307206358f02002c597e566c7efa8a3278d6c792921024bb05ac29f128            11381 Packages.bz2
+ ed3aa86ec11429e112be0f6e8d22c13c1b28b7e41780a4c7e68a315631d8bdee            12404 Packages.gz
+ 19eb597b2ff2fb96734d06af717401551635fbdeac82c0604b7062c81839d09b            10968 Packages.xz
+ cf56aed7f4f4be3cd587b60274b23eb132f2c964737ae678461145404d7f5c05            11127 Packages.zst
+ 026a5e566dfcabf2aade3a131af1a9a0d2d00462eff2a431085d57149f9ad2f3              258 Release
+SHA512:
+ 6e9b7c528ea008cc78fadf37468becf00242040669927c6799f4abd30247b3afb74fb1f15cb964d10fb622c83b6cdcaa752d70d6727bedf74224a7e08de1c869            57477 Packages
+ 9f9e6822b9cd9eac1996709ac5ab012136c6413e345173ab1469bcd366cf874ab09a2b84e79272648e211667d6cbf07ba1630b758241518ea1d4190cfa98b233            11381 Packages.bz2
+ 9817bd36044da6b65a37e9cb126179eb31be732888dc2d15dd182c308b29721bdbe3f75c990af792c18d41c66154c3c326400940f7bb771b2d598f05c2c79708            12404 Packages.gz
+ fd81285dbfd895e4e391dea5f67539263422f52832ae96810fde7823b57f2bec1fce5882eb77284973aebb753d44994163d0ead27950414d6447f90f4cf605b6            10968 Packages.xz
+ 38b144ea87e32697c9fe6fded9a5a840835edac15c20b552d67016bcf95c33ded7c70e35a813af2343692fdf9caafd1de74832fb75954dc7add80ca7270ac2ab            11127 Packages.zst
+ 645133357737fb03896f9310be4ac1f0880f8050fcc98d4e9c5a713557830e3b392e4197f675e17095e5e29af5617b1cefdf60e9f0ff6f6d743a4bc38cb7d16a              258 Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCAAdFiEEggb0NvGLMOQ0H4ydaFZmD8cJRuEFAmQ/aQYACgkQaFZmD8cJ
+RuGDnQ//cHBEu0E67jRoeaGOmiHcZwzKUnJRPfOQ7JzP1GGV5QjL0k4zpj2Byvam
+d89r8gFuaEzVI49or+IhC+2Rz0r/qbLOy6krxsVSOXw2i0kyORAjFffkHBMUSMnY
+7JWJWyDx0MSain0Tr32cCaOwgVDKO3wa1eRZMDAVfWWYvsZp5jRCw1Thbemc353e
+toy47InziFDiACL+01NnHW+OxVMu4WuSpVvCNwoN0qpwseREW7LEe5m/awbmfxFE
+ZapjDpfX+hL4KBJZrBRhJKHyalX+af+gXjMrY0b/EXzNxlCdWiOuRb9pQ9WajO62
+x+wH7rULufoZ4wqUyViYpJA3gznU+J0ZN4kk1TVr3D29a786ou4JGTCbVVFTCP/r
+hC+6FGNCR9QdMZmcE7Hi9D0BeGVNDsxJ917ESa0rzj7QHP8Jqb50nbisnSF6hzoC
+qtCUo/p7nSoQsarIeSDfQ2cKYZdIVi/YB8+fobWA72gJ9SM5paHL5AjsgXr0P/eY
+JzAFDBir+MrxMqZSH1KYoOea1mSj8iZ8CN0Juc0ahGL8H1+mBYivJYgIauuIjtvs
+fAtRXmEDBZfZhLc1mofjdyaoKKjEBEWzBdnMrqyYsnPxLo8iTavh1b6GEzDE+dvm
+MF2L5J7sGliwV0hSXBj0KBWjXxp2/Fyhw3QyPyL280Lb7GQG51A=
+=qGrB
+-----END PGP SIGNATURE-----
