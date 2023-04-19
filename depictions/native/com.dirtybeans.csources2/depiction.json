@@ -1,6 +1,6 @@
 {
     "minVersion": "0.1",
-    "headerImage": "https://DirtyBeans.github.io/assets/repo/Banners/RepoHeader.png",
+    "headerImage": "https://DirtyBeans.github.io/assets/repo/Banners/CS2Header.png",
     "class": "DepictionTabView",
     "tintColor": "#0657bb",
     "tabs": [
@@ -10,13 +10,13 @@
                 {
                     "class": "DepictionSubheaderView",
                     "useBottomMargin": false,
-                    "title": "CSources2 arm64",
+                    "title": "CSources2",
                     "useBoldText": true
                 },
                 {
                     "useSpacing": true,
                     "class": "DepictionMarkdownView",
-                    "markdown": "CSources2 is a Repo / Sources Manager, that allows full control over your sources."
+                    "markdown": "Repo / Sources Manager, that allows full control over your sources."
                 },
                 {
                     "spacing": 8,
@@ -24,136 +24,200 @@
                 },
                 {
                     "screenshots": [
+                        
                         {
                             "accessibilityText": "Normal View - iPhone",
-                            "url": "https://DirtyBeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_iphone_1.png"
+                            "url": "https://DirtyBeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_iphone_1.png",
+                            "fullSizeURL": "https://DirtyBeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_iphone_1.png"
                         },
                         {
                             "accessibilityText": "Enable / Disable Repo confirmation",
-                            "url": "https://DirtyBeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_iphone_2.png"
+                            "url": "https://DirtyBeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_iphone_2.png",
+                            "fullSizeURL": "https://DirtyBeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_iphone_2.png"
                         },
                         {
                             "accessibilityText": "Color Schemes, sample iPhone",
-                            "url": "https://DirtyBeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_iphone_3.png"
+                            "url": "https://DirtyBeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_iphone_3.png",
+                            "fullSizeURL": "https://DirtyBeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_iphone_3.png"
                         },
                         {
                             "accessibilityText": "Native Dark Mode",
-                            "url": "https://DirtyBeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_iphone_4.png"
+                            "url": "https://DirtyBeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_iphone_4.png",
+                            "fullSizeURL": "https://DirtyBeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_iphone_4.png"
                         },
                         {
                             "accessibilityText": "Packages",
-                            "url": "https://DirtyBeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_iphone_5.png"
+                            "url": "https://DirtyBeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_iphone_5.png",
+                            "fullSizeURL": "https://DirtyBeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_iphone_5.png"
                         },
                         {
                             "accessibilityText": "Web View Repo",
-                            "url": "https://DirtyBeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_iphone_6.png"
+                            "url": "https://DirtyBeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_iphone_6.png",
+                            "fullSizeURL": "https://DirtyBeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_iphone_6.png"
                         },
                         {
                             "accessibilityText": "Normal View - iPad",
-                            "url": "https://DirtyBeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_ipad_1.png"
+                            "url": "https://DirtyBeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_ipad_1.png",
+                            "fullSizeURL": "https://DirtyBeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_ipad_1.png"
                         },
                         {
                             "accessibilityText": "Repo Details",
-                            "url": "https://DirtyBeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_ipad_2.png"
+                            "url": "https://DirtyBeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_ipad_2.png",
+                            "fullSizeURL": "https://DirtyBeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_ipad_2.png"
                         },
                         {
                             "accessibilityText": "Dark Mode Web View",
-                            "url": "https://DirtyBeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_ipad_3.png"
+                            "url": "https://DirtyBeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_ipad_3.png",
+                            "fullSizeURL": "https://DirtyBeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_ipad_3.png"
                         },
                         {
                             "accessibilityText": "Info Page",
-                            "url": "https://DirtyBeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_ipad_4.png"
+                            "url": "https://DirtyBeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_ipad_4.png",
+                            "fullSizeURL": "https://DirtyBeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_ipad_4.png"
                         },
                         {
                             "accessibilityText": "Color Schemes, sample iPad",
-                            "url": "https://DirtyBeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_ipad_5.png"
+                            "url": "https://DirtyBeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_ipad_5.png",
+                            "fullSizeURL": "https://DirtyBeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_ipad_5.png"
                         },
                         {
                             "accessibilityText": "Dark Mode - Packages",
-                            "url": "https://DirtyBeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_ipad_6.png"
-                        }
-                    ],
-                    "itemSize": "{160, 275.41333333333336}",
-                    "class": "DepictionScreenshotsView",
-                    "itemCornerRadius": 6
-                },
-                {
-                    "screenshots": [
+                            "url": "https://DirtyBeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_ipad_6.png",
+                            "fullSizeURL": "https://DirtyBeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_ipad_6.png"
+                        },
                         {
                             "accessibilityText": "Example",
-                            "url": "https://www.youtube.com/embed/x6WPqtXJXj8?rel=0"
+                            "url": "https://www.youtube.com/embed/x6WPqtXJXj8?rel=0",
+                            "video": 1
                         },
                         {
                             "accessibilityText": "Sileo Support",
-                            "url": "https://www.youtube.com/embed/3bHBrXbH03c"
+                            "url": "https://www.youtube.com/embed/3bHBrXbH03c",
+                            "video": 1
                         },
                         {
                             "accessibilityText": "Zebra Support",
-                            "url": "https://www.youtube.com/embed/hr_HRLFfXDs"
+                            "url": "https://www.youtube.com/embed/hr_HRLFfXDs",
+                            "video": 1
                         }
                     ],
+                    "itemSize": "{160, 284.44444444444}",
+                    "itemCornerRadius": 6,,
+                    "class": "DepictionScreenshotsView"
+                },
+                {
+                    "url": "https://www.youtube.com/embed/x6WPqtXJXj8?rel=0",
                     "width": 268,
                     "height": 151,
                     "autoplay": 0,
                     "alignment": 1,
-                    "class": "DepictionVideoView",
-                    "itemCornerRadius": 6
+                    "itemCornerRadius": 6,
+                    "class": "DepictionVideoView"
                 },
                 {
-                    "markdown": "Repo Manager Support:\nCydia, Installer, PostBox, Saily, Sileo, Zebra\n\nJailbreak Platform:\nFugu15 Max, palera1n, Xina, Blizzard9, unc0ver, checkRa1n, Odyssey, Taurine, Chimera, Pangu, Phoenix, & more !",
-                    "class": "DepictionMarkdownView",
-                    "useBottomMargin": false,
-                    "title": "markdown-description",
-                    "useBoldText": true
+                    "url": "https://www.youtube.com/embed/3bHBrXbH03c",
+                    "width": 268,
+                    "height": 151,
+                    "autoplay": 0,
+                    "alignment": 1,
+                    "itemCornerRadius": 6,
+                    "class": "DepictionVideoView"
                 },
                 {
-                    "markdown": "\t・Add as many sources as you want.\n\t・Manage sources for: Cydia, Installer, PostBox, Saily, Sileo, Zebra.\n\t・Disable/Enable or delete them.\n\t・Add notes.\n\t・Check if Source is active.\n\t・Package details.\n\t・Import cydia.list, zebra sources.list, ????.list file , Web Link.\n\t・Import sources,\n\t・Add repo \n\t・Backup Sources via iTunes , iCloud , Manually.  \n\t・Sync between devices. (Device<->Device), (iCloud v933.1430-0) & up.\n\t・View / Export Installed Packages. (v933.1451-0) & up.\n\t・Restore Previously installed Packages. (v933.1451-0) & up.\n\t・Auto List, Tweak Cydia features, & More !\n\t・Full Docs : CSources2 Blog\n\t・Please review all notes and documentation before contacting the developer.\n\t・Contact Dev via: In App ( CSources2 / Info Page / Contact )",
-                    "class": "DepictionMarkdownView",
-                    "useBottomMargin": false,
-                    "title": "markdown-description",
-                    "useBoldText": false
+                    "url": "https://www.youtube.com/embed/hr_HRLFfXDs",
+                    "width": 268,
+                    "height": 151,
+                    "autoplay": 0,
+                    "alignment": 1,
+                    "itemCornerRadius": 6,
+                    "class": "DepictionVideoView"
                 },
                 {
                     "class": "DepictionSeparatorView"
                 },
                 {
+                   "class": "DepictionSubheaderView",
+                   "useBoldText": true,
+                   "useBottomMargin": false,
+                   "title": "Repo Manager Support:"
+                },
+                {
+                    "markdown": "<p><small style=\"color: #999; margin-top: -8px;\"><center>Cydia, Installer, PostBox, Saily, Sileo, Zebra</center></small><\/p>",
+                    "class": "DepictionMarkdownView",
+                    "useRawFormat": true
+                },
+                {
+                   "class": "DepictionSubheaderView",
+                   "useBoldText": true,
+                   "useBottomMargin": false,
+                   "title": "Supported Jailbreaks:"
+                },
+                {
+                    "markdown": "<p><small style=\"color: #999; margin-top: -8px;\"><center>Fugu15 Max, palera1n, Xina, Blizzard9, unc0ver, checkRa1n, Odyssey, Taurine, Chimera, Pangu, Phoenix, &amp; more !</center></small><\/p>",
+                    "class": "DepictionMarkdownView",
+                    "useRawFormat": true
+                },
+                {
+                   "class": "DepictionSubheaderView",
+                   "useBoldText": true,
+                   "useBottomMargin": false,
+                   "title": "Features:"
+                },
+                {
+                    "markdown": "<ul>
+                    <small style="\&quot;color:" #999;="" margin-top:="" -8px;\"=""><li>・Add as many sources as you want.</li><li>・Disable/Enable or delete them.</li><li>・Add notes.\n\t・Check if Source is active. </li><li>・Package details.</li><li>・Import cydia.list, zebra sources.list, ????.list file , Web Link. </li><li>・Import sources.</li><li>・Add repo.</li><li>・Backup Sources via iTunes , iCloud , Manually.</li><li>・Sync between devices. (Device&lt;-&gt;Device), (iCloud v933.1430-0) &amp; up.</li><li>・View / Export Installed Packages. (v933.1451-0) &amp; up.</li><li>・Restore Previously installed Packages. (v933.1451-0) &amp; up.</li><li>・Auto List, Tweak Cydia features, &amp; More !</li><li>・Full Docs : CSources2 Blog</li><li>・Please review all notes and documentation before contacting the developer.</li><li>・Contact Dev via: In App ( CSources2 / Info Page / Contact )</li></small></ul><\/p>",
+                    "class": "DepictionMarkdownView",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "title": "Version",
                     "text": "933.1631-2",
-                    "class": "DepictionTableTextView",
-                    "title": "Version"
+                    "class": "DepictionTableTextView"
                 },
                 {
+                    "title": "Supports iOS",
                     "text": "9.3.3 - 16.3.1",
-                    "class": "DepictionTableTextView",
-                    "title": "Supports iOS"
+                    "class": "DepictionTableTextView"
                 },
                 {
+                    "title": "Released",
                     "text": "04-18-2023",
-                    "class": "DepictionTableTextView",
-                    "title": "Released"
+                    "class": "DepictionTableTextView"
                 },
                 {
-                    "text": "All: iPhone/iPad models",
-                    "class": "DepictionTableTextView",
-                    "title": "Compatibility"
+                    "title": "Initial Release",
+                    "text": "08-20-2015",
+                    "class": "DepictionTableTextView"
                 },
                 {
+                    "title": "Compatibility",
+                    "text": "iPhone, iPad",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Jailbreak Platform",
                     "text": "Rootless, Rootful",
-                    "class": "DepictionTableTextView",
-                    "title": "Jailbreak Platform"
+                    "class": "DepictionTableTextView"
                 },
                 {
+                    "title": "Price",
                     "text": "Free",
-                    "class": "DepictionTableTextView",
-                    "title": "Price"
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Developer",
+                    "text": "DirtyBeans",
+                    "class": "DepictionTableTextView"
                 },
                 {
                     "spacing": 8,
                     "class": "DepictionSpacerView"
                 },
                 {
-                    "text": "DirtyBeans",
-                    "class": "DepictionTableTextView",
-                    "title": "Developer"
+                    "class": "DepictionSeparatorView"
                 },
                 {
                     "title": "Website",
@@ -161,19 +225,26 @@
                     "class": "DepictionTableButtonView"
                 },
                 {
-                    "title": "More Info",
+                    "title": "Support",
                     "action": "https://csources2.wordpress.com",
                     "class": "DepictionTableButtonView"
                 },
                 {
                     "title": "Contact",
                     "action": "mailto:DirtyBeans@ca.rr.com?subject=DirtyBeans.github.io%20-%20CSources2",
-                    "class": "DepictionTableTextView"
+                    "class": "DepictionTableButtonView"
                 },
                 {
-                    "title": "Donate",
-                    "action": "https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=E37V2DWUFRRJW&amp;lc=US&amp;item_name=DirtyBeans%2ecom&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted",
+                    "title": "Update History",
+                    "action": "https://csources2.wordpress.com/update-history/",
                     "class": "DepictionTableButtonView"
+                },
+                {
+                    "text": "Donate",
+                    "action": "https://www.paypal.com/donate/?business=E37V2DWUFRRJW&no_recurring=0&item_name=Keep+CSources2+Alive+%21%21%21&currency_code=USD",
+                    "openExternal": true,
+                    "tintColor": "#6264d3",
+                    "class": "DepictionButtonView"
                 },
                 {
                     "spacing": 8,
@@ -200,9 +271,7 @@
                     "markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2023.04.18</small>",
                     "useRawFormat": true,
                     "class": "DepictionMarkdownView"
-                }
-            ],
-            "views": [
+                },
                 {
                     "title": "933.1631-1",
                     "useBoldText": true,
@@ -218,9 +287,7 @@
                     "markdown": "<small style=\"color: #999; margin-top: -8px;\">Released : 2023.04.6</small>",
                     "useRawFormat": true,
                     "class": "DepictionMarkdownView"
-                }
-            ],
-            "views": [
+                },
                 {
                     "title": "933.1500-0",
                     "useBoldText": true,
@@ -236,9 +303,7 @@
                     "markdown": "<small style=\"color: #999; margin-top: -8px;\">Released : 2021.09.22</small>",
                     "useRawFormat": true,
                     "class": "DepictionMarkdownView"
-                }
-            ],
-            "views": [
+                },
                 {
                     "title": "933.1471-0",
                     "useBoldText": true,
@@ -258,5 +323,6 @@
             ],
             "class": "DepictionStackView"
         }
-    ]
+    ],
+    "class": "DepictionTabView"
 }
