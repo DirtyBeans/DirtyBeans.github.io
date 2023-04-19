@@ -250,6 +250,9 @@
                     "class": "DepictionMarkdownView"
                 },
                 {
+                    "class": "DepictionSeparatorView"
+                },
+                {
                     "title": "933.1631-1",
                     "useBoldText": true,
                     "useBottomMargin": true,
@@ -268,6 +271,9 @@
                     "class": "DepictionMarkdownView"
                 },
                 {
+                    "class": "DepictionSeparatorView"
+                },
+                {
                     "title": "933.1500-0",
                     "useBoldText": true,
                     "useBottomMargin": true,
@@ -283,6 +289,9 @@
                     "markdown": "<small style=\"color: #999; margin-top: -8px;\">Released : 2021.09.22</small>",
                     "useRawFormat": true,
                     "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
                 },
                 {
                     "title": "933.1471-0",
