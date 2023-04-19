@@ -5,17 +5,18 @@
     "tintColor": "#0657bb",
     "tabs": [
         {
+            "tabname": "Details",
             "views": [
                 {
                     "class": "DepictionSubheaderView",
                     "useBottomMargin": false,
-                    "title": "CSources2",
+                    "title": "CSources2 arm64",
                     "useBoldText": true
                 },
                 {
                     "useSpacing": true,
                     "class": "DepictionMarkdownView",
-                    "markdown": "CSources2 is a Repo / Sources Manager."
+                    "markdown": "CSources2 is a Repo / Sources Manager, that allows full control over your sources."
                 },
                 {
                     "spacing": 8,
@@ -24,24 +25,52 @@
                 {
                     "screenshots": [
                         {
-                            "accessibilityText": "Screenshot0",
+                            "accessibilityText": "Normal View - iPhone",
                             "url": "https://DirtyBeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_iphone_1.png"
                         },
                         {
-                            "accessibilityText": "Screenshot1",
+                            "accessibilityText": "Enable / Disable Repo confirmation",
                             "url": "https://DirtyBeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_iphone_2.png"
                         },
                         {
-                            "accessibilityText": "Screenshot2",
+                            "accessibilityText": "Color Schemes, sample iPhone",
                             "url": "https://DirtyBeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_iphone_3.png"
                         },
                         {
-                            "accessibilityText": "Screenshot3",
+                            "accessibilityText": "Native Dark Mode",
                             "url": "https://DirtyBeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_iphone_4.png"
                         },
                         {
-                            "accessibilityText": "Screenshot4",
+                            "accessibilityText": "Packages",
                             "url": "https://DirtyBeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_iphone_5.png"
+                        },
+                        {
+                            "accessibilityText": "Web View Repo",
+                            "url": "https://DirtyBeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_iphone_6.png"
+                        },
+                        {
+                            "accessibilityText": "Normal View - iPad",
+                            "url": "https://DirtyBeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_ipad_1.png"
+                        },
+                        {
+                            "accessibilityText": "Repo Details",
+                            "url": "https://DirtyBeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_ipad_2.png"
+                        },
+                        {
+                            "accessibilityText": "Dark Mode Web View",
+                            "url": "https://DirtyBeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_ipad_3.png"
+                        },
+                        {
+                            "accessibilityText": "Info Page",
+                            "url": "https://DirtyBeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_ipad_4.png"
+                        },
+                        {
+                            "accessibilityText": "Color Schemes, sample iPad",
+                            "url": "https://DirtyBeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_ipad_5.png"
+                        },
+                        {
+                            "accessibilityText": "Dark Mode - Packages",
+                            "url": "https://DirtyBeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_ipad_6.png"
                         }
                     ],
                     "itemSize": "{160, 275.41333333333336}",
@@ -49,11 +78,40 @@
                     "itemCornerRadius": 6
                 },
                 {
-                    "markdown": "CSources2 is a Repo / Sources Manager, that allows full control over your sources.",
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Example",
+                            "url": "https://www.youtube.com/embed/x6WPqtXJXj8?rel=0"
+                        },
+                        {
+                            "accessibilityText": "Sileo Support",
+                            "url": "https://www.youtube.com/embed/3bHBrXbH03c"
+                        },
+                        {
+                            "accessibilityText": "Zebra Support",
+                            "url": "https://www.youtube.com/embed/hr_HRLFfXDs"
+                        }
+                    ],
+                    "width": 268,
+                    "height": 151,
+                    "autoplay": 0,
+                    "alignment": 1,
+                    "class": "DepictionVideoView",
+                    "itemCornerRadius": 6
+                },
+                {
+                    "markdown": "Repo Manager Support:\nCydia, Installer, PostBox, Saily, Sileo, Zebra\n\nJailbreak Platform:\nFugu15 Max, palera1n, Xina, Blizzard9, unc0ver, checkRa1n, Odyssey, Taurine, Chimera, Pangu, Phoenix, & more !",
                     "class": "DepictionMarkdownView",
                     "useBottomMargin": false,
                     "title": "markdown-description",
                     "useBoldText": true
+                },
+                {
+                    "markdown": "\t・Add as many sources as you want.\n\t・Manage sources for: Cydia, Installer, PostBox, Saily, Sileo, Zebra.\n\t・Disable/Enable or delete them.\n\t・Add notes.\n\t・Check if Source is active.\n\t・Package details.\n\t・Import cydia.list, zebra sources.list, ????.list file , Web Link.\n\t・Import sources,\n\t・Add repo \n\t・Backup Sources via iTunes , iCloud , Manually.  \n\t・Sync between devices. (Device<->Device), (iCloud v933.1430-0) & up.\n\t・View / Export Installed Packages. (v933.1451-0) & up.\n\t・Restore Previously installed Packages. (v933.1451-0) & up.\n\t・Auto List, Tweak Cydia features, & More !\n\t・Full Docs : CSources2 Blog\n\t・Please review all notes and documentation before contacting the developer.\n\t・Contact Dev via: In App ( CSources2 / Info Page / Contact )",
+                    "class": "DepictionMarkdownView",
+                    "useBottomMargin": false,
+                    "title": "markdown-description",
+                    "useBoldText": false
                 },
                 {
                     "class": "DepictionSeparatorView"
@@ -64,9 +122,24 @@
                     "title": "Version"
                 },
                 {
+                    "text": "9.3.3 - 16.3.1",
+                    "class": "DepictionTableTextView",
+                    "title": "Supports iOS"
+                },
+                {
                     "text": "04-18-2023",
                     "class": "DepictionTableTextView",
                     "title": "Released"
+                },
+                {
+                    "text": "All: iPhone/iPad models",
+                    "class": "DepictionTableTextView",
+                    "title": "Compatibility"
+                },
+                {
+                    "text": "Rootless, Rootful",
+                    "class": "DepictionTableTextView",
+                    "title": "Jailbreak Platform"
                 },
                 {
                     "text": "Free",
@@ -83,12 +156,107 @@
                     "title": "Developer"
                 },
                 {
+                    "title": "Website",
+                    "action": "https://dirtybeans.github.io/index.html",
+                    "class": "DepictionTableButtonView"
+                },
+                {
+                    "title": "More Info",
+                    "action": "https://csources2.wordpress.com",
+                    "class": "DepictionTableButtonView"
+                },
+                {
+                    "title": "Contact",
+                    "action": "mailto:DirtyBeans@ca.rr.com?subject=DirtyBeans.github.io%20-%20CSources2",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Donate",
+                    "action": "https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=E37V2DWUFRRJW&amp;lc=US&amp;item_name=DirtyBeans%2ecom&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted",
+                    "class": "DepictionTableButtonView"
+                },
+                {
                     "spacing": 8,
                     "class": "DepictionSpacerView"
                 }
             ],
-            "class": "DepictionStackView",
-            "tabname": "Details"
+            "class": "DepictionStackView"
+        },
+        {
+            "tabname": "Changelog",
+            "views": [
+                {
+                    "title": "933.1631-2",
+                    "useBoldText": true,
+                    "useBottomMargin": true,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "iOS 9.3.3 - 16.3.1 Support\n\t・Please Note: v933.1500-0 -> 1631.x\n\t\tHas not been tested fully on an actual iOS 15+ A14+ etc jailbroken device.\n\t・Rootless & Rootful Support.\n\t・Added Fugu15 Jailbreak Detection.\n\t・Squashed some 🐞🐜🐛🕷🦟 's.",
+                    "useSpacing": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2023.04.18</small>",
+                    "useRawFormat": true,
+                    "class": "DepictionMarkdownView"
+                }
+            ],
+            "views": [
+                {
+                    "title": "933.1631-1",
+                    "useBoldText": true,
+                    "useBottomMargin": true,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "iOS 9.3.3 - 16.3.1 Support\n\t・Please Note: v933.1500-0 -> 1631.x\n\t\tHas not been tested fully on an actual iOS 15+ A14+ etc jailbroken device.\n\t・Added Xina Jailbreak Detection.\n\t・Added palera1n Jailbreak Detection.\n\t・Added Blizzard 9 Jailbreak Detection.\n\t・Added copy enabled sources to clipboard for pasting into package managers.\n\t・Repositories can now be sync'd, via Replace or Merge in Sync Devices.\n\t・Added Setting to choose which type of Check if Alive Status.\n\t\t・If repo was down but now alive again, its switch handle will be green temporarily.\n\t・Back Burners can now be sync'd, via Replace or Merge in Sync Devices.\n\t・Back Burners files can be emailed via: Contact/Send Backups on the ⓘ Info page.\n\t・Added repo status to Back Burners.\n\t・Squashed some 🐞🐜🐛🕷🦟 's.",
+                    "useSpacing": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "markdown": "<small style=\"color: #999; margin-top: -8px;\">Released : 2023.04.6</small>",
+                    "useRawFormat": true,
+                    "class": "DepictionMarkdownView"
+                }
+            ],
+            "views": [
+                {
+                    "title": "933.1500-0",
+                    "useBoldText": true,
+                    "useBottomMargin": true,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "iOS 9.3.3 - 15.0.0 Support\n\t・UI improvements.",
+                    "useSpacing": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "markdown": "<small style=\"color: #999; margin-top: -8px;\">Released : 2021.09.22</small>",
+                    "useRawFormat": true,
+                    "class": "DepictionMarkdownView"
+                }
+            ],
+            "views": [
+                {
+                    "title": "933.1471-0",
+                    "useBoldText": true,
+                    "useBottomMargin": true,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "iOS 9.3.3 - 14.7.1 Support\n\t・Added ability to Import Parcility.co repo Sources.\n\t\tⓘ Info page -> Import.\n\t・Added (🔍N) to Search Quick Keys.\n\t\tStart a search.\n\t\tType what to look for. \n\t\tPress the (🔍N) Quick Key.\n\t\tIt will display only repositories containing the search criteria if found in Notes section.\n\t・Modified Clean and its settings.\n\t・Improved Sync Devices. (version specific)\n\t・Fixed, Zebra crashing. New Zebra does not regenerate its db file.\n\t\tDisable or Enable in Settings depending on your Zebra version.\n\t・Fixed, iPhone4s on iOS 9.3.3,.5,.6 crash.\n\t・The Cache has been rewritten. Be patient, only happens the first time.\n\t・Squashed some 🐞🐜🐛🕷🦟 's",
+                    "useSpacing": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "markdown": "<small style=\"color: #999; margin-top: -8px;\">Released : 2021.08.11</small>",
+                    "useRawFormat": true,
+                    "class": "DepictionMarkdownView"
+                }
+            ],
+            "class": "DepictionStackView"
         }
     ]
 }

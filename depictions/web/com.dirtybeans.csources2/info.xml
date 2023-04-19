@@ -5,7 +5,7 @@
 	<compatibility>
 		<firmware>
 			<miniOS>9.3.3</miniOS>
-            <maxiOS>13.3.1</maxiOS>
+            <maxiOS>16.3.1</maxiOS>
             <otherVersions>unsupported</otherVersions>
 		</firmware>
 	</compatibility>
@@ -14,22 +14,51 @@
 	</dependencies>
 	<shortDescription>CSources2.app</shortDescription>
 	<descriptionlist>
-		<description>CSources2 is a Cydia Sources Manager that allows full control over your sources.</description>
-		<description>It has more description lines.</description>
+		<description>CSources2 is a Repo / Sources Manager that allows full control over your sources.</description>
+        <description><![CDATA[
+            Compatibility:<br/>
+            All: iPhone/iPad models
+        ]]>
+        </description>
+        <description><![CDATA[
+            Supports iOS:<br/>
+            9.3.3 - 16.3.1
+        ]]>
+        </description>
+        <description><![CDATA[
+            Jailbreak Platform:<br/>
+            Fugu15 Max, palera1n, Xina, Blizzard9, unc0ver, checkRa1n, Odyssey, Taurine, Chimera, Pangu, Phoenix, & more !
+        ]]>
+        </description>
+        <description><![CDATA[
+            Rootless, Rootful<br/>
+            iphoneos-arm64 , iphoneos-arm
+        ]]>
+        </description>
+        <description><![CDATA[
+            Repo Manager Support<br/>
+            Cydia, Installer, PostBox, Saily, Sileo, Zebra
+        ]]>
+        </description>
 		<description><![CDATA[
-            Add as many sources as you want.<br/>
-            Disable/Enable or delete them.<br/>
-            Add notes.<br/>
-            Check if Source is active.<br/>
-            Package details.<br/>
-            Import cydia.list, ????.list file , Web Link.<br/>
-            Backup Sources via iTune , iCloud , Manually.<br/>
-            Sync between devices.<br/>
-            Auto List feature. & More<br/>
-            Full Docs : CSources2 Blog<br/>
-            Please review all notes and documentation before contacting the developer.<br/>
-            Contact Dev via: In App<br/>
-            CSources2 / Info Page / Contact.<br/>
+            * Add as many sources as you want.<br/>
+            * Manage sources for: Cydia, Installer, PostBox, Saily, Sileo, Zebra.<br/>
+            * Disable/Enable or delete them.<br/>
+            * Add notes.<br/>
+            * Check if Source is active.<br/>
+            * Package details.<br/>
+            * Import cydia.list, zebra sources.list, ????.list file , Web Link.<br/>
+            * Import Sileo.sources, ????.sources file , Web Link.<br/>
+            * Add repo via Share Extension.<br/>
+            * Backup Sources via iTunes , iCloud , Manually.<br/>
+            * Sync between devices. (Device<->Device), (iCloud v933.1430-0) & up<br/>
+            * View / Export Installed Packages. (v933.1451-0) & up<br/>
+            * Restore Previously installed Packages. (v933.1451-0) & up<br/>
+            * Auto List, Tweak Cydia features, & More !<br/>
+            * Full Docs : CSources2 Blog<br/>
+            * Please review all notes and documentation before contacting the developer.<br/>
+            * Contact Dev via: In App ( CSources2 / Info Page / Contact )<br/>
+            * Contact Dev via: Link below / scroll down..
 		]]>
 		</description>
 	</descriptionlist>
@@ -37,10 +66,6 @@
         <screenshot>
             <description>Normal View - iPhone</description>
             <image>ScreenShot_iphone_1.png</image>
-        </screenshot>
-        <screenshot>
-            <description>Enable / Disable Repo confirmation</description>
-            <image>ScreenShot_iphone_2.png</image>
         </screenshot>
         <screenshot>
             <description>Enable / Disable Repo confirmation</description>
@@ -89,14 +114,34 @@
     </screenshots>
 	<changelog>
 		<change>Added Fugu15 Jailbreak Detection.</change>
-		<change>Added Rootless & Rootful Support.</change>
+		<change>Added Rootless &amp; Rootful Support.</change>
 		<change>Squashed some 🐞🐜🐛🕷🦟 ‘s.</change>
 	</changelog>
 	<links>
+        <link>
+            <name>Full Change Log</name>
+            <url>http://csources2.wordpress.com/update-history/</url>
+            <iconclass>src="../../thumbs/changelog.png"</iconclass>
+        </link>
+        <link>
+            <name>Contact Developer</name>
+            <url>mailto:DirtyBeans@ca.rr.com?subject=DirtyBeans.github.io%20-%20CSources2</url>
+            <iconclass>src="../../images/Icons/Mail120.png"</iconclass>
+        </link>
+        <link>
+            <name>Developer's Official Page</name>
+            <url>https://dirtybeans.github.io/index.html</url>
+            <iconclass>src="../../images/Icons/DBs512.png"</iconclass>
+        </link>
 		<link>
 			<name>/r/CSources2</name>
 			<url>https://www.reddit.com/r/CSources2</url>
 			<iconclass>fa fa-reddit</iconclass>
 		</link>
+        <link>
+            <name>Donate</name>
+            <url>https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=E37V2DWUFRRJW&amp;lc=US&amp;item_name=DirtyBeans%2ecom&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted</url>
+            <iconclass>src="../../images/Icons/Paypal512_1.png"</iconclass>
+        </link>
 	</links>
 </package>

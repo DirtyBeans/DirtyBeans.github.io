@@ -2,7 +2,7 @@
     <changes>
         <version>933.1631-2</version>
         <change>Added Fugu15 Jailbreak Detection.</change>
-        <change>Added Rootless & Rootful Support.
+        <change>Added Rootless &amp; Rootful Support.
             Rootless : com.dirtybeans.csources2_933.1631-2_iphoneos-arm64.deb
             Rootful : com.dirtybeans.csources2_933.1631-2_iphoneos-arm.deb</change>
         <change>Squashed some 🐞🐜🐛🕷🦟 ‘s.</change>
@@ -149,7 +149,7 @@
         <version>933.1400-0.1</version>
         <change>iOS 13.5 Support.</change>
         <change>Ready for iOS 14. (allow install up to iOS 14.0.1)</change>
-        <change>Removed Jailbreak detection support for Sileo & Zebra.</change>
+        <change>Removed Jailbreak detection support for Sileo &amp; Zebra.</change>
     </changes>
     <changes>
         <version>933.1331-3.2</version>
@@ -217,7 +217,7 @@
     </changes>
     <changes>
         <version>600.1121-1</version>
-        <change>bug fix, if toggling repo on/off while searching &on or &off, search would crash.</change>
+        <change>bug fix, if toggling repo on/off while searching &amp;on or &amp;off, search would crash.</change>
     </changes>
     <changes>
         <version>600.812-3</version>
