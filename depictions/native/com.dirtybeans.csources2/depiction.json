@@ -6,6 +6,8 @@
     "tabs": [
         {
             "tabname": "Details",
+            "class": "DepictionStackView",
+            "tintColor": "#0657bb",
             "views": [
                 {
                     "class": "DepictionSubheaderView",
@@ -16,7 +18,7 @@
                 {
                     "useSpacing": true,
                     "class": "DepictionMarkdownView",
-                    "markdown": "Repo / Sources Manager, that allows full control over your sources."
+                    "markdown": "Repo / Sources Manager that allows full control over your sources."
                 },
                 {
                     "spacing": 8,
@@ -103,33 +105,6 @@
                     "itemSize": "{160, 284.44444444444}",
                     "itemCornerRadius": 6,
                     "class": "DepictionScreenshotsView"
-                },
-                {
-                    "url": "https://www.youtube.com/embed/x6WPqtXJXj8?rel=0",
-                    "width": 268,
-                    "height": 151,
-                    "autoplay": 0,
-                    "alignment": 1,
-                    "itemCornerRadius": 6,
-                    "class": "DepictionVideoView"
-                },
-                {
-                    "url": "https://www.youtube.com/embed/3bHBrXbH03c",
-                    "width": 268,
-                    "height": 151,
-                    "autoplay": 0,
-                    "alignment": 1,
-                    "itemCornerRadius": 6,
-                    "class": "DepictionVideoView"
-                },
-                {
-                    "url": "https://www.youtube.com/embed/hr_HRLFfXDs",
-                    "width": 268,
-                    "height": 151,
-                    "autoplay": 0,
-                    "alignment": 1,
-                    "itemCornerRadius": 6,
-                    "class": "DepictionVideoView"
                 },
                 {
                     "class": "DepictionSeparatorView"
@@ -248,11 +223,12 @@
                     "spacing": 8,
                     "class": "DepictionSpacerView"
                 }
-            ],
-            "class": "DepictionStackView"
+            ]
         },
         {
             "tabname": "Changelog",
+            "class": "DepictionStackView",
+            "tintColor": "#0657bb",
             "views": [
                 {
                     "title": "933.1631-2",
@@ -322,9 +298,47 @@
                     "useRawFormat": true,
                     "class": "DepictionMarkdownView"
                 }
-            ],
-            "class": "DepictionStackView"
+            ]
+        },
+        {
+            "tabname": "Video's",
+            "class": "DepictionVideoView",
+            "tintColor": "#0657bb",
+            "views": [
+                {
+                    "url": "https://www.youtube.com/embed/x6WPqtXJXj8?rel=0",
+                    "width": 268,
+                    "height": 151,
+                    "cornerRadius": 6,
+                    "alignment": 1,
+                    "autoplay": 0,
+                    "showPlaybackControls": 0,
+                    "loop": 0,
+                    "class": "DepictionVideoView"
+                },
+                {
+                    "url": "https://www.youtube.com/embed/3bHBrXbH03c",
+                    "width": 268,
+                    "height": 151,
+                    "cornerRadius": 6,
+                    "alignment": 1,
+                    "autoplay": 0,
+                    "showPlaybackControls": 0,
+                    "loop": 0,
+                    "class": "DepictionVideoView"
+                },
+                {
+                    "url": "https://www.youtube.com/embed/hr_HRLFfXDs",
+                    "width": 268,
+                    "height": 151,
+                    "cornerRadius": 6,
+                    "alignment": 1,
+                    "autoplay": 0,
+                    "showPlaybackControls": 0,
+                    "loop": 0,
+                    "class": "DepictionVideoView"
+                }
+            ]
         }
-    ],
-    "class": "DepictionTabView"
+    ]
 }
