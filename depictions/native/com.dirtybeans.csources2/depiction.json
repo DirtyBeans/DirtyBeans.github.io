@@ -16,9 +16,10 @@
                     "useBoldText": true
                 },
                 {
-                    "markdown": "<small style=\"color: #ff0; margin-top: -18px;\"><center>Repo / Sources Manager that allows full control over your sources.</center></small>"
+                    "useSpacing": true,
+                    "tintColor": "#ffff00",
                     "class": "DepictionMarkdownView",
-                    "useRawFormat": true
+                    "markdown": "Repo / Sources Manager that allows full control over your sources."
                 },
                 {
                     "spacing": 8,
