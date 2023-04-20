@@ -86,21 +86,6 @@
                             "accessibilityText": "Dark Mode - Packages",
                             "url": "https://DirtyBeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_ipad_6.png",
                             "fullSizeURL": "https://DirtyBeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_ipad_6.png"
-                        },
-                        {
-                            "accessibilityText": "Example",
-                            "url": "https://www.youtube.com/embed/x6WPqtXJXj8?rel=0",
-                            "video": 1
-                        },
-                        {
-                            "accessibilityText": "Sileo Support",
-                            "url": "https://www.youtube.com/embed/3bHBrXbH03c",
-                            "video": 1
-                        },
-                        {
-                            "accessibilityText": "Zebra Support",
-                            "url": "https://www.youtube.com/embed/hr_HRLFfXDs",
-                            "video": 1
                         }
                     ],
                     "itemSize": "{160, 284.44444444444}",
@@ -117,7 +102,7 @@
                     "title": "Repo Manager Support:"
                 },
                 {
-                    "markdown": "<small style=\"color: #ff0; margin-top: -8px;\"><center>Cydia, Installer, PostBox, Saily, Sileo, Zebra</center></small>",
+                    "markdown": "<small style=\"color: #00f; margin-top: -8px;\"><center>Cydia, Installer, PostBox, Saily, Sileo, Zebra</center></small>",
                     "class": "DepictionMarkdownView",
                     "useRawFormat": true
                 },
@@ -128,7 +113,7 @@
                     "title": "Supported Jailbreaks:"
                 },
                 {
-                    "markdown": "<small style=\"color: #ff0; margin-top: -8px;\"><center>Fugu15 Max, palera1n, Xina, Blizzard9, unc0ver, checkRa1n, Odyssey, Taurine, Chimera, Pangu, Phoenix, &amp; more !</center></small>",
+                    "markdown": "<small style=\"color: #00f; margin-top: -8px;\"><center>Fugu15 Max, palera1n, Xina, Blizzard9, unc0ver, checkRa1n, Odyssey, Taurine, Chimera, Pangu, Phoenix, &amp; more !</center></small>",
                     "class": "DepictionMarkdownView",
                     "useRawFormat": true
                 },
@@ -139,7 +124,7 @@
                     "title": "Features:"
                 },
                 {
-                    "markdown": "<ul><small style=\"color: #ff0; margin-top: -8px;\"><li>Add as many sources as you want.</li><li>Disable/Enable or delete them.</li><li>Add notes.</li><li>Check if Source is active.</li><li>Package details.</li><li>Import cydia.list, zebra sources.list, ????.list file , Web Link.</li><li>Import sources.</li><li>Add repo.</li><li>Backup Sources via iTunes , iCloud , Manually.</li><li>Sync between devices.<ul><li>(iCloud v933.1430-0) &amp; up.</li></ul><li>View / Export Installed Packages.<ul><li>(v933.1451-0) &amp; up.</li></ul><li>Restore Previously installed Packages.<ul><li>(v933.1451-0) &amp; up.</li></ul><li>Auto List, Tweak Cydia features, &amp; More !</li><li>Full Docs : CSources2 Blog</li><li>Please review all notes and documentation before contacting the developer.</li><li>Contact Dev via: In App ( CSources2 / Info Page / Contact )</li><li>Contact Dev via: Below Contact Link</li></small></ul>",
+                    "markdown": "<ul><small style=\"color: #00f; margin-top: -8px;\"><li>Add as many sources as you want.</li><li>Disable/Enable or delete them.</li><li>Add notes.</li><li>Check if Source is active.</li><li>Package details.</li><li>Import cydia.list, zebra sources.list, ????.list file , Web Link.</li><li>Import sources.</li><li>Add repo.</li><li>Backup Sources via iTunes , iCloud , Manually.</li><li>Sync between devices.<ul><li>(iCloud v933.1430-0) &amp; up.</li></ul><li>View / Export Installed Packages.<ul><li>(v933.1451-0) &amp; up.</li></ul><li>Restore Previously installed Packages.<ul><li>(v933.1451-0) &amp; up.</li></ul><li>Auto List, Tweak Cydia features, &amp; More !</li><li>Full Docs : CSources2 Blog</li><li>Please review all notes and documentation before contacting the developer.</li><li>Contact Dev via: In App ( CSources2 / Info Page / Contact )</li><li>Contact Dev via: Below Contact Link</li></small></ul>",
                     "class": "DepictionMarkdownView",
                     "useRawFormat": true
                 },
@@ -238,7 +223,7 @@
                     "class": "DepictionSubheaderView"
                 },
                 {
-                    "markdown": "<small style=\"color: #ff0; margin-top: -10px;\"><ul><li>iOS 9.3.3 - 16.3.1 Support.</li><li>Rootless &amp; Rootful Support.</li><li>Added Fugu15 Jailbreak Detection.</li><li>Squashed some 🐞🐜🐛🕷🦟 's.</li></ul></small>",
+                    "markdown": "<small style=\"color: #00f; margin-top: -10px;\"><ul><li>iOS 9.3.3 - 16.3.1 Support.</li><li>Rootless &amp; Rootful Support.</li><li>Added Fugu15 Jailbreak Detection.</li><li>Squashed some 🐞🐜🐛🕷🦟 's.</li></ul></small>",
                     "useSpacing": false,
                     "useRawFormat": true,
                     "tintColor": "#48f96c",
@@ -259,7 +244,7 @@
                     "class": "DepictionSubheaderView"
                 },
                 {
-                    "markdown": "<small style=\"color: #ff0; margin-top: -10px;\"><ul><li>iOS 9.3.3 - 16.3.1 Support.</li><li>Please Note: v933.1500-0 -> 1631.x has not been tested fully on an actual iOS 15+ A14+ etc jailbroken device.</li><li>Added Xina Jailbreak Detection.</li><li>Added palera1n Jailbreak Detection.</li><li>Added Blizzard 9 Jailbreak Detection.</li><li>Added copy enabled sources to clipboard for pasting into package managers.</li><li>Repositories can now be sync'd, via Replace or Merge in Sync Devices.</li><li>Added Setting to choose which type of Check if Alive Status.</li><ul><li>If repo was down but now alive again, its switch handle will be green temporarily.</li></ul><li>Back Burners can now be sync'd, via Replace or Merge in Sync Devices.</li><li>Back Burners files can be emailed via: Contact/Send Backups on the ⓘ Info page.</li><li>Added repo status to Back Burners.</li><li>Squashed some 🐞🐜🐛🕷🦟 's.</li></ul></small>",
+                    "markdown": "<small style=\"color: #00f; margin-top: -10px;\"><ul><li>iOS 9.3.3 - 16.3.1 Support.</li><li>Please Note: v933.1500-0 -> 1631.x has not been tested fully on an actual iOS 15+ A14+ etc jailbroken device.</li><li>Added Xina Jailbreak Detection.</li><li>Added palera1n Jailbreak Detection.</li><li>Added Blizzard 9 Jailbreak Detection.</li><li>Added copy enabled sources to clipboard for pasting into package managers.</li><li>Repositories can now be sync'd, via Replace or Merge in Sync Devices.</li><li>Added Setting to choose which type of Check if Alive Status.</li><ul><li>If repo was down but now alive again, its switch handle will be green temporarily.</li></ul><li>Back Burners can now be sync'd, via Replace or Merge in Sync Devices.</li><li>Back Burners files can be emailed via: Contact/Send Backups on the ⓘ Info page.</li><li>Added repo status to Back Burners.</li><li>Squashed some 🐞🐜🐛🕷🦟 's.</li></ul></small>",
                     "useSpacing": false,
                     "useRawFormat": true,
                     "tintColor": "#48f96c",
@@ -280,7 +265,7 @@
                     "class": "DepictionSubheaderView"
                 },
                 {
-                    "markdown": "<small style=\"color: #ff0; margin-top: -10px;\"><ul><li>iOS 9.3.3 - 15.0.0 Support.</li><li>UI improvements.</li></ul></small>",
+                    "markdown": "<small style=\"color: #00f; margin-top: -10px;\"><ul><li>iOS 9.3.3 - 15.0.0 Support.</li><li>UI improvements.</li></ul></small>",
                     "useSpacing": false,
                     "useRawFormat": true,
                     "class": "DepictionMarkdownView"
@@ -300,7 +285,7 @@
                     "class": "DepictionSubheaderView"
                 },
                 {
-                    "markdown": "<small style=\"color: #ff0; margin-top: -10px;\"><ul><li>iOS 9.3.3 - 14.7.1 Support.</li><li>Added ability to Import Parcility.co repo Sources.</li><ul><li>ⓘ Info page -&gt; Import.</li></ul><li>Added (🔍N) to Search Quick Keys.</li><ul><li>Start a search.</li><li>Type what to look for.</li><li>Press the (🔍N) Quick Key.</li><li>It will display only repositories containing the search criteria if found in Notes section.</li></ul><li>Modified Clean and its settings.</li><li>Improved Sync Devices. (version specific)</li><li>Fixed, Zebra crashing. New Zebra does not regenerate its db file.</li><ul><li>Disable or Enable in Settings depending on your Zebra version.</li></ul><li>Fixed, iPhone4s on iOS 9.3.3,.5,.6 crash.</li><li>The Cache has been rewritten. Be patient, only happens the first time.</li><li>Squashed some 🐞🐜🐛🕷🦟 's</li></ul></small>",
+                    "markdown": "<small style=\"color: #00f; margin-top: -10px;\"><ul><li>iOS 9.3.3 - 14.7.1 Support.</li><li>Added ability to Import Parcility.co repo Sources.</li><ul><li>ⓘ Info page -&gt; Import.</li></ul><li>Added (🔍N) to Search Quick Keys.</li><ul><li>Start a search.</li><li>Type what to look for.</li><li>Press the (🔍N) Quick Key.</li><li>It will display only repositories containing the search criteria if found in Notes section.</li></ul><li>Modified Clean and its settings.</li><li>Improved Sync Devices. (version specific)</li><li>Fixed, Zebra crashing. New Zebra does not regenerate its db file.</li><ul><li>Disable or Enable in Settings depending on your Zebra version.</li></ul><li>Fixed, iPhone4s on iOS 9.3.3,.5,.6 crash.</li><li>The Cache has been rewritten. Be patient, only happens the first time.</li><li>Squashed some 🐞🐜🐛🕷🦟 's</li></ul></small>",
                     "useSpacing": false,
                     "useRawFormat": true,
                     "tintColor": "#48f96c",
@@ -315,43 +300,72 @@
         },
         {
             "tabname": "Video's",
-            "class": "DepictionAutoStackView",
+            "class": "DepictionStackView",
             "tintColor": "#0657bb",
-            "horizontalSpacing": 8,
             "views": [
                 {
-                    "url": "https://www.youtube.com/embed/x6WPqtXJXj8?rel=0",
-                    "width": 268,
-                    "height": 151,
-                    "cornerRadius": 6,
-                    "alignment": 1,
-                    "autoplay": 0,
-                    "showPlaybackControls": 0,
-                    "loop": 0,
-                    "class": "DepictionVideoView"
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Example",
+                            "url": "https://www.youtube.com/embed/x6WPqtXJXj8?rel=0",
+                            "video": 1
+                        },
+                        {
+                            "accessibilityText": "Sileo Support",
+                            "url": "https://www.youtube.com/embed/3bHBrXbH03c",
+                            "video": 1
+                        },
+                        {
+                            "accessibilityText": "Zebra Support",
+                            "url": "https://www.youtube.com/embed/hr_HRLFfXDs",
+                            "video": 1
+                        }
+                    ],
+                    "itemSize": "{160, 284.44444444444}",
+                    "itemCornerRadius": 6,
+                    "class": "DepictionScreenshotsView"
                 },
                 {
-                    "url": "https://www.youtube.com/embed/3bHBrXbH03c",
-                    "width": 268,
-                    "height": 151,
-                    "cornerRadius": 6,
-                    "alignment": 1,
-                    "autoplay": 0,
-                    "showPlaybackControls": 0,
-                    "loop": 0,
-                    "class": "DepictionVideoView"
+                    "screenshots": [
+                        {
+                            "url": "https://www.youtube.com/embed/x6WPqtXJXj8?rel=0",
+                            "width": 268,
+                            "height": 151,
+                            "cornerRadius": 6,
+                            "alignment": 1,
+                            "autoplay": 0,
+                            "showPlaybackControls": 0,
+                            "loop": 0,
+                            "class": "DepictionVideoView"
+                        },
+                        {
+                            "url": "https://www.youtube.com/embed/3bHBrXbH03c",
+                            "width": 268,
+                            "height": 151,
+                            "cornerRadius": 6,
+                            "alignment": 1,
+                            "autoplay": 0,
+                            "showPlaybackControls": 0,
+                            "loop": 0,
+                            "class": "DepictionVideoView"
+                        },
+                        {
+                            "url": "https://www.youtube.com/embed/hr_HRLFfXDs",
+                            "width": 268,
+                            "height": 151,
+                            "cornerRadius": 6,
+                            "alignment": 1,
+                            "autoplay": 0,
+                            "showPlaybackControls": 0,
+                            "loop": 0,
+                            "class": "DepictionVideoView"
+                        }
+                    ],
+                    "itemSize": "{160, 284.44444444444}",
+                    "itemCornerRadius": 6,
+                    "class": "DepictionScreenshotsView"
                 },
-                {
-                    "url": "https://www.youtube.com/embed/hr_HRLFfXDs",
-                    "width": 268,
-                    "height": 151,
-                    "cornerRadius": 6,
-                    "alignment": 1,
-                    "autoplay": 0,
-                    "showPlaybackControls": 0,
-                    "loop": 0,
-                    "class": "DepictionVideoView"
-                }
+                
             ]
         }
     ]
