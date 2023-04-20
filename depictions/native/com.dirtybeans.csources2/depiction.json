@@ -16,7 +16,7 @@
                     "useBoldText": true
                 },
                 {
-                    "markdown": "<style=\"color: #ff0; margin-top: -12px;\"><center>Repo / Sources Manager that allows full control over your sources.</center></style>"
+                    "markdown": "<small style=\"color: #ff0; margin-top: -18px;\"><center>Repo / Sources Manager that allows full control over your sources.</center></small>"
                     "class": "DepictionMarkdownView",
                     "useRawFormat": true
                 },
@@ -236,31 +236,6 @@
                     "itemSize": "{160, 284.44444444444}",
                     "itemCornerRadius": 6,
                     "class": "DepictionScreenshotsView"
-                },
-                {
-                    "spacing": 8,
-                    "class": "DepictionSpacerView"
-                },
-                {
-                    "url": "https://www.youtube.com/embed/x6WPqtXJXj8?rel=0",
-                    "width": 268,
-                    "height": 151,
-                    "cornerRadius": 6,
-                    "class": "DepictionVideoView"
-                },
-                {
-                    "url": "https://www.youtube.com/embed/3bHBrXbH03c",
-                    "width": 268,
-                    "height": 151,
-                    "cornerRadius": 6,
-                    "class": "DepictionVideoView"
-                },
-                {
-                    "url": "https://www.youtube.com/embed/hr_HRLFfXDs",
-                    "width": 268,
-                    "height": 151,
-                    "cornerRadius": 6,
-                    "class": "DepictionVideoView"
                 }
             ]
         },
