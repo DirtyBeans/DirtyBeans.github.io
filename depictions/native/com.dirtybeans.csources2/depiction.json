@@ -16,10 +16,9 @@
                     "useBoldText": true
                 },
                 {
-                    "useSpacing": true,
-                    "tintColor": "#ffff00",
+                    "markdown": "<style=\"color: #ff0; margin-top: -12px;\"><center>Repo / Sources Manager that allows full control over your sources.</center></style>"
                     "class": "DepictionMarkdownView",
-                    "markdown": "Repo / Sources Manager that allows full control over your sources."
+                    "useRawFormat": true
                 },
                 {
                     "spacing": 8,
@@ -221,17 +220,17 @@
                         {
                             "accessibilityText": "Example",
                             "url": "https://www.youtube.com/embed/x6WPqtXJXj8?rel=0",
-                            "video": 1
+                            "video": true
                         },
                         {
                             "accessibilityText": "Sileo Support",
                             "url": "https://www.youtube.com/embed/3bHBrXbH03c",
-                            "video": 1
+                            "video": true
                         },
                         {
                             "accessibilityText": "Zebra Support",
                             "url": "https://www.youtube.com/embed/hr_HRLFfXDs",
-                            "video": 1
+                            "video": true
                         }
                     ],
                     "itemSize": "{160, 284.44444444444}",
@@ -243,31 +242,24 @@
                     "class": "DepictionSpacerView"
                 },
                 {
-                    "screenshots": [
-                        {
-                            "url": "https://www.youtube.com/embed/x6WPqtXJXj8?rel=0",
-                            "width": 268,
-                            "height": 151,
-                            "cornerRadius": 6,
-                            "loop": 0
-                        },
-                        {
-                            "url": "https://www.youtube.com/embed/3bHBrXbH03c",
-                            "width": 268,
-                            "height": 151,
-                            "cornerRadius": 6,
-                            "loop": 0
-                        },
-                        {
-                            "url": "https://www.youtube.com/embed/hr_HRLFfXDs",
-                            "width": 268,
-                            "height": 151,
-                            "cornerRadius": 6,
-                            "loop": 0
-                        }
-                    ],
-                    "itemSize": "{160, 284.44444444444}",
-                    "itemCornerRadius": 6,
+                    "url": "https://www.youtube.com/embed/x6WPqtXJXj8?rel=0",
+                    "width": 268,
+                    "height": 151,
+                    "cornerRadius": 6,
+                    "class": "DepictionVideoView"
+                },
+                {
+                    "url": "https://www.youtube.com/embed/3bHBrXbH03c",
+                    "width": 268,
+                    "height": 151,
+                    "cornerRadius": 6,
+                    "class": "DepictionVideoView"
+                },
+                {
+                    "url": "https://www.youtube.com/embed/hr_HRLFfXDs",
+                    "width": 268,
+                    "height": 151,
+                    "cornerRadius": 6,
                     "class": "DepictionVideoView"
                 }
             ]
