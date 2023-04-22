@@ -1,19 +1,10 @@
 <package>
-<<<<<<< Updated upstream
     <id>com.dirtybeans.csources2</id>
     <name>CSources2</name>
     <version>933.1631-2</version>
     <compatibility>
         <firmware>
             <miniOS>9.3.3</miniOS>
-=======
-	<id>com.dirtybeans.csources2</id>
-	<name>CSources2</name>
-	<version>933.1631-3</version>
-	<compatibility>
-		<firmware>
-			<miniOS>9.3.3</miniOS>
->>>>>>> Stashed changes
             <maxiOS>16.3.1</maxiOS>
             <otherVersions>unsupported</otherVersions>
         </firmware>

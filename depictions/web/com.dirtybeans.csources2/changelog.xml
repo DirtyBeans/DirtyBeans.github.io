@@ -1,10 +1,5 @@
 <changelog>
     <changes>
-        <version>933.1631-3</version>
-        <change>Added Dopamine Jailbreak Detection.</change>
-        <change>Squashed some 🐞🐜🐛🕷🦟 ‘s.</change>
-    </changes>
-    <changes>
         <version>933.1631-2</version>
         <change>Added Fugu15 Jailbreak Detection.</change>
         <change>Added Rootless &amp; Rootful Support.
@@ -195,29 +190,29 @@
         <version>600.1302-1</version>
         <change><![CDATA[
             UI Modifications.<br/>
-        iOS 6.0.0-13.x.x Support, posibile 13.2.3 & 13.3.<br/>
-        iPad7,5 - 7,6 - 7,11 - 7,12 - 11,3 - 11,4 - 8,7 - 8,8 - 11,1 - 11,2 Support.<br/>
-        iPhone12,1 - 12,3 - 12,5 Support.<br/>
-        CSources2 now shows repos that are already loaded into Cydia. If source is in Cydia, the source will be disabled in CSources2 and will have an orange tint.
-        Improved MultiSync.<br/>
-        Added Mark As IsSafe/UnSafe.<br/>
-        Added option to reset all settings via Settings. Also added option via the +(add new source) , type resetcs2defaults as if you were adding a new source.<br/>
-        Please note, when attempting to open a terminal app via CSources2, if the developer of the installed terminal app does not have a URLScheme for its app, then CSources2 cannot open it.<br/>
-        Webview improvements.<br/>
-        Fixed SlideOver/Splitview.<br/>
-        AutoSave improvements<br/>
-        New Settings.<br/>
-        Fixed open in app / safari.<br/>
-        XS Max, 11, 11Pro, 11ProMax etc compatibility.<br/>
-        Fixes for User Icons.<br/>
-        Improved icon download timing.<br/>
-        Auto Scrolling to new sources etc, improvements.<br/>
-        Browser now has static history(beta). By default, CS2 does not remember sites in Browser, turn on Static History, this can be flushed in settings.<br/>
-        User can mark a source as Safe (IsSafe) or UnSafe.<br/>
-        Currently fully tested on unc0ver (Undecimus-v3.7.0.b3), Cydia64_1.1.32~b22.<br/>
-        Backgrounding has been improved to allow coming back and forth or sidebyside integration.<br/>
-        App Colors features / color theming improvements.<br/>
-        And much more.....<br/>
+            iOS 6.0.0-13.x.x Support, posibile 13.2.3 & 13.3.<br/>
+            iPad7,5 - 7,6 - 7,11 - 7,12 - 11,3 - 11,4 - 8,7 - 8,8 - 11,1 - 11,2 Support.<br/>
+            iPhone12,1 - 12,3 - 12,5 Support.<br/>
+            CSources2 now shows repos that are already loaded into Cydia. If source is in Cydia, the source will be disabled in CSources2 and will have an orange tint.
+            Improved MultiSync.<br/>
+            Added Mark As IsSafe/UnSafe.<br/>
+            Added option to reset all settings via Settings. Also added option via the +(add new source) , type resetcs2defaults as if you were adding a new source.<br/>
+            Please note, when attempting to open a terminal app via CSources2, if the developer of the installed terminal app does not have a URLScheme for its app, then CSources2 cannot open it.<br/>
+            Webview improvements.<br/>
+            Fixed SlideOver/Splitview.<br/>
+            AutoSave improvements<br/>
+            New Settings.<br/>
+            Fixed open in app / safari.<br/>
+            XS Max, 11, 11Pro, 11ProMax etc compatibility.<br/>
+            Fixes for User Icons.<br/>
+            Improved icon download timing.<br/>
+            Auto Scrolling to new sources etc, improvements.<br/>
+            Browser now has static history(beta). By default, CS2 does not remember sites in Browser, turn on Static History, this can be flushed in settings.<br/>
+            User can mark a source as Safe (IsSafe) or UnSafe.<br/>
+            Currently fully tested on unc0ver (Undecimus-v3.7.0.b3), Cydia64_1.1.32~b22.<br/>
+            Backgrounding has been improved to allow coming back and forth or sidebyside integration.<br/>
+            App Colors features / color theming improvements.<br/>
+            And much more.....<br/>
         ]]></change>
     </changes>
     <changes>

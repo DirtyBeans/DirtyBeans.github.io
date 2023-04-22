@@ -133,7 +133,7 @@
                 },
                 {
                     "title": "Version",
-                    "text": "933.1631-3",
+                    "text": "933.1631-2",
                     "class": "DepictionTableTextView"
                 },
                 {
@@ -250,27 +250,6 @@
             "class": "DepictionStackView",
             "tintColor": "#ffff00",
             "views": [
-                {
-                    "title": "933.1631-3",
-                    "useBoldText": true,
-                    "useBottomMargin": true,
-                    "class": "DepictionSubheaderView"
-                },
-                {
-                    "markdown": "<small style=\"color: #ff0; margin-top: -10px;\"><ul><li>iOS 9.3.3 - 16.3.1 Support.</li><li>Added Dopamine Jailbreak Detection.</li><li>Squashed some 🐞🐜🐛🕷🦟 's.</li></ul></small>",
-                    "useSpacing": false,
-                    "useRawFormat": true,
-                    "tintColor": "#48f96c",
-                    "class": "DepictionMarkdownView"
-                },
-                {
-                    "markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2023.04.20</small>",
-                    "useRawFormat": true,
-                    "class": "DepictionMarkdownView"
-                },
-                {
-                    "class": "DepictionSeparatorView"
-                },
                 {
                     "title": "933.1631-2",
                     "useBoldText": true,
