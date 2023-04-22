@@ -10,20 +10,18 @@
             "tintColor": "#ffff00",
             "views": [
                 {
-                    "class": "DepictionSubheaderView",
-                    "useBottomMargin": false,
-                    "title": "CSources2",
-                    "useBoldText": true
+                    "text": "CSources2",
+                    "fontWeight": "bold",
+                    "fontSize": 12,
+                    "textColor": "ffff00",
+                    "alignment": 0,
+                    "class": "DepictionLabelView"
                 },
                 {
                     "useSpacing": true,
                     "tintColor": "#ffff00",
                     "class": "DepictionMarkdownView",
                     "markdown": "Repo / Sources Manager that allows full control over your sources."
-                },
-                {
-                    "spacing": 8,
-                    "class": "DepictionSpacerView"
                 },
                 {
                     "screenshots": [
@@ -132,6 +130,14 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
+                    "text": "Information:",
+                    "fontWeight": "bold",
+                    "fontSize": 12,
+                    "textColor": "ffff00",
+                    "alignment": 0,
+                    "class": "DepictionLabelView"
+                },
+                {
                     "title": "Version",
                     "text": "933.1631-2",
                     "class": "DepictionTableTextView"
@@ -143,7 +149,7 @@
                 },
                 {
                     "title": "Released",
-                    "text": "04-20-2023",
+                    "text": "04-18-2023",
                     "class": "DepictionTableTextView"
                 },
                 {
@@ -172,15 +178,19 @@
                     "class": "DepictionTableTextView"
                 },
                 {
-                    "spacing": 8,
-                    "class": "DepictionSpacerView"
-                },
-                {
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "title": "Website",
-                    "action": "https://dirtybeans.github.io/index.html",
+                    "text": "More:",
+                    "fontWeight": "bold",
+                    "fontSize": 12,
+                    "textColor": "ffff00",
+                    "alignment": 0,
+                    "class": "DepictionLabelView"
+                },
+                {
+                    "title": "Contact",
+                    "action": "mailto:DirtyBeans@ca.rr.com?subject=DirtyBeans.github.io%20-%20CSources2",
                     "class": "DepictionTableButtonView"
                 },
                 {
@@ -189,18 +199,47 @@
                     "class": "DepictionTableButtonView"
                 },
                 {
-                    "title": "Contact",
-                    "action": "mailto:DirtyBeans@ca.rr.com?subject=DirtyBeans.github.io%20-%20CSources2",
-                    "class": "DepictionTableButtonView"
-                },
-                {
                     "title": "Update History",
                     "action": "https://csources2.wordpress.com/update-history/",
                     "class": "DepictionTableButtonView"
                 },
                 {
+                    "title": "Website",
+                    "action": "https://dirtybeans.github.io/index.html",
+                    "class": "DepictionTableButtonView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "text": "Links:",
+                    "fontWeight": "bold",
+                    "fontSize": 12,
+                    "textColor": "ffff00",
+                    "alignment": 0,
+                    "class": "DepictionLabelView"
+                },
+                {
+                    "title": "Discord",
+                    "action": "https://discord.gg/qZ4ATzFM6T",
+                    "class": "DepictionTableButtonView"
+                },
+                {
+                    "title": "Reddit",
+                    "action": "https://www.reddit.com/r/CSources2/",
+                    "class": "DepictionTableButtonView"
+                },
+                {
+                    "title": "Twitter",
+                    "action": "https://twitter.com/DirtyBeansDBs",
+                    "class": "DepictionTableButtonView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
                     "text": "Donate",
-                    "action": "https://www.paypal.com/donate/?business=E37V2DWUFRRJW&no_recurring=0&item_name=Keep+CSources2+Alive+%21%21%21&currency_code=USD",
+                    "action": "https://www.paypal.com/donate/?hosted_button_id=EV2EXCXXFAKFG",
                     "openExternal": true,
                     "tintColor": "#6264d3",
                     "class": "DepictionButtonView"
@@ -253,6 +292,22 @@
                         {
                             "accessibilityText": "Zebra Support",
                             "url": "https://www.youtube.com/embed/hr_HRLFfXDs",
+                            "video": true
+                        }
+                    ],
+                    "itemCornerRadius": 6,
+                    "itemSize": "{160, 284.44444444444}",
+                    "class": "DepictionScreenshotsView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Zebra Support",
+                            "url": "https://DirtyBeans.github.io/depictions/csources2/Videos/Zebra_Demo.MP4",
                             "video": true
                         }
                     ],
