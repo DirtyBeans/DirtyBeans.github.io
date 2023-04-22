@@ -1,6 +1,6 @@
 {
     "minVersion": "0.1",
-    "headerImage": "https://DirtyBeans.github.io/assets/repo/Banners/CS2Header.png",
+    "headerImage": "https://dirtybeans.github.io/assets/repo/Banners/CS2Header.png",
     "class": "DepictionTabView",
     "tintColor": "#0657bb",
     "tabs": [
@@ -27,63 +27,63 @@
                     "screenshots": [
                         {
                             "accessibilityText": "Normal View - iPhone",
-                            "url": "https://DirtyBeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_iphone_1.png",
-                            "fullSizeURL": "https://DirtyBeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_iphone_1.png"
+                            "url": "https://dirtybeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_iphone_1.png",
+                            "fullSizeURL": "https://dirtybeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_iphone_1.png"
                         },
                         {
                             "accessibilityText": "Enable / Disable Repo confirmation",
-                            "url": "https://DirtyBeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_iphone_2.png",
-                            "fullSizeURL": "https://DirtyBeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_iphone_2.png"
+                            "url": "https://dirtybeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_iphone_2.png",
+                            "fullSizeURL": "https://dirtybeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_iphone_2.png"
                         },
                         {
                             "accessibilityText": "Color Schemes, sample iPhone",
-                            "url": "https://DirtyBeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_iphone_3.png",
-                            "fullSizeURL": "https://DirtyBeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_iphone_3.png"
+                            "url": "https://dirtybeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_iphone_3.png",
+                            "fullSizeURL": "https://dirtybeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_iphone_3.png"
                         },
                         {
                             "accessibilityText": "Native Dark Mode",
-                            "url": "https://DirtyBeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_iphone_4.png",
-                            "fullSizeURL": "https://DirtyBeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_iphone_4.png"
+                            "url": "https://dirtybeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_iphone_4.png",
+                            "fullSizeURL": "https://dirtybeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_iphone_4.png"
                         },
                         {
                             "accessibilityText": "Packages",
-                            "url": "https://DirtyBeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_iphone_5.png",
-                            "fullSizeURL": "https://DirtyBeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_iphone_5.png"
+                            "url": "https://dirtybeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_iphone_5.png",
+                            "fullSizeURL": "https://dirtybeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_iphone_5.png"
                         },
                         {
                             "accessibilityText": "Web View Repo",
-                            "url": "https://DirtyBeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_iphone_6.png",
-                            "fullSizeURL": "https://DirtyBeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_iphone_6.png"
+                            "url": "https://dirtybeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_iphone_6.png",
+                            "fullSizeURL": "https://dirtybeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_iphone_6.png"
                         },
                         {
                             "accessibilityText": "Normal View - iPad",
-                            "url": "https://DirtyBeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_ipad_1.png",
-                            "fullSizeURL": "https://DirtyBeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_ipad_1.png"
+                            "url": "https://dirtybeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_ipad_1.png",
+                            "fullSizeURL": "https://dirtybeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_ipad_1.png"
                         },
                         {
                             "accessibilityText": "Repo Details",
-                            "url": "https://DirtyBeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_ipad_2.png",
-                            "fullSizeURL": "https://DirtyBeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_ipad_2.png"
+                            "url": "https://dirtybeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_ipad_2.png",
+                            "fullSizeURL": "https://dirtybeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_ipad_2.png"
                         },
                         {
                             "accessibilityText": "Dark Mode Web View",
-                            "url": "https://DirtyBeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_ipad_3.png",
-                            "fullSizeURL": "https://DirtyBeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_ipad_3.png"
+                            "url": "https://dirtybeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_ipad_3.png",
+                            "fullSizeURL": "https://dirtybeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_ipad_3.png"
                         },
                         {
                             "accessibilityText": "Info Page",
-                            "url": "https://DirtyBeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_ipad_4.png",
-                            "fullSizeURL": "https://DirtyBeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_ipad_4.png"
+                            "url": "https://dirtybeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_ipad_4.png",
+                            "fullSizeURL": "https://dirtybeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_ipad_4.png"
                         },
                         {
                             "accessibilityText": "Color Schemes, sample iPad",
-                            "url": "https://DirtyBeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_ipad_5.png",
-                            "fullSizeURL": "https://DirtyBeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_ipad_5.png"
+                            "url": "https://dirtybeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_ipad_5.png",
+                            "fullSizeURL": "https://dirtybeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_ipad_5.png"
                         },
                         {
                             "accessibilityText": "Dark Mode - Packages",
-                            "url": "https://DirtyBeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_ipad_6.png",
-                            "fullSizeURL": "https://DirtyBeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_ipad_6.png"
+                            "url": "https://dirtybeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_ipad_6.png",
+                            "fullSizeURL": "https://dirtybeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_ipad_6.png"
                         }
                     ],
                     "itemSize": "{160, 284.44444444444}",
@@ -307,7 +307,7 @@
                     "screenshots": [
                         {
                             "accessibilityText": "Zebra Support",
-                            "url": "https://DirtyBeans.github.io/depictions/csources2/Videos/Zebra_Demo.MP4",
+                            "url": "https://dirtybeans.github.io/depictions/csources2/Videos/Zebra_Demo.MP4",
                             "video": true
                         }
                     ],
