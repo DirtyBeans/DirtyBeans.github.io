@@ -3,6 +3,7 @@
     "headerImage": "https://dirtybeans.github.io/assets/repo/Banners/CS2Header.png",
     "class": "DepictionTabView",
     "tintColor": "#0657bb",
+    "backgroundColor": "#004fff",
     "tabs": [
         {
             "tabname": "Details",
@@ -308,7 +309,7 @@
                     "screenshots": [
                         {
                             "accessibilityText": "Example",
-                            "url": "https://www.youtube.com/watch?v=x6WPqtXJXj8&t=30s",
+                            "url": "https://dirtybeans.github.io/depictions/csources2/Videos/CSources2_Demo_2015.MP4",
                             "video": true
                         }
                     ],
