@@ -1,5 +1,10 @@
 <changelog>
     <changes>
+        <version>933.1631-3</version>
+        <change>Added Dopamine Jailbreak Detection.</change>
+        <change>Squashed some 🐞🐜🐛🕷🦟 ‘s.</change>
+    </changes>
+    <changes>
         <version>933.1631-2</version>
         <change>Added Fugu15 Jailbreak Detection.</change>
         <change>Added Rootless &amp; Rootful Support.

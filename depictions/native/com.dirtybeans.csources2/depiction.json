@@ -7,7 +7,7 @@
         {
             "tabname": "Details",
             "class": "DepictionStackView",
-            "tintColor": "#0657bb",
+            "tintColor": "#ffff00",
             "views": [
                 {
                     "class": "DepictionSubheaderView",
@@ -133,7 +133,7 @@
                 },
                 {
                     "title": "Version",
-                    "text": "933.1631-2",
+                    "text": "933.1631-3",
                     "class": "DepictionTableTextView"
                 },
                 {
@@ -143,7 +143,7 @@
                 },
                 {
                     "title": "Released",
-                    "text": "04-18-2023",
+                    "text": "04-20-2023",
                     "class": "DepictionTableTextView"
                 },
                 {
@@ -214,27 +214,32 @@
         {
             "tabname": "Video's",
             "class": "DepictionStackView",
-            "tintColor": "#0657bb",
+            "tintColor": "#ffff00",
             "views": [
                 {
                     "screenshots": [
                         {
                             "accessibilityText": "Example",
                             "url": "https://www.youtube.com/embed/x6WPqtXJXj8?rel=0",
+                            "itemSize": "{213, 120}",
+                            "class": "DepictionVideoView",
                             "video": true
                         },
                         {
                             "accessibilityText": "Sileo Support",
                             "url": "https://www.youtube.com/embed/3bHBrXbH03c",
+                            "itemSize": "{160, 284.44444444444}",
+                            "class": "DepictionVideoView",
                             "video": true
                         },
                         {
                             "accessibilityText": "Zebra Support",
                             "url": "https://www.youtube.com/embed/hr_HRLFfXDs",
+                            "itemSize": "{160, 284.44444444444}",
+                            "class": "DepictionVideoView",
                             "video": true
                         }
                     ],
-                    "itemSize": "{160, 284.44444444444}",
                     "itemCornerRadius": 6,
                     "class": "DepictionScreenshotsView"
                 }
@@ -243,8 +248,29 @@
         {
             "tabname": "Changelog",
             "class": "DepictionStackView",
-            "tintColor": "#0657bb",
+            "tintColor": "#ffff00",
             "views": [
+                {
+                    "title": "933.1631-3",
+                    "useBoldText": true,
+                    "useBottomMargin": true,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "<small style=\"color: #ff0; margin-top: -10px;\"><ul><li>iOS 9.3.3 - 16.3.1 Support.</li><li>Added Dopamine Jailbreak Detection.</li><li>Squashed some 🐞🐜🐛🕷🦟 's.</li></ul></small>",
+                    "useSpacing": false,
+                    "useRawFormat": true,
+                    "tintColor": "#48f96c",
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2023.04.20</small>",
+                    "useRawFormat": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "title": "933.1631-2",
                     "useBoldText": true,
