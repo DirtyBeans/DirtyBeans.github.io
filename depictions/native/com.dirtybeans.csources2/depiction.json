@@ -245,6 +245,49 @@
                     "class": "DepictionButtonView"
                 },
                 {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "text": "Reviews:",
+                    "fontWeight": "bold",
+                    "fontSize": 12,
+                    "textColor": "ffff00",
+                    "alignment": 0,
+                    "class": "DepictionLabelView"
+                },
+                {
+                    "title": "Reddit Review",
+                    "author": "by : Mischief",
+                    "markdown": "11/27/2021 v933.1500-0 : BEST DAMN sources or repo saver restorer enabler disabler and on and on and on !!!!",
+                    "rating": 5,
+                    "tintColor": "#6264d3",
+                    "class": "DepictionReviewView"
+                },
+                {
+                    "title": "Tweakio Review",
+                    "author": "by : SpezialK",
+                    "markdown": "01/22/2021 v933.1421-0.6 : Work's on my iPhone11,iOS 13.5, Unc0ver 3.5.1",
+                    "rating": 5,
+                    "tintColor": "#6264d3",
+                    "class": "DepictionReviewView"
+                },
+                {
+                    "title": "Twitter Review",
+                    "author": "by : AlaysiaCydia",
+                    "markdown": "11/24/2019 v600.1302-1 : 💕Just Wonderfull💕. CSources2 does exactly what I need.",
+                    "rating": 5,
+                    "tintColor": "#6264d3",
+                    "class": "DepictionReviewView"
+                },
+                {
+                    "title": "Tweakio Review",
+                    "author": "by : Haeckli",
+                    "markdown": "3/4/2019 v600.1121-1 : Fully working except Backup/Restore",
+                    "rating": 4,
+                    "tintColor": "#6264d3",
+                    "class": "DepictionReviewView"
+                },
+                {
                     "spacing": 8,
                     "class": "DepictionSpacerView"
                 }
