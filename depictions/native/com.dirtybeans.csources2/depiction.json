@@ -10,14 +10,6 @@
             "tintColor": "#ffff00",
             "views": [
                 {
-                    "text": "CSources2",
-                    "fontWeight": "bold",
-                    "fontSize": 12,
-                    "textColor": "ffff00",
-                    "alignment": 0,
-                    "class": "DepictionLabelView"
-                },
-                {
                     "useSpacing": true,
                     "tintColor": "#ffff00",
                     "class": "DepictionMarkdownView",
@@ -94,10 +86,12 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "class": "DepictionSubheaderView",
-                    "useBoldText": true,
-                    "useBottomMargin": false,
-                    "title": "Repo Manager Support:"
+                    "text": "Repo Manager Support:",
+                    "fontWeight": "bold",
+                    "fontSize": 18,
+                    "textColor": "ffff00",
+                    "alignment": 0,
+                    "class": "DepictionLabelView"
                 },
                 {
                     "markdown": "<small style=\"color: #ff0; margin-top: -8px;\"><center>Cydia, Installer, PostBox, Saily, Sileo, Zebra</center></small>",
@@ -105,10 +99,12 @@
                     "useRawFormat": true
                 },
                 {
-                    "class": "DepictionSubheaderView",
-                    "useBoldText": true,
-                    "useBottomMargin": false,
-                    "title": "Supported Jailbreaks:"
+                    "text": "Supported Jailbreaks:",
+                    "fontWeight": "bold",
+                    "fontSize": 18,
+                    "textColor": "ffff00",
+                    "alignment": 0,
+                    "class": "DepictionLabelView"
                 },
                 {
                     "markdown": "<small style=\"color: #ff0; margin-top: -8px;\"><center>Fugu15 Max, palera1n, Xina, Blizzard9, unc0ver, checkRa1n, Odyssey, Taurine, Chimera, Pangu, Phoenix, &amp; more !</center></small>",
@@ -116,10 +112,12 @@
                     "useRawFormat": true
                 },
                 {
-                    "class": "DepictionSubheaderView",
-                    "useBoldText": true,
-                    "useBottomMargin": false,
-                    "title": "Features:"
+                    "text": "Features:",
+                    "fontWeight": "bold",
+                    "fontSize": 18,
+                    "textColor": "ffff00",
+                    "alignment": 0,
+                    "class": "DepictionLabelView"
                 },
                 {
                     "markdown": "<ul><small style=\"color: #ff0; margin-top: -8px;\"><li>Add as many sources as you want.</li><li>Disable/Enable or delete them.</li><li>Add notes.</li><li>Check if Source is active.</li><li>Package details.</li><li>Import cydia.list, zebra sources.list, ????.list file , Web Link.</li><li>Import sources.</li><li>Add repo.</li><li>Backup Sources via iTunes , iCloud , Manually.</li><li>Sync between devices.<ul><li>(iCloud v933.1430-0) &amp; up.</li></ul><li>View / Export Installed Packages.<ul><li>(v933.1451-0) &amp; up.</li></ul><li>Restore Previously installed Packages.<ul><li>(v933.1451-0) &amp; up.</li></ul><li>Auto List, Tweak Cydia features, &amp; More !</li><li>Full Docs : CSources2 Blog</li><li>Please review all notes and documentation before contacting the developer.</li><li>Contact Dev via: In App ( CSources2 / Info Page / Contact )</li><li>Contact Dev via: Below Contact Link</li></small></ul>",
@@ -132,7 +130,7 @@
                 {
                     "text": "Information:",
                     "fontWeight": "bold",
-                    "fontSize": 12,
+                    "fontSize": 18,
                     "textColor": "ffff00",
                     "alignment": 0,
                     "class": "DepictionLabelView"
@@ -181,9 +179,9 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "text": "More:",
+                    "text": "Links:",
                     "fontWeight": "bold",
-                    "fontSize": 12,
+                    "fontSize": 18,
                     "textColor": "ffff00",
                     "alignment": 0,
                     "class": "DepictionLabelView"
@@ -212,9 +210,9 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "text": "Links:",
+                    "text": "Social:",
                     "fontWeight": "bold",
-                    "fontSize": 12,
+                    "fontSize": 18,
                     "textColor": "ffff00",
                     "alignment": 0,
                     "class": "DepictionLabelView"
@@ -250,7 +248,7 @@
                 {
                     "text": "Reviews:",
                     "fontWeight": "bold",
-                    "fontSize": 12,
+                    "fontSize": 18,
                     "textColor": "ffff00",
                     "alignment": 0,
                     "class": "DepictionLabelView"
@@ -299,26 +297,42 @@
             "tintColor": "#ffff00",
             "views": [
                 {
+                    "text": "Example",
+                    "fontWeight": "regular",
+                    "fontSize": 12,
+                    "textColor": "ffff00",
+                    "alignment": 1,
+                    "class": "DepictionLabelView"
+                },
+                {
                     "screenshots": [
                         {
                             "accessibilityText": "Example",
-                            "url": "https://www.youtube.com/embed/x6WPqtXJXj8?rel=0",
+                            "url": "https://www.youtube.com/watch?v=x6WPqtXJXj8&t=30s",
                             "video": true
                         }
                     ],
                     "itemCornerRadius": 6,
-                    "itemSize": "{160, 284.44444444444}",
+                    "itemSize": "{284, 160}",
                     "class": "DepictionScreenshotsView"
                 },
                 {
                     "spacing": 8,
                     "class": "DepictionSpacerView"
+                },
+                {
+                    "text": "Sileo Support",
+                    "fontWeight": "regular",
+                    "fontSize": 12,
+                    "textColor": "ffff00",
+                    "alignment": 1,
+                    "class": "DepictionLabelView"
                 },
                 {
                     "screenshots": [
                         {
                             "accessibilityText": "Sileo Support",
-                            "url": "https://www.youtube.com/embed/3bHBrXbH03c",
+                            "url": "https://dirtybeans.github.io/depictions/csources2/Videos/Sileo_Demo.MP4",
                             "video": true
                         }
                     ],
@@ -331,26 +345,42 @@
                     "class": "DepictionSpacerView"
                 },
                 {
-                    "screenshots": [
-                        {
-                            "accessibilityText": "Zebra Support",
-                            "url": "https://www.youtube.com/embed/hr_HRLFfXDs",
-                            "video": true
-                        }
-                    ],
-                    "itemCornerRadius": 6,
-                    "itemSize": "{160, 284.44444444444}",
-                    "class": "DepictionScreenshotsView"
-                },
-                {
-                    "spacing": 8,
-                    "class": "DepictionSpacerView"
+                    "text": "Zebra Support",
+                    "fontWeight": "regular",
+                    "fontSize": 12,
+                    "textColor": "ffff00",
+                    "alignment": 1,
+                    "class": "DepictionLabelView"
                 },
                 {
                     "screenshots": [
                         {
                             "accessibilityText": "Zebra Support",
                             "url": "https://dirtybeans.github.io/depictions/csources2/Videos/Zebra_Demo.MP4",
+                            "video": true
+                        }
+                    ],
+                    "itemCornerRadius": 6,
+                    "itemSize": "{160, 284.44444444444}",
+                    "class": "DepictionScreenshotsView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "text": "Installer Hijack",
+                    "fontWeight": "regular",
+                    "fontSize": 12,
+                    "textColor": "ffff00",
+                    "alignment": 1,
+                    "class": "DepictionLabelView"
+                },
+                {
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Installer Hijack",
+                            "url": "https://dirtybeans.github.io/depictions/csources2/Videos/Installer.Hijack.MP4",
                             "video": true
                         }
                     ],
