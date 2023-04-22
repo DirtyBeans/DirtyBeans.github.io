@@ -222,21 +222,18 @@
                             "accessibilityText": "Example",
                             "url": "https://www.youtube.com/embed/x6WPqtXJXj8?rel=0",
                             "itemSize": "{213, 120}",
-                            "class": "DepictionVideoView",
                             "video": true
                         },
                         {
                             "accessibilityText": "Sileo Support",
                             "url": "https://www.youtube.com/embed/3bHBrXbH03c",
                             "itemSize": "{160, 284.44444444444}",
-                            "class": "DepictionVideoView",
                             "video": true
                         },
                         {
                             "accessibilityText": "Zebra Support",
                             "url": "https://www.youtube.com/embed/hr_HRLFfXDs",
                             "itemSize": "{160, 284.44444444444}",
-                            "class": "DepictionVideoView",
                             "video": true
                         }
                     ],
