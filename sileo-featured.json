@@ -1,16 +1,16 @@
 {
   "class": "FeaturedBannersView",
-  "itemSize": "{296, 148}",
+  "itemSize": "{263, 148}",
   "itemCornerRadius": 10,
   "banners": [
     {
-        "url": "https://DirtyBeans.github.io/assets/repo/Banners/CS2Header.png",
+        "url": "https://dirtybeans.github.io/assets/repo/Banners/CS2Header.png",
         "title": "CSources2",
         "package": "com.dirtybeans.csources2",
         "hideShadow": false
     },
     {
-        "url": "https://DirtyBeans.github.io/assets/repo/Banners/DBsRepoHeader_B.png",
+        "url": "https://dirtybeans.github.io/assets/repo/Banners/DBsRepoHeader_B.png",
         "title": "DBs",
         "package": "com.dirtybeans.github.io.dbsicons",
         "hideShadow": false
