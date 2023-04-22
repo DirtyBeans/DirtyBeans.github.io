@@ -5,8 +5,8 @@
 	<compatibility>
 		<firmware>
 			<miniOS>9.3.3</miniOS>
-            <maxiOS>16.3.1</maxiOS>
-            <otherVersions>unsupported</otherVersions>
+			<maxiOS>16.3.1</maxiOS>
+			<otherVersions>unsupported</otherVersions>
 		</firmware>
 	</compatibility>
 	<dependencies>
@@ -15,31 +15,31 @@
 	<shortDescription>CSources2.app</shortDescription>
 	<descriptionlist>
 		<description>CSources2 is a Repo / Sources Manager that allows full control over your sources.</description>
-        <description><![CDATA[
-            Compatibility:<br/>
-            All: iPhone/iPad models
-        ]]>
-        </description>
-        <description><![CDATA[
+    <description><![CDATA[
+      			Compatibility:<br/>
+        		All: iPhone/iPad models
+    ]]>
+		</description>
+    <description><![CDATA[
             Supports iOS:<br/>
             9.3.3 - 16.3.1
-        ]]>
-        </description>
-        <description><![CDATA[
+    ]]>
+    </description>
+    <description><![CDATA[
             Jailbreak Platform:<br/>
             Fugu15 Max, palera1n, Xina, Blizzard9, unc0ver, checkRa1n, Odyssey, Taurine, Chimera, Pangu, Phoenix, & more !
-        ]]>
-        </description>
-        <description><![CDATA[
+    ]]>
+    </description>
+    <description><![CDATA[
             Rootless, Rootful<br/>
             iphoneos-arm64 , iphoneos-arm
-        ]]>
-        </description>
-        <description><![CDATA[
+    ]]>
+    </description>
+    <description><![CDATA[
             Repo Manager Support<br/>
             Cydia, Installer, PostBox, Saily, Sileo, Zebra
-        ]]>
-        </description>
+    ]]>
+		</description>
 		<description><![CDATA[
             * Add as many sources as you want.<br/>
             * Manage sources for: Cydia, Installer, PostBox, Saily, Sileo, Zebra.<br/>
@@ -62,86 +62,86 @@
 		]]>
 		</description>
 	</descriptionlist>
-    <screenshots>
-        <screenshot>
-            <description>Normal View - iPhone</description>
-            <image>https://DirtyBeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_iphone_1.png</image>
-        </screenshot>
-        <screenshot>
-            <description>Enable / Disable Repo confirmation</description>
-            <image>https://DirtyBeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_iphone_2.png</image>
-        </screenshot>
-        <screenshot>
-            <description>Color Schemes, sample iPhone</description>
-            <image>https://DirtyBeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_iphone_3.png</image>
-        </screenshot>
-        <screenshot>
-            <description>Native Dark Mode</description>
-            <image>https://DirtyBeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_iphone_4.png</image>
-        </screenshot>
-        <screenshot>
-            <description>Packages</description>
-            <image>https://DirtyBeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_iphone_5.png</image>
-        </screenshot>
-        <screenshot>
-            <description>Web View Repo</description>
-            <image>https://DirtyBeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_iphone_6.pngpng</image>
-        </screenshot>
-        <screenshot>
-            <description>Normal View - iPad</description>
-            <image>https://DirtyBeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_ipad_1.png</image>
-        </screenshot>
-        <screenshot>
-            <description>Repo Details</description>
-            <image>https://DirtyBeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_ipad_2.png</image>
-        </screenshot>
-        <screenshot>
-            <description>Dark Mode Web View</description>
-            <image>https://DirtyBeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_ipad_3.png</image>
-        </screenshot>
-        <screenshot>
-            <description>Info Page</description>
-            <image>https://DirtyBeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_ipad_4.png</image>
-        </screenshot>
-        <screenshot>
-            <description>Color Schemes, sample iPad</description>
-            <image>https://DirtyBeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_ipad_5.png</image>
-        </screenshot>
-        <screenshot>
-            <description>Dark Mode - Packages</description>
-            <image>https://DirtyBeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_ipad_6.png</image>
-        </screenshot>
-    </screenshots>
+  <screenshots>
+		<screenshot>
+      <description>Normal View - iPhone</description>
+    	<image>https://DirtyBeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_iphone_1.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Enable / Disable Repo confirmation</description>
+    	<image>https://DirtyBeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_iphone_2.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Color Schemes, sample iPhone</description>
+    	<image>https://DirtyBeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_iphone_3.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Native Dark Mode</description>
+    	<image>https://DirtyBeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_iphone_4.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Packages</description>
+    	<image>https://DirtyBeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_iphone_5.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Web View Repo</description>
+    	<image>https://DirtyBeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_iphone_6.pngpng</image>
+    </screenshot>
+    <screenshot>
+      <description>Normal View - iPad</description>
+    	<image>https://DirtyBeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_ipad_1.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Repo Details</description>
+    	<image>https://DirtyBeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_ipad_2.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Dark Mode Web View</description>
+    	<image>https://DirtyBeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_ipad_3.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Info Page</description>
+    	<image>https://DirtyBeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_ipad_4.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Color Schemes, sample iPad</description>
+    	<image>https://DirtyBeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_ipad_5.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Dark Mode - Packages</description>
+    	<image>https://DirtyBeans.github.io/depictions/web/com.dirtybeans.csources2/screenshots/ScreenShot_ipad_6.png</image>
+  	</screenshot>
+  </screenshots>
 	<changelog>
 		<change>Added Fugu15 Jailbreak Detection.</change>
 		<change>Added Rootless &amp; Rootful Support.</change>
 		<change>Squashed some 🐞🐜🐛🕷🦟 ‘s.</change>
 	</changelog>
 	<links>
-        <link>
-            <name>Full Change Log</name>
-            <url>http://csources2.wordpress.com/update-history/</url>
-            <iconclass>src="../../thumbs/changelog.png"</iconclass>
-        </link>
-        <link>
-            <name>Contact Developer</name>
-            <url>mailto:DirtyBeans@ca.rr.com?subject=DirtyBeans.github.io%20-%20CSources2</url>
-            <iconclass>src="../../images/Icons/Mail120.png"</iconclass>
-        </link>
-        <link>
-            <name>Developer's Official Page</name>
-            <url>https://dirtybeans.github.io/index.html</url>
-            <iconclass>src="../../images/Icons/DBs512.png"</iconclass>
-        </link>
+    <link>
+      <name>Full Change Log</name>
+      <url>http://csources2.wordpress.com/update-history/</url>
+    	<iconclass>src="../../thumbs/changelog.png"</iconclass>
+    </link>
+    <link>
+      <name>Contact Developer</name>
+     	<url>mailto:DirtyBeans@ca.rr.com?subject=DirtyBeans.github.io%20-%20CSources2</url>
+    	<iconclass>src="../../images/Icons/Mail120.png"</iconclass>
+    </link>
+    <link>
+      <name>Developer's Official Page</name>
+      <url>https://dirtybeans.github.io/index.html</url>
+    	<iconclass>src="../../images/Icons/DBs512.png"</iconclass>
+    </link>
 		<link>
 			<name>/r/CSources2</name>
 			<url>https://www.reddit.com/r/CSources2</url>
 			<iconclass>fa fa-reddit</iconclass>
 		</link>
-        <link>
-            <name>Donate</name>
-            <url>https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=E37V2DWUFRRJW&amp;lc=US&amp;item_name=DirtyBeans%2ecom&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted</url>
-            <iconclass>src="../../images/Icons/Paypal512_1.png"</iconclass>
-        </link>
+    <link>
+      <name>Donate</name>
+      <url>https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=E37V2DWUFRRJW&amp;lc=US&amp;item_name=DirtyBeans%2ecom&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted</url>
+    	<iconclass>src="../../images/Icons/Paypal512_1.png"</iconclass>
+  	</link>
 	</links>
 </package>
