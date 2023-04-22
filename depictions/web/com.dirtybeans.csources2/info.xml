@@ -18,47 +18,37 @@
         <description><![CDATA[
             Compatibility:<br/>
             All: iPhone/iPad models
-        ]]>
-        </description>
-        <description><![CDATA[
+            <br/>
             Supports iOS:<br/>
             9.3.3 - 16.3.1
-        ]]>
-        </description>
-        <description><![CDATA[
+            <br/>
             Jailbreak Platform:<br/>
             Fugu15 Max, palera1n, Xina, Blizzard9, unc0ver, checkRa1n, Odyssey, Taurine, Chimera, Pangu, Phoenix, & more !
-        ]]>
-        </description>
-        <description><![CDATA[
+            <br/>
             Rootless, Rootful<br/>
             iphoneos-arm64 , iphoneos-arm
-        ]]>
-        </description>
-        <description><![CDATA[
+            <br/>
             Repo Manager Support<br/>
             Cydia, Installer, PostBox, Saily, Sileo, Zebra
-        ]]>
-        </description>
-        <description><![CDATA[
-            * Add as many sources as you want.<br/>
-            * Manage sources for: Cydia, Installer, PostBox, Saily, Sileo, Zebra.<br/>
-            * Disable/Enable or delete them.<br/>
-            * Add notes.<br/>
-            * Check if Source is active.<br/>
-            * Package details.<br/>
-            * Import cydia.list, zebra sources.list, ????.list file , Web Link.<br/>
-            * Import Sileo.sources, ????.sources file , Web Link.<br/>
-            * Add repo via Share Extension.<br/>
-            * Backup Sources via iTunes , iCloud , Manually.<br/>
-            * Sync between devices. (Device<->Device), (iCloud v933.1430-0) & up<br/>
-            * View / Export Installed Packages. (v933.1451-0) & up<br/>
-            * Restore Previously installed Packages. (v933.1451-0) & up<br/>
-            * Auto List, Tweak Cydia features, & More !<br/>
-            * Full Docs : CSources2 Blog<br/>
-            * Please review all notes and documentation before contacting the developer.<br/>
-            * Contact Dev via: In App ( CSources2 / Info Page / Contact )<br/>
-            * Contact Dev via: Link below / scroll down..
+            <br/>
+            <li>* Add as many sources as you want.<li/><br/>
+            <li>* Manage sources for: Cydia, Installer, PostBox, Saily, Sileo, Zebra.<li/><br/>
+            <li>* Disable/Enable or delete them.<li/><br/>
+            <li>* Add notes.<br/>
+            <li>* Check if Source is active.<li/><br/>
+            <li>* Package details.<li/><br/>
+            <li>* Import cydia.list, zebra sources.list, ????.list file , Web Link.<li/><br/>
+            <li>* Import Sileo.sources, ????.sources file , Web Link.<li/><br/>
+            <li>* Add repo via Share Extension.<li/><br/>
+            <li>* Backup Sources via iTunes , iCloud , Manually.<li/><br/>
+            <li>* Sync between devices. (Device<->Device), (iCloud v933.1430-0) & up<li/><br/>
+            <li>* View / Export Installed Packages. (v933.1451-0) & up<li/><br/>
+            <li>* Restore Previously installed Packages. (v933.1451-0) & up<li/><br/>
+            <li>* Auto List, Tweak Cydia features, & More !<li/><br/>
+            <li>* Full Docs : CSources2 Blog<li/><br/>
+            <li>* Please review all notes and documentation before contacting the developer.<li/><br/>
+            <li>* Contact Dev via: In App ( CSources2 / Info Page / Contact )<li/><br/>
+            <li>* Contact Dev via: Link below / scroll down..<li/>
         ]]>
         </description>
     </descriptionlist>
