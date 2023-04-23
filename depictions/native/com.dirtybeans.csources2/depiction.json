@@ -2,13 +2,14 @@
     "minVersion": "0.1",
     "headerImage": "https://dirtybeans.github.io/assets/repo/Banners/CS2Header.png",
     "class": "DepictionTabView",
-    "tintColor": "#004fff",
+    "tintColor": "#ffff00",
     "backgroundColor": "#004fff",
     "tabs": [
         {
             "tabname": "Details",
             "class": "DepictionStackView",
             "tintColor": "#ffff00",
+            "backgroundColor": "#004fff",
             "views": [
                 {
                     "useSpacing": true,
