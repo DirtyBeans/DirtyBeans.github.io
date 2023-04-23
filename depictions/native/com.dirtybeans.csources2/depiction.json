@@ -2,16 +2,13 @@
     "minVersion": "0.1",
     "headerImage": "https://dirtybeans.github.io/assets/repo/Banners/CS2Header.png",
     "class": "DepictionTabView",
-    "tintColor": "#ffff00",
     "tabs": [
         {
             "tabname": "Details",
             "class": "DepictionStackView",
-            "tintColor": "#ffff00",
             "views": [
                 {
                     "useSpacing": true,
-                    "tintColor": "#ffff00",
                     "class": "DepictionMarkdownView",
                     "markdown": "Repo / Sources Manager that allows full control over your sources."
                 },
@@ -287,7 +284,6 @@
         {
             "tabname": "Video's",
             "class": "DepictionStackView",
-            "tintColor": "#ffff00",
             "views": [
                 {
                     "text": "iDB Review",
@@ -399,7 +395,6 @@
         {
             "tabname": "Changelog",
             "class": "DepictionStackView",
-            "tintColor": "#ffff00",
             "views": [
                 {
                     "title": "933.1631-2",
