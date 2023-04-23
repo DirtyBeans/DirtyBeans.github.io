@@ -496,6 +496,9 @@
                     "class": "DepictionMarkdownView"
                 },
                 {
+                    "class": "DepictionSeparatorView"
+                },
+                {
                     "title": "* 600.812-3",
                     "useBoldText": true,
                     "useBottomMargin": true,
@@ -512,9 +515,6 @@
                     "markdown": "<small style=\"color: #999; margin-top: -8px;\">Initial Release : 2015.03.25</small>",
                     "useRawFormat": true,
                     "class": "DepictionMarkdownView"
-                },
-                {
-                    "class": "DepictionSeparatorView"
                 },
                 {
                     "title": "Full Change log",
