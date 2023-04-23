@@ -318,8 +318,7 @@
                     "class": "DepictionScreenshotsView"
                 },
                 {
-                    "spacing": 8,
-                    "class": "DepictionSpacerView"
+                    "class": "DepictionSeparatorView"
                 },
                 {
                     "text": "Sileo Support",
@@ -342,8 +341,7 @@
                     "class": "DepictionScreenshotsView"
                 },
                 {
-                    "spacing": 8,
-                    "class": "DepictionSpacerView"
+                    "class": "DepictionSeparatorView"
                 },
                 {
                     "text": "Zebra Support",
@@ -366,8 +364,7 @@
                     "class": "DepictionScreenshotsView"
                 },
                 {
-                    "spacing": 8,
-                    "class": "DepictionSpacerView"
+                    "class": "DepictionSeparatorView"
                 },
                 {
                     "text": "Installer Hijack",
@@ -388,6 +385,27 @@
                     "itemCornerRadius": 6,
                     "itemSize": "{160, 284.44444444444}",
                     "class": "DepictionScreenshotsView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "text": "Additional Videos:",
+                    "fontWeight": "bold",
+                    "fontSize": 18,
+                    "textColor": "ffff00",
+                    "alignment": 0,
+                    "class": "DepictionLabelView"
+                },
+                {
+                    "title": "Restore via Install Packages",
+                    "action": "https://youtu.be/Oq8_2HDVpUI",
+                    "class": "DepictionTableButtonView"
+                },
+                {
+                    "title": "CS2 Toy",
+                    "action": "https://www.youtube.com/watch?v=xp2WCtnOsVk",
+                    "class": "DepictionTableButtonView"
                 }
             ]
         },
