@@ -1,6 +1,7 @@
 {
     "minVersion": "0.1",
     "headerImage": "https://dirtybeans.github.io/assets/repo/Banners/CS2Header.png",
+    "tintColor": "#004fff",
     "class": "DepictionTabView",
     "tabs": [
         {
@@ -9,8 +10,8 @@
             "views": [
                 {
                     "useSpacing": true,
-                    "class": "DepictionMarkdownView",
-                    "markdown": "Repo / Sources Manager that allows full control over your sources."
+                    "markdown": "Repo / Sources Manager that allows full control over your sources.",
+                    "class": "DepictionMarkdownView"
                 },
                 {
                     "screenshots": [
@@ -91,8 +92,8 @@
                 },
                 {
                     "markdown": "<center>Cydia, Installer, PostBox, Saily, Sileo, Zebra</center>",
-                    "class": "DepictionMarkdownView",
-                    "useRawFormat": true
+                    "useRawFormat": true,
+                    "class": "DepictionMarkdownView"
                 },
                 {
                     "text": "Supported Jailbreaks:",
@@ -103,8 +104,8 @@
                 },
                 {
                     "markdown": "<center>Fugu15 Max, palera1n, Xina, Blizzard9, unc0ver, checkRa1n, Odyssey, Taurine, Chimera, Pangu, Phoenix, &amp; more !</center>",
-                    "class": "DepictionMarkdownView",
-                    "useRawFormat": true
+                    "useRawFormat": true,
+                    "class": "DepictionMarkdownView"
                 },
                 {
                     "text": "Features:",
@@ -115,8 +116,8 @@
                 },
                 {
                     "markdown": "<ul><li>Add as many sources as you want.</li><li>Disable/Enable or delete them.</li><li>Add notes.</li><li>Check if Source is active.</li><li>Package details.</li><li>Import cydia.list, zebra sources.list, ????.list file , Web Link.</li><li>Import sources.</li><li>Add repo.</li><li>Backup Sources via iTunes , iCloud , Manually.</li><li>Sync between devices.<ul><li>(iCloud v933.1430-0) &amp; up.</li></ul><li>View / Export Installed Packages.<ul><li>(v933.1451-0) &amp; up.</li></ul><li>Restore Previously installed Packages.<ul><li>(v933.1451-0) &amp; up.</li></ul><li>Auto List, Tweak Cydia features, &amp; More !</li><li>Full Docs : CSources2 Blog</li><li>Please review all notes and documentation before contacting the developer.</li><li>Contact Dev via: In App ( CSources2 / Info Page / Contact )</li><li>Contact Dev via: Below Contact Link</li></ul>",
-                    "class": "DepictionMarkdownView",
-                    "useRawFormat": true
+                    "useRawFormat": true,
+                    "class": "DepictionMarkdownView"
                 },
                 {
                     "class": "DepictionSeparatorView"
