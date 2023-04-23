@@ -2,7 +2,7 @@
     "minVersion": "0.1",
     "headerImage": "https://dirtybeans.github.io/assets/repo/Banners/CS2Header.png",
     "class": "DepictionTabView",
-    "tintColor": "#0657bb",
+    "tintColor": "#004fff",
     "backgroundColor": "#004fff",
     "tabs": [
         {
@@ -95,7 +95,7 @@
                     "class": "DepictionLabelView"
                 },
                 {
-                    "markdown": "<small style=\"color: #ff0; margin-top: -8px;\"><center>Cydia, Installer, PostBox, Saily, Sileo, Zebra</center></small>",
+                    "markdown": "<small style=\"color: #ff0; margin-top: -10px;\"><center>Cydia, Installer, PostBox, Saily, Sileo, Zebra</center></small>",
                     "class": "DepictionMarkdownView",
                     "useRawFormat": true
                 },
@@ -108,7 +108,7 @@
                     "class": "DepictionLabelView"
                 },
                 {
-                    "markdown": "<small style=\"color: #ff0; margin-top: -8px;\"><center>Fugu15 Max, palera1n, Xina, Blizzard9, unc0ver, checkRa1n, Odyssey, Taurine, Chimera, Pangu, Phoenix, &amp; more !</center></small>",
+                    "markdown": "<small style=\"color: #ff0; margin-top: -10px;\"><center>Fugu15 Max, palera1n, Xina, Blizzard9, unc0ver, checkRa1n, Odyssey, Taurine, Chimera, Pangu, Phoenix, &amp; more !</center></small>",
                     "class": "DepictionMarkdownView",
                     "useRawFormat": true
                 },
@@ -121,7 +121,7 @@
                     "class": "DepictionLabelView"
                 },
                 {
-                    "markdown": "<ul><small style=\"color: #ff0; margin-top: -8px;\"><li>Add as many sources as you want.</li><li>Disable/Enable or delete them.</li><li>Add notes.</li><li>Check if Source is active.</li><li>Package details.</li><li>Import cydia.list, zebra sources.list, ????.list file , Web Link.</li><li>Import sources.</li><li>Add repo.</li><li>Backup Sources via iTunes , iCloud , Manually.</li><li>Sync between devices.<ul><li>(iCloud v933.1430-0) &amp; up.</li></ul><li>View / Export Installed Packages.<ul><li>(v933.1451-0) &amp; up.</li></ul><li>Restore Previously installed Packages.<ul><li>(v933.1451-0) &amp; up.</li></ul><li>Auto List, Tweak Cydia features, &amp; More !</li><li>Full Docs : CSources2 Blog</li><li>Please review all notes and documentation before contacting the developer.</li><li>Contact Dev via: In App ( CSources2 / Info Page / Contact )</li><li>Contact Dev via: Below Contact Link</li></small></ul>",
+                    "markdown": "<ul><small style=\"color: #ff0; margin-top: -10px;\"><li>Add as many sources as you want.</li><li>Disable/Enable or delete them.</li><li>Add notes.</li><li>Check if Source is active.</li><li>Package details.</li><li>Import cydia.list, zebra sources.list, ????.list file , Web Link.</li><li>Import sources.</li><li>Add repo.</li><li>Backup Sources via iTunes , iCloud , Manually.</li><li>Sync between devices.<ul><li>(iCloud v933.1430-0) &amp; up.</li></ul><li>View / Export Installed Packages.<ul><li>(v933.1451-0) &amp; up.</li></ul><li>Restore Previously installed Packages.<ul><li>(v933.1451-0) &amp; up.</li></ul><li>Auto List, Tweak Cydia features, &amp; More !</li><li>Full Docs : CSources2 Blog</li><li>Please review all notes and documentation before contacting the developer.</li><li>Contact Dev via: In App ( CSources2 / Info Page / Contact )</li><li>Contact Dev via: Below Contact Link</li></small></ul>",
                     "class": "DepictionMarkdownView",
                     "useRawFormat": true
                 },
@@ -162,7 +162,7 @@
                     "class": "DepictionTableTextView"
                 },
                 {
-                    "title": "Jailbreak Platform",
+                    "title": "Jailbreak Arch",
                     "text": "Rootless, Rootful",
                     "class": "DepictionTableTextView"
                 },
@@ -256,7 +256,7 @@
                 },
                 {
                     "title": "Reddit Review",
-                    "author": "by : Mischief",
+                    "author": ": Mischief",
                     "markdown": "11/27/2021 v933.1500-0 : BEST DAMN sources or repo saver restorer enabler disabler and on and on and on !!!!",
                     "rating": 5,
                     "tintColor": "#6264d3",
@@ -264,7 +264,7 @@
                 },
                 {
                     "title": "Tweakio Review",
-                    "author": "by : SpezialK",
+                    "author": ": SpezialK",
                     "markdown": "01/22/2021 v933.1421-0.6 : Work's on my iPhone11,iOS 13.5, Unc0ver 3.5.1",
                     "rating": 5,
                     "tintColor": "#6264d3",
@@ -272,7 +272,7 @@
                 },
                 {
                     "title": "Twitter Review",
-                    "author": "by : AlaysiaCydia",
+                    "author": ": AlaysiaCydia",
                     "markdown": "11/24/2019 v600.1302-1 : 💕Just Wonderfull💕. CSources2 does exactly what I need.",
                     "rating": 5,
                     "tintColor": "#6264d3",
@@ -280,7 +280,7 @@
                 },
                 {
                     "title": "Tweakio Review",
-                    "author": "by : Haeckli",
+                    "author": ": Haeckli",
                     "markdown": "3/4/2019 v600.1121-1 : Fully working except Backup/Restore",
                     "rating": 4,
                     "tintColor": "#6264d3",
@@ -298,7 +298,7 @@
             "tintColor": "#ffff00",
             "views": [
                 {
-                    "text": "Example",
+                    "text": "iDB Review",
                     "fontWeight": "regular",
                     "fontSize": 12,
                     "textColor": "ffff00",
@@ -493,6 +493,32 @@
                     "markdown": "<small style=\"color: #999; margin-top: -8px;\">Released : 2021.08.11</small>",
                     "useRawFormat": true,
                     "class": "DepictionMarkdownView"
+                },
+                {
+                    "title": "* 600.812-3",
+                    "useBoldText": true,
+                    "useBottomMargin": true,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "<small style=\"color: #ff0; margin-top: -10px;\"><ul><li>Re-written from scratch. New look, New everything. Replaces com.bigboss.csources</li></ul></small>",
+                    "useSpacing": false,
+                    "useRawFormat": true,
+                    "tintColor": "#48f96c",
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "markdown": "<small style=\"color: #999; margin-top: -8px;\">Initial Release : 2015.03.25</small>",
+                    "useRawFormat": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "title": "Full Change log",
+                    "action": "https://csources2.wordpress.com/update-history/",
+                    "class": "DepictionTableButtonView"
                 }
             ]
         }
