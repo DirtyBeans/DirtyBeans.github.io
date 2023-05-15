@@ -1,0 +1,177 @@
+{
+    "minVersion": "0.1",
+    "headerImage": "https://dirtybeans.github.io/assets/repo/Banners/CS2UserIconsHeader.png",
+    "tintColor": "#004fff",
+    "class": "DepictionTabView",
+    "tabs": [
+        {
+            "tabname": "Details",
+            "class": "DepictionStackView",
+            "views": [
+                {
+                    "useSpacing": true,
+                    "markdown": "Extra icons for those missing in your repos.",
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "screenshots": [
+                        {
+                            "accessibilityText": "iPhone",
+                            "url": "https://dirtybeans.github.io/depictions/web/com.dirtybeans.csources2-usericons/screenshots/UserIcons_iPhone.PNG",
+                            "fullSizeURL": "https://dirtybeans.github.io/depictions/web/com.dirtybeans.csources2-usericons/screenshots/UserIcons_iPhone.PNG"
+                        },
+                        {
+                            "accessibilityText": "iPad",
+                            "url": "https://dirtybeans.github.io/depictions/web/com.dirtybeans.csources2-usericons/screenshots/UserIcons_iPad.PNG",
+                            "fullSizeURL": "https://dirtybeans.github.io/depictions/web/com.dirtybeans.csources2-usericons/screenshots/UserIcons_iPad.PNG"
+                        }
+                    ],
+                    "itemSize": "{160, 284.44444444444}",
+                    "itemCornerRadius": 6,
+                    "class": "DepictionScreenshotsView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "text": "Information:",
+                    "fontWeight": "bold",
+                    "fontSize": 18,
+                    "alignment": 0,
+                    "class": "DepictionLabelView"
+                },
+                {
+                    "title": "Version",
+                    "text": "1.0",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Supports CSources2",
+                    "text": "9.3.3 - 16.4.1",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Released",
+                    "text": "05-15-2023",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Initial Release",
+                    "text": "05-15-2015",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Compatibility",
+                    "text": "iPhone, iPad",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Jailbreak Arch",
+                    "text": "Rootless, Rootful",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Price",
+                    "text": "Free",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Developer",
+                    "text": "DirtyBeans",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "text": "Links:",
+                    "fontWeight": "bold",
+                    "fontSize": 18,
+                    "alignment": 0,
+                    "class": "DepictionLabelView"
+                },
+                {
+                    "title": "Contact",
+                    "action": "mailto:DirtyBeans@ca.rr.com?subject=DirtyBeans.github.io%20-%20CSources2",
+                    "class": "DepictionTableButtonView"
+                },
+                {
+                    "title": "Support",
+                    "action": "https://csources2.wordpress.com",
+                    "class": "DepictionTableButtonView"
+                },
+                {
+                    "title": "Website",
+                    "action": "https://dirtybeans.github.io/index.html",
+                    "class": "DepictionTableButtonView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "text": "Social:",
+                    "fontWeight": "bold",
+                    "fontSize": 18,
+                    "alignment": 0,
+                    "class": "DepictionLabelView"
+                },
+                {
+                    "title": "Discord",
+                    "action": "https://discord.gg/qZ4ATzFM6T",
+                    "class": "DepictionTableButtonView"
+                },
+                {
+                    "title": "Reddit",
+                    "action": "https://www.reddit.com/r/CSources2/",
+                    "class": "DepictionTableButtonView"
+                },
+                {
+                    "title": "Twitter",
+                    "action": "https://twitter.com/DirtyBeansDBs",
+                    "class": "DepictionTableButtonView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "text": "Donate",
+                    "action": "https://www.paypal.com/donate/?hosted_button_id=EV2EXCXXFAKFG",
+                    "openExternal": true,
+                    "tintColor": "#6264d3",
+                    "class": "DepictionButtonView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                }
+            ]
+        },
+        {
+            "tabname": "Changelog",
+            "class": "DepictionStackView",
+            "views": [
+                {
+                    "title": "1.0",
+                    "useBoldText": true,
+                    "useBottomMargin": true,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "<ul><li>Initial Release.</li></ul>",
+                    "useSpacing": false,
+                    "useRawFormat": true,
+                    "tintColor": "#48f96c",
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2023.04.17</small>",
+                    "useRawFormat": true,
+                    "class": "DepictionMarkdownView"
+                }
+            ]
+        }
+    ]
+}

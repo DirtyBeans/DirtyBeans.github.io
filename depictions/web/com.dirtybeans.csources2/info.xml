@@ -1,17 +1,14 @@
 <package>
     <id>com.dirtybeans.csources2</id>
     <name>CSources2</name>
-    <version>933.1631-2</version>
+    <version>933.1641-0</version>
     <compatibility>
         <firmware>
             <miniOS>9.3.3</miniOS>
-            <maxiOS>16.3.1</maxiOS>
+            <maxiOS>16.4.1</maxiOS>
             <otherVersions>unsupported</otherVersions>
         </firmware>
     </compatibility>
-    <dependencies>
-        <package>ldid</package>
-    </dependencies>
     <shortDescription>CSources2.app</shortDescription>
     <descriptionlist>
         <description>CSources2 is a Repo / Sources Manager that allows full control over your sources.</description>
@@ -22,12 +19,12 @@
         </description>
         <description><![CDATA[
             Supports iOS:<br/>
-            9.3.3 - 16.3.1
+            9.3.3 - 16.4.1
         ]]>
         </description>
         <description><![CDATA[
             Jailbreak Platform:<br/>
-            Fugu15 Max, palera1n, Xina, Blizzard9, unc0ver, checkRa1n, Odyssey, Taurine, Chimera, Pangu, Phoenix, & more !
+            Dopamine, Fugu15 Max, palera1n, Xina, Blizzard9, unc0ver, checkRa1n, Odyssey, Taurine, Chimera, Pangu, Phoenix, & more !
         ]]>
         </description>
         <description><![CDATA[
@@ -113,9 +110,12 @@
         </screenshot>
     </screenshots>
     <changelog>
-        <change>v933.1631-2</change>
-        <change>Added Fugu15 Jailbreak Detection.</change>
-        <change>Added Rootless &amp; Rootful Support.</change>
+        <change>v933.1641-0</change>
+        <change>Added Dopamine Jailbreak Detection.</change>
+        <change>Converted Cydia Tweaks to Manager Tweaks.</change>
+        <change>Added Quick Bar.</change>
+        <change>Repo Details now show alive info.</change>
+        <change>Settings to change Notification bubble size.</change>
         <change>Squashed some 🐞🐜🐛🕷🦟 ‘s.</change>
     </changelog>
     <links>

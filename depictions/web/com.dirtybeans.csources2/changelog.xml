@@ -1,5 +1,15 @@
 <changelog>
     <changes>
+        <version>933.1641-0</version>
+        <change>Added Dopamine Jailbreak Detection.</change>
+        <change>Converted Cydia Tweaks to Manager Tweaks.</change>
+        <change>Added Quick Bar.</change>
+        <change>Repo Details now show alive info.</change>
+        <change>Settings to change Notification bubble size.</change>
+        <change>Squashed some 🐞🐜🐛🕷🦟 ‘s.</change>
+        <change>release : 2023.05.15</change>
+    </changes>
+    <changes>
         <version>933.1631-2</version>
         <change>Added Fugu15 Jailbreak Detection.</change>
         <change>Added Rootless &amp; Rootful Support.</change>

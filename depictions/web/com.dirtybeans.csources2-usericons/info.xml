@@ -1,0 +1,81 @@
+<package>
+    <id>com.dirtybeans.csources2-usericons</id>
+    <name>CSources2-UserIcons</name>
+    <version>1.0</version>
+    <compatibility>
+        <firmware>
+            <miniOS>9.3.3</miniOS>
+            <maxiOS>17.0.0</maxiOS>
+            <otherVersions>unsupported</otherVersions>
+        </firmware>
+    </compatibility>
+    <dependencies>
+        <package>com.dirtybeans.csources2</package>
+    </dependencies>
+    <shortDescription>CSources2 User Icons</shortDescription>
+    <descriptionlist>
+        <description>Extra icons for those missing in your repos..</description>
+        <description><![CDATA[
+            Compatibility:<br/>
+            All: iPhone/iPad models
+        ]]>
+        </description>
+        <description><![CDATA[
+            Supports iOS:<br/>
+            9.3.3 - 16.4.1
+        ]]>
+        </description>
+    </descriptionlist>
+    <screenshots>
+        <screenshot>
+            <description>iPhone</description>
+            <image>UserIcons_iPhone.PNG</image>
+        </screenshot>
+        <screenshot>
+            <description>iPad</description>
+            <image>UserIcons_iPad.PNG</image>
+        </screenshot>
+    </screenshots>
+    <changelog>
+        <change>v1.0</change>
+        <change>Initial Release.</change>
+        <change>release : 2023.05.15</change>
+    </changelog>
+    <links>
+        <link>
+            <name>Contact Developer</name>
+            <url>mailto:DirtyBeans@ca.rr.com?subject=DirtyBeans.github.io%20-%20CSources2</url>
+            <iconclass>fa fa-envelope</iconclass>
+        </link>
+        <link>
+            <name>Support</name>
+            <url>https://csources2.wordpress.com</url>
+            <iconclass>fa fa-medkit</iconclass>
+        </link>
+        <link>
+            <name>Website</name>
+            <url>https://dirtybeans.github.io/index.html</url>
+            <iconclass>fa fa-globe</iconclass>
+        </link>
+        <link>
+            <name>Discord</name>
+            <url>https://discord.gg/qZ4ATzFM6T</url>
+            <iconclass>fa fa-discord</iconclass>
+        </link>
+        <link>
+            <name>/r/CSources2</name>
+            <url>https://www.reddit.com/r/CSources2</url>
+            <iconclass>fa fa-reddit</iconclass>
+        </link>
+        <link>
+            <name>twitter</name>
+            <url>https://twitter.com/DirtyBeansDBs</url>
+            <iconclass>fa fa-twitter</iconclass>
+        </link>
+        <link>
+            <name>Donate</name>
+            <url>https://www.paypal.com/donate/?hosted_button_id=EV2EXCXXFAKFG</url>
+            <iconclass>fa fa-paypal"</iconclass>
+        </link>
+    </links>
+</package>

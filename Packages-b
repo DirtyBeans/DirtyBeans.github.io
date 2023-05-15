@@ -1,3 +1,59 @@
+Package: com.dirtybeans.csources2-usericons
+Architecture: iphoneos-arm
+Version: 1.0
+Priority: optional
+Section: DirtyBeans.Utilities
+Maintainer: DirtyBeans <DirtyBeans@ca.rr.com>
+Installed-Size: 339
+Pre-Depends: com.dirtybeans.csources2
+Depends: com.dirtybeans.csources2
+Recommends: com.dirtybeans.icon
+Suggests: com.dirtybeans.icon
+Filename: ./debs/com.dirtybeans.csources2-usericons_1.0_iphoneos-arm.deb
+Size: 302912
+MD5sum: 765390e70c7417172f362404e5063042
+SHA1: 9ebb0cb5d03521092fe3fbe1d561e7b548dc9a30
+SHA256: 9841000d3e8b2fe281ee855ad0d4391dfb939484d3fc004c76163f6fc7904eee
+SHA512: a2b8720aecbd51971eeac80e428961007e55f8017ea1a18fc5d6fda2f14b70b57f5e03f63df20cf9643094b7ba3a0d9aeccf07290f706c59b6702005943d835f
+Homepage: https://DirtyBeans.github.io/
+Description: Custom icons for CSources2.app
+Name: CSources2-UserIcons
+Author: DirtyBeans@ <DirtyBeans@ca.rr.com>
+Depiction: https://DirtyBeans.github.io/depictions/web/?p=[com.dirtybeans.csources2-usericons]
+SileoDepiction: https://DirtyBeans.github.io/depictions/native/com.dirtybeans.csources2-usericons/depiction.json
+Support: https://csources2.wordpress.com/update-history/
+Sponsor: Dirty Beans
+dev: dirtybeans
+Icon: https://dirtybeans.github.io/depictions/csources2/images/CSources2.png
+
+Package: com.dirtybeans.csources2-usericons
+Architecture: iphoneos-arm64
+Version: 1.0
+Priority: optional
+Section: DirtyBeans.Utilities
+Maintainer: DirtyBeans <DirtyBeans@ca.rr.com>
+Installed-Size: 339
+Pre-Depends: com.dirtybeans.csources2
+Depends: com.dirtybeans.csources2
+Recommends: com.dirtybeans.icon
+Suggests: com.dirtybeans.icon
+Filename: ./debs/com.dirtybeans.csources2-usericons_1.0_iphoneos-arm64.deb
+Size: 302900
+MD5sum: 44a5da56b250b26163e5721fc7262d7f
+SHA1: 9eeb149ffe6d657cc957a5cc1fa408f679034fb6
+SHA256: e99abb2226cfa87c55d20ce89f8f0c6ca72e021103f943a54153a22057bcbfbb
+SHA512: 4014a01fd851472a9a73fefd6e08482cc9d773e4987ee810cd9e0afb99dcadf3df7f0c6d833e9ea640bb4f753068ebc0306f7fc766fe72873d79dfcbfb9e2477
+Homepage: https://DirtyBeans.github.io/
+Description: Custom icons for CSources2.app
+Name: CSources2-UserIcons
+Author: DirtyBeans@ <DirtyBeans@ca.rr.com>
+Depiction: https://DirtyBeans.github.io/depictions/web/?p=[com.dirtybeans.csources2-usericons]
+SileoDepiction: https://DirtyBeans.github.io/depictions/native/com.dirtybeans.csources2-usericons/depiction.json
+Support: https://csources2.wordpress.com/update-history/
+Sponsor: Dirty Beans
+dev: dirtybeans
+Icon: https://dirtybeans.github.io/depictions/csources2/images/CSources2.png
+
 Package: com.dirtybeans.csources2.cs-midnight
 Architecture: iphoneos-arm
 Version: 1.4
@@ -906,6 +962,66 @@ MD5sum: a02a5ad669a2524268e3f2888f877cfa
 SHA1: 834b484b308ffc3e6c4efa41642e561afb776d24
 SHA256: 9530607cb30baa268e0f02d0b53b585d2635be4e0a26a8e0c7a017fe6874eaf2
 SHA512: e09c6d326f7520ca4fda3a2aedaec6a890620d989af46b857a1fc81400069db4554ca6054185d2c05c25783fe3dc43302fd70278f3decaa49f0bd54ad449e864
+Homepage: https://DirtyBeans.github.io/
+Description: CSources2.app
+Tag: purpose::uikit, compatible_min::ios9, compatible_max::ios16
+Name: CSources2
+Author: DirtyBeans@ <DirtyBeans@ca.rr.com>
+Depiction: https://DirtyBeans.github.io/depictions/web/?p=[com.dirtybeans.csources2]
+SileoDepiction: https://DirtyBeans.github.io/depictions/native/com.dirtybeans.csources2/depiction.json
+Support: https://csources2.wordpress.com/update-history/
+Sponsor: Dirty Beans
+dev: dirtybeans
+Icon: https://dirtybeans.github.io/depictions/csources2/images/CSources2.png
+
+Package: com.dirtybeans.csources2
+Architecture: iphoneos-arm
+Version: 933.1641-0
+Priority: extra
+Section: DirtyBeans.Utilities
+Maintainer: DirtyBeans <DirtyBeans@ca.rr.com>
+Installed-Size: 18722
+Pre-Depends: firmware (>= 9.3.3), firmware (<= 16.4.1)
+Recommends: com.dirtybeans.icon
+Suggests: com.dirtybeans.icon
+Conflicts: org.thebigboss.csources
+Replaces: org.thebigboss.csources
+Filename: ./debs/com.dirtybeans.csources2_933.1641-0_iphoneos-arm.deb
+Size: 19198348
+MD5sum: 56f0c9db258784eb159654c6fc0c9fb6
+SHA1: 6bfaa6107df241e19a0ce2ab87a1f28094a29166
+SHA256: 86c9066e16070804e661df6d430884c4454ea9ebbb7e0cf3ef1564a20404ccfb
+SHA512: 2e34c03da2ee4a553facde6a08521febcbcb89dc945421758ee74e3e0b825d9248534adde24ec4429711b4043c8e8408e935251fa7dd9b0c1a7599d082774861
+Homepage: https://DirtyBeans.github.io/
+Description: CSources2.app
+Tag: purpose::uikit, compatible_min::ios9, compatible_max::ios16
+Name: CSources2
+Author: DirtyBeans@ <DirtyBeans@ca.rr.com>
+Depiction: https://DirtyBeans.github.io/depictions/web/?p=[com.dirtybeans.csources2]
+SileoDepiction: https://DirtyBeans.github.io/depictions/native/com.dirtybeans.csources2/depiction.json
+Support: https://csources2.wordpress.com/update-history/
+Sponsor: Dirty Beans
+dev: dirtybeans
+Icon: https://dirtybeans.github.io/depictions/csources2/images/CSources2.png
+
+Package: com.dirtybeans.csources2
+Architecture: iphoneos-arm64
+Version: 933.1641-0
+Priority: extra
+Section: DirtyBeans.Utilities
+Maintainer: DirtyBeans <DirtyBeans@ca.rr.com>
+Installed-Size: 18722
+Pre-Depends: firmware (>= 9.3.3), firmware (<= 16.4.1)
+Recommends: com.dirtybeans.icon
+Suggests: com.dirtybeans.icon
+Conflicts: org.thebigboss.csources
+Replaces: org.thebigboss.csources
+Filename: ./debs/com.dirtybeans.csources2_933.1641-0_iphoneos-arm64.deb
+Size: 19205224
+MD5sum: 4edc35550a627b83facf2334387f1a8b
+SHA1: 10d5ab803b723a251717c324d1f861aaabfe5ba1
+SHA256: bc42b8336dd46376230b5db101b4f757ae2ccbe6731d25f6b981eb64dfc6d01d
+SHA512: df4bcb33de67ee53148ea8af45541522bc210ce2336450522b10170eb4e608f5d51d8d8b724fd5ca9e3cb4ee3b97dcd616fa56a79009263f27c976f1b2571ae0
 Homepage: https://DirtyBeans.github.io/
 Description: CSources2.app
 Tag: purpose::uikit, compatible_min::ios9, compatible_max::ios16

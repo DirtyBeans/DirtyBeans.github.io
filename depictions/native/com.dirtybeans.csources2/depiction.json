@@ -131,17 +131,17 @@
                 },
                 {
                     "title": "Version",
-                    "text": "933.1631-2",
+                    "text": "933.1641-0",
                     "class": "DepictionTableTextView"
                 },
                 {
                     "title": "Supports iOS",
-                    "text": "9.3.3 - 16.3.1",
+                    "text": "9.3.3 - 16.4.1",
                     "class": "DepictionTableTextView"
                 },
                 {
                     "title": "Released",
-                    "text": "04-18-2023",
+                    "text": "05-15-2023",
                     "class": "DepictionTableTextView"
                 },
                 {
@@ -397,6 +397,27 @@
             "tabname": "Changelog",
             "class": "DepictionStackView",
             "views": [
+                {
+                    "title": "933.1641-0",
+                    "useBoldText": true,
+                    "useBottomMargin": true,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "<ul><li>iOS 9.3.3 - 16.4.1 Support.</li><li>Added Dopamine Jailbreak Detection.</li><li>Converted Cydia Tweaks to Manager Tweaks.</li><li>Added Quick Bar.</li><li>Repo Details now show alive info.</li><li>Change Notification bubble size, ie: Is in Another List. Change in Settings.</li><li>Squashed some 🐞🐜🐛🕷🦟 's.</li></ul>",
+                    "useSpacing": false,
+                    "useRawFormat": true,
+                    "tintColor": "#48f96c",
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2023.04.17</small>",
+                    "useRawFormat": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "title": "933.1631-2",
                     "useBoldText": true,
