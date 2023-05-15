@@ -1,5 +1,5 @@
 {
-    "minVersion": "0.1",
+    "minVersion": "0.4",
     "headerImage": "https://dirtybeans.github.io/assets/repo/Banners/CS2UserIconsHeader.png",
     "tintColor": "#004fff",
     "class": "DepictionTabView",
