@@ -987,11 +987,11 @@ Suggests: com.dirtybeans.icon
 Conflicts: org.thebigboss.csources
 Replaces: org.thebigboss.csources
 Filename: ./debs/com.dirtybeans.csources2_933.1641-0_iphoneos-arm.deb
-Size: 19198348
-MD5sum: 56f0c9db258784eb159654c6fc0c9fb6
-SHA1: 6bfaa6107df241e19a0ce2ab87a1f28094a29166
-SHA256: 86c9066e16070804e661df6d430884c4454ea9ebbb7e0cf3ef1564a20404ccfb
-SHA512: 2e34c03da2ee4a553facde6a08521febcbcb89dc945421758ee74e3e0b825d9248534adde24ec4429711b4043c8e8408e935251fa7dd9b0c1a7599d082774861
+Size: 19206056
+MD5sum: e41591bb4acedccd5a097b46c1ee3218
+SHA1: 265b0e4a0b52ea28774acf7b05133b310255876e
+SHA256: d351f0c72d08eb4aff2a60a019eb4dc2b5e04fb8e52c49a7a9a61527a65ba27c
+SHA512: 6583d4fb99f84bef5dfd9be0025bdd55cf62c6fdd74e9dceca6c640e4e1d65c2aa3e82f029a98495f81e8bd2a122608d83651f18b0a6b24792d35013c90d7a4e
 Homepage: https://DirtyBeans.github.io/
 Description: CSources2.app
 Tag: purpose::uikit, compatible_min::ios9, compatible_max::ios16
@@ -1017,11 +1017,11 @@ Suggests: com.dirtybeans.icon
 Conflicts: org.thebigboss.csources
 Replaces: org.thebigboss.csources
 Filename: ./debs/com.dirtybeans.csources2_933.1641-0_iphoneos-arm64.deb
-Size: 19205224
-MD5sum: 4edc35550a627b83facf2334387f1a8b
-SHA1: 10d5ab803b723a251717c324d1f861aaabfe5ba1
-SHA256: bc42b8336dd46376230b5db101b4f757ae2ccbe6731d25f6b981eb64dfc6d01d
-SHA512: df4bcb33de67ee53148ea8af45541522bc210ce2336450522b10170eb4e608f5d51d8d8b724fd5ca9e3cb4ee3b97dcd616fa56a79009263f27c976f1b2571ae0
+Size: 19203768
+MD5sum: 49e25fd7bbd43bb6535d5db1611c0a4b
+SHA1: 936bee991345c437ae8d9f1b631e1e704647ea7f
+SHA256: d0b258f1bbd1154742cf90742af7db5c59961adad4baed3410e0e69df0b05fb4
+SHA512: 9b5aeac559149a0cb530b6b76333053766fcb9d5a595034f01210bb308109e9131b82e7392a841fc0ac32ce4ac493fac93079d1052537e4fa30356a0282f6c6f
 Homepage: https://DirtyBeans.github.io/
 Description: CSources2.app
 Tag: purpose::uikit, compatible_min::ios9, compatible_max::ios16
